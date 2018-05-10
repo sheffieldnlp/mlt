@@ -4,9 +4,7 @@ Multimodal Lexical Translation Dataset:
 A dataset of ambiguous words and its lexical translations together with visual and textual contexts (i.e. an image and sentence respectively)
 
 
-If you use this dataset, please cite:
-
-http://www.lrec-conf.org/proceedings/lrec2018/summaries/629.html
+If you use this dataset, please cite: http://www.lrec-conf.org/proceedings/lrec2018/summaries/629.html
 
 ## Format
 English_Word | Lexical_Translation | Textual_Context (A sentence) | Visual_Context (Image id)
