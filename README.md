@@ -15,4 +15,4 @@ Please download the images from
 http://www.quest.dcs.shef.ac.uk/wmt17_files_mmt/images_flickr.task1.tar.gz
 
 ## Note
-We are in the process of updating our datasets further in the coming months. Please do re-visit for us.
+We are in the process of updating our datasets further in the coming months. Please do re-visit us.
