@@ -12,5 +12,12 @@ English_Word | Lexical_Translation | Textual_Context (A sentence) | Visual_Conte
 Please download the images from 
 http://www.quest.dcs.shef.ac.uk/wmt17_files_mmt/images_flickr.task1.tar.gz
 
+## Human Annotation of 2018 test set
+The human annotations of 2018 test set is saved in files human.de and human.fr
+
+These are in the same format as above with an extra column where human annotators had indicated that image were used.
+
+English_Word | Lexical_Translations | Textual_Context (A sentence) | Visual_Context (Image id) | Was Image used? (yes/no)
+
 ## Note
 We are in the process of updating our datasets further in the coming months. Please do re-visit us.
