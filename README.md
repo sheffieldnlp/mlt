@@ -13,7 +13,7 @@ Please download the images from
 http://www.quest.dcs.shef.ac.uk/wmt17_files_mmt/images_flickr.task1.tar.gz
 
 ## Human Annotation of 2018 test set
-The human annotations of 2018 test set is saved in files human.de and human.fr
+The human annotations of 2018 test set is saved in files `human.de` and `human.fr`
 
 These are in the same format as above with an extra column where human annotators had indicated that image were used.
 
