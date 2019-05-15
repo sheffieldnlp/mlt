@@ -19,5 +19,3 @@ These are in the same format as above with an extra column where human annotator
 
 English_Word | Lexical_Translations | Textual_Context (A sentence) | Visual_Context (Image id) | Was Image used? (yes/no)
 
-## Note
-We are in the process of updating our datasets further in the coming months. Please do re-visit us.
