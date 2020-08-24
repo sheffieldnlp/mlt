@@ -1,0 +1,441 @@
+sign | panneau | a very crowded street sign pointing to attractions in multiple directions | un panneau de signalisation plein à craquer , indiquant des attractions dans plusieurs directions | COCO_val2014_000000260595.jpg
+surf | surf | several people are on a beach with surf boards and two of the guys are pointing toward the water . | plusieurs personnes sont sur une plage avec des planches de surf et deux des gars montrent l&apos; eau du doigt . | COCO_train2014_000000489853.jpg
+water | eau | several people are on a beach with surf boards and two of the guys are pointing toward the water . | plusieurs personnes sont sur une plage avec des planches de surf et deux des gars montrent l&apos; eau du doigt . | COCO_train2014_000000489853.jpg
+wearing | portant | a man wearing glasses and a suit points the finger as he speaks | un homme portant des lunettes et un costume pointe du doigt alors qu&apos; il parle | COCO_train2014_000000333337.jpg
+remote | télécommande | a person holding a remote control pointed at a television . | une personne tenant une télécommande pointée en direction d&apos; une télévision . | COCO_train2014_000000015220.jpg
+wave | vague | a wake boarder pointing at a wave breaking on the shore . | un wakeboarder montrant du doigt une vague qui s&apos; échoue sur le rivage | COCO_train2014_000000252443.jpg
+hand | main | a hand points a black and white remote toward a large screen . | une main pointe une télécommande noire et blanche vers un grand écran . | COCO_train2014_000000060624.jpg
+remote | télécommande | a hand points a black and white remote toward a large screen . | une main pointe une télécommande noire et blanche vers un grand écran . | COCO_train2014_000000060624.jpg
+screen | écran | a hand points a black and white remote toward a large screen . | une main pointe une télécommande noire et blanche vers un grand écran . | COCO_train2014_000000060624.jpg
+direction | direction | a man pointing in the opposite direction of the one way sign above him . | un homme pointant du doigt la direction opposée à celle du panneau sens unique au dessus de lui . | COCO_val2014_000000014392.jpg
+direction | sens | a man pointing in the opposite direction of the one way sign above him . | un homme pointant du doigt la direction opposée à celle du panneau sens unique au dessus de lui . | COCO_val2014_000000014392.jpg
+sign | panneau | a man pointing in the opposite direction of the one way sign above him . | un homme pointant du doigt la direction opposée à celle du panneau sens unique au dessus de lui . | COCO_val2014_000000014392.jpg
+remote | télécommande | a woman pointing a wii remote right at the camera | une femme pointant une télécommande wii en direction de la caméra | COCO_val2014_000000076572.jpg
+speaker | orateur | professional speaker on stage pointing out his coworker | un orateur professionnel sur scène montrant du doigt son collègue de travail | COCO_val2014_000000157771.jpg
+stage | scène | professional speaker on stage pointing out his coworker | un orateur professionnel sur scène montrant du doigt son collègue de travail | COCO_val2014_000000157771.jpg
+drink | boisson | there are two foods and one drink set on the clear table . | il y a deux aliments et une boisson posés sur une table transparente . | COCO_train2014_000000119621.jpg
+front | face | a man on a skateboard in front of a camera that has been set up . | un homme sur un skateboard en face d&apos; un appareil photo qui a été installé . | COCO_val2014_000000553942.jpg
+front | devant | a camera set up in front of a sleeping cat . | un appareil photo installé devant un chat qui dort . | COCO_val2014_000000242007.jpg
+train | train | the toy train set is set up and being photographed . | le petit train électrique est assemblé et en train d&apos; être photographié . | COCO_train2014_000000429980.jpg
+train | train | the toy train set is set up and being photographed . | le petit train électrique est assemblé et en train d&apos; être photographié . | COCO_train2014_000000429980.jpg
+female | femme | a man showing a female a large birthday cake . | un homme montrant un gros gâteau d&apos; anniversaire à une femme . | COCO_train2014_000000164100.jpg
+brown | marron | a man showing a brown horse to a group of people . | un homme montrant un cheval marron à un groupe de gens . | COCO_val2014_000000249532.jpg
+play | jouer | woman being shown how to play disc golf indoors | une femme à qui l&apos; on montre comment jouer au disc golf en intérieur . | COCO_train2014_000000308722.jpg
+paddle | paddle | a man showing a younger boy how to ride a paddle board . | un homme montrant à un jeune garçon comment faire du paddle . | COCO_train2014_000000575280.jpg
+desk | bureau | four pictures of a room showing a bed , pictures and a laptop on a desk . | quatre photographies d&apos; une pièce montrant un lit , des photos et un ordinateur portable sur un bureau . | COCO_train2014_000000175484.jpg
+bottle | bouteille | a woman showing a man a bottle of wine . | une femme qui montre une bouteille de vin à un homme . | COCO_train2014_000000487118.jpg
+dress | robe | a beautiful young woman in a green dress pulling up her dress to show off her thigh . | une belle jeune femme vêtue d&apos; une robe verte remontant sa robe pour montrer sa cuisse . | COCO_train2014_000000044298.jpg
+dress | robe | a beautiful young woman in a green dress pulling up her dress to show off her thigh . | une belle jeune femme vêtue d&apos; une robe verte remontant sa robe pour montrer sa cuisse . | COCO_train2014_000000044298.jpg
+dress | robe | a beautiful young woman in a green dress pulling up her dress to show off her thigh . | une belle jeune femme vêtue d&apos; une robe verte remontant sa robe pour montrer sa cuisse . | COCO_train2014_000000044298.jpg
+dress | robe | a beautiful young woman in a green dress pulling up her dress to show off her thigh . | une belle jeune femme vêtue d&apos; une robe verte remontant sa robe pour montrer sa cuisse . | COCO_train2014_000000044298.jpg
+show | montrer | a beautiful young woman in a green dress pulling up her dress to show off her thigh . | une belle jeune femme vêtue d&apos; une robe verte remontant sa robe pour montrer sa cuisse . | COCO_train2014_000000044298.jpg
+time | temps | a person in gloves showing the time on his watch | une personne portant des gants montrant le temps sur sa montre | COCO_val2014_000000080725.jpg
+watch | montre | a person in gloves showing the time on his watch | une personne portant des gants montrant le temps sur sa montre | COCO_val2014_000000080725.jpg
+hand | main | some friends are hand shaking in the baseball stadium . | des amis qui se serrent la main dans le stade de baseball . | COCO_train2014_000000122093.jpg
+motorcycle | moto | a man on a motorcycle is passing another vehicle . | un homme sur une moto dépasse un autre véhicule . | COCO_train2014_000000445192.jpg
+passing | passant | double decker red and white bus passing through a city downtown . | un bus à deux étages rouge et blanc passant par le centre-ville . | COCO_val2014_000000354027.jpg
+train | train | a red train on a track passing a building . | un train rouge sur une voie ferrée passant à coté d&apos; un immeuble . | COCO_train2014_000000510768.jpg
+track | voie | a red train on a track passing a building . | un train rouge sur une voie ferrée passant à coté d&apos; un immeuble . | COCO_train2014_000000510768.jpg
+passing | passant | a red train on a track passing a building . | un train rouge sur une voie ferrée passant à coté d&apos; un immeuble . | COCO_train2014_000000510768.jpg
+building | immeuble | a red train on a track passing a building . | un train rouge sur une voie ferrée passant à coté d&apos; un immeuble . | COCO_train2014_000000510768.jpg
+rider | cycliste | a bus passes by a bicycle rider and a motorcyclist . | un autobus dépasse un cycliste et un motocycliste . | COCO_train2014_000000483569.jpg
+water | eau | water passing under a bridge that cars are driving on top of . | l&apos; eau passe sous un pont sur lequel les voitures passent . | COCO_val2014_000000481563.jpg
+train | train | a train with steam engine is passing through a railway station . | un train à vapeur traverse une gare . | COCO_train2014_000000223755.jpg
+station | gare | a train with steam engine is passing through a railway station . | un train à vapeur traverse une gare . | COCO_train2014_000000223755.jpg
+train | train | a red train is passing over the water on a bridge . | un train rouge traverse l&apos; eau sur un pont . | COCO_train2014_000000486186.jpg
+water | eau | a red train is passing over the water on a bridge . | un train rouge traverse l&apos; eau sur un pont . | COCO_train2014_000000486186.jpg
+floor | sol | people passed out on the floor of a bathroom with urinals and a toilet . | des gens sont étalés sur le sol d&apos; une salle de bain avec des urinoirs et des toilettes . | COCO_val2014_000000276263.jpg
+floor | salle | people passed out on the floor of a bathroom with urinals and a toilet . | des gens sont étalés sur le sol d&apos; une salle de bain avec des urinoirs et des toilettes . | COCO_val2014_000000276263.jpg
+passing | passant | a group of people on motorcycles passing by buildings . | un groupe de personnes sur les motocyclettes passant à coté des bâtiments . | COCO_train2014_000000400702.jpg
+catch | attraper | a dog reaches into the air to catch a flying frisbee . | un chien saute dans l&apos; air pour attraper un frisbee volant . | COCO_train2014_000000423537.jpg
+flying | volant | a dog reaches into the air to catch a flying frisbee . | un chien saute dans l&apos; air pour attraper un frisbee volant . | COCO_train2014_000000423537.jpg
+grab | attraper | two young men reaching up to grab the same disc . | deux jeunes hommes étendant les bras pour attraper le même disque . | COCO_train2014_000000350358.jpg
+grab | attraper | a young boy reaching up to grab a red apple . | un jeune garçon étendant les bras pour attraper une pomme rouge . | COCO_val2014_000000359833.jpg
+hit | frapper | a woman reaching to hit a tennis ball with a racquet . | une femme s&apos; étendant pour frapper une balle de tennis avec une raquette . | COCO_train2014_000000112604.jpg
+ball | balle | a woman reaching to hit a tennis ball with a racquet . | une femme s&apos; étendant pour frapper une balle de tennis avec une raquette . | COCO_train2014_000000112604.jpg
+baby | bébé | a baby elephant reaching for grey bag at a zoo . | un bébé éléphant atteignant un sac gris dans un zoo . | COCO_val2014_000000083013.jpg
+hand | main | a plastic hand reaching towards a plastic toy blender . | une main en plastique atteignant un mélangeur jouets en plastique . | COCO_train2014_000000577416.jpg
+slice | tranche | a man reaching into a dish for a slice of pizza . | un homme atteignant un plat pour une tranche de pizza . | COCO_val2014_000000250614.jpg
+grab | attraper | a person reaching up to grab a soccer ball . | une personne étendant les bras pour attraper le ballon de soccer . | COCO_train2014_000000398609.jpg
+ball | ballon | a person reaching up to grab a soccer ball . | une personne étendant les bras pour attraper le ballon de soccer . | COCO_train2014_000000398609.jpg
+remote | télécommande | a person that is reaching for a remote control | une personne tente d&apos; atteindre une télécommande | COCO_train2014_000000117302.jpg
+hit | frapper | a tennis player reaches with her racket to hit a tennis ball | un joueur de tennis s&apos; étend avec sa raquette pour frapper une balle de tennis | COCO_train2014_000000439386.jpg
+ball | balle | a tennis player reaches with her racket to hit a tennis ball | un joueur de tennis s&apos; étend avec sa raquette pour frapper une balle de tennis | COCO_train2014_000000439386.jpg
+reach | atteindre | the girl is stretching to reach the tennis ball with her racket . | la jeune fille s&apos; allonge pour atteindre la balle de tennis avec sa raquette . | COCO_train2014_000000166310.jpg
+ball | balle | the girl is stretching to reach the tennis ball with her racket . | la jeune fille s&apos; allonge pour atteindre la balle de tennis avec sa raquette . | COCO_train2014_000000166310.jpg
+box | boîte | a man reaching down for something in a box | un homme s&apos; abaissant vers quelque chose dans une boîte | COCO_train2014_000000186646.jpg
+return | retourner | a man reaches with a racket to return a tennis ball . | un homme qui s&apos; étend avec une raquette pour retourner une balle de tennis . | COCO_train2014_000000142225.jpg
+ball | balle | a man reaches with a racket to return a tennis ball . | un homme qui s&apos; étend avec une raquette pour retourner une balle de tennis . | COCO_train2014_000000142225.jpg
+ball | balle | a woman in red heels reaching down for her tennis ball and racket . | une femme aux talons rouges s&apos; abaissant pour atteindre sa balle de tennis et sa raquette . | COCO_train2014_000000470700.jpg
+ladder | échelle | a man on a ladder trying to reach a book | un homme sur une échelle essayant d&apos; atteindre un livre | COCO_train2014_000000223701.jpg
+reach | atteindre | a man on a ladder trying to reach a book | un homme sur une échelle essayant d&apos; atteindre un livre | COCO_train2014_000000223701.jpg
+ball | balle | a woman reaching her arm out before she hits a tennis ball | une femme étend son bras juste avant de frapper une balle de tennis | COCO_train2014_000000551752.jpg
+hit | frapper | a woman reaching up in the air with a racket to hit an approaching ball | une femme sautant en haut avec une raquette pour frapper une balle approchante | COCO_train2014_000000288761.jpg
+ball | balle | a woman reaching up in the air with a racket to hit an approaching ball | une femme sautant en haut avec une raquette pour frapper une balle approchante | COCO_train2014_000000288761.jpg
+wild | sauvage | a horse reaching over a fence eating wild grass . | un cheval mangeant de l&apos; herbe sauvage à travers une clôture . | COCO_train2014_000000272159.jpg
+grass | herbe | a horse reaching over a fence eating wild grass . | un cheval mangeant de l&apos; herbe sauvage à travers une clôture . | COCO_train2014_000000272159.jpg
+bunch | groupe | a bunch of soccer players are playing a game | un groupe de footballeurs joue un match | COCO_val2014_000000140843.jpg
+ball | ballon | a couple of kids that are playing with a soccer ball . | quelques enfants qui jouent avec un ballon de foot . | COCO_val2014_000000477655.jpg
+field | terrain | several men are playing sports on a field near some trees , wall , bus , and several buildings in the background . | plusieurs hommes font des sports sur un terrain près de quelque arbres , un murs , un autobus et plusieurs bâtiments en arrière-plan . | COCO_val2014_000000130699.jpg
+park | parc | a man rests on a wooden park bench . | un homme se repose sur un banc de parc en bois . | COCO_train2014_000000262862.jpg
+head | tête | a dog is resting its head on its owners lap | un chien repose sa tête sur les genoux de son propriétaire | COCO_train2014_000000401836.jpg
+couple | couple | jogging couple resting on benches at the pier across the city view | un couple de joggeur reposant sur des bancs au quai qui offre un panorama sur toute la ville | COCO_val2014_000000292945.jpg
+city | ville | jogging couple resting on benches at the pier across the city view | un couple de joggeur reposant sur des bancs au quai qui offre un panorama sur toute la ville | COCO_val2014_000000292945.jpg
+head | tête | a woman resting her head on top of her right hand . | une femme repose sa tête sur sa main droite | COCO_train2014_000000443243.jpg
+right | droite | a woman resting her head on top of her right hand . | une femme repose sa tête sur sa main droite | COCO_train2014_000000443243.jpg
+hand | main | a woman resting her head on top of her right hand . | une femme repose sa tête sur sa main droite | COCO_train2014_000000443243.jpg
+middle | milieu | a skier is resting in the middle of a race . | un skieur repose au milieu d&apos; une course . | COCO_train2014_000000184672.jpg
+race | course | a skier is resting in the middle of a race . | un skieur repose au milieu d&apos; une course . | COCO_train2014_000000184672.jpg
+seat | siège | a beer resting on the seat of a motorcycle . | une bière est posée sur le siège d&apos; une moto . | COCO_train2014_000000045222.jpg
+motorcycle | moto | a beer resting on the seat of a motorcycle . | une bière est posée sur le siège d&apos; une moto . | COCO_train2014_000000045222.jpg
+next | côté | a persons feet up and resting on a chair next to a black cat . | une personne pieds en haut et reposant sur une chaise à côté d&apos; un chat noir . | COCO_train2014_000000203976.jpg
+couple | couple | a couple of women walking down a street under a pink umbrella . | un couple de femmes marchent dans une rue sous un parapluie rose . | COCO_val2014_000000219909.jpg
+umbrella | parapluie | a couple of women walking down a street under a pink umbrella . | un couple de femmes marchent dans une rue sous un parapluie rose . | COCO_val2014_000000219909.jpg
+water | eau | two people are walking along the water with umbrellas . | deux personnes marchent le long de l&apos; eau avec des parapluies . | COCO_val2014_000000560613.jpg
+surf | surf | a young man with a surf board is walking away from the water . | un jeune homme avec une planche de surf s&apos; éloigne de l&apos; eau . | COCO_val2014_000000053754.jpg
+board | planche | a young man with a surf board is walking away from the water . | un jeune homme avec une planche de surf s&apos; éloigne de l&apos; eau . | COCO_val2014_000000053754.jpg
+board | surf | a young man with a surf board is walking away from the water . | un jeune homme avec une planche de surf s&apos; éloigne de l&apos; eau . | COCO_val2014_000000053754.jpg
+water | eau | a young man with a surf board is walking away from the water . | un jeune homme avec une planche de surf s&apos; éloigne de l&apos; eau . | COCO_val2014_000000053754.jpg
+snow | neige | two people are walking the dog through the snow . | deux personnes promènent leur chien dans la neige . | COCO_val2014_000000106900.jpg
+couple | couple | a couple of men walking past a red double decker bus . | un couple d&apos; hommes marchant devant un bus rouge à deux étages . | COCO_val2014_000000412437.jpg
+couple | deux | a couple of men walking past a red double decker bus . | un couple d&apos; hommes marchant devant un bus rouge à deux étages . | COCO_val2014_000000412437.jpg
+train | train | a man walking past a train at a train station . | un homme qui dépasse un train dans une gare . | COCO_val2014_000000484166.jpg
+train | train | a man walking past a train at a train station . | un homme qui dépasse un train dans une gare . | COCO_val2014_000000484166.jpg
+station | gare | a man walking past a train at a train station . | un homme qui dépasse un train dans une gare . | COCO_val2014_000000484166.jpg
+putting | mettre | a woman finishes putting tomatoes on a pizza . | une femme finit de mettre des tomates sur une pizza . | COCO_train2014_000000433618.jpg
+hat | chapeau | the young girl puts a silly red hat on her dog &apos;s head . | la jeune fille met un chapeau rouge stupide sur la tête de son chien . | COCO_train2014_000000280450.jpg
+head | tête | the young girl puts a silly red hat on her dog &apos;s head . | la jeune fille met un chapeau rouge stupide sur la tête de son chien . | COCO_train2014_000000280450.jpg
+looking | regardant | a woman putting on a jacket while looking at a clock | une femme mettant une veste en regardant une horloge | COCO_train2014_000000277003.jpg
+chef | chef | a woman chef is putting food on a plate . | une femme chef met de la nourriture sur une assiette . | COCO_train2014_000000208646.jpg
+season | saison | man putting decorations on tree during holiday season . | l&apos; homme met des décorations sur le sapin pendant la saison des fêtes . | COCO_train2014_000000280951.jpg
+tie | cravate | there is a man putting on a tie . | il y a un homme qui met une cravate . | COCO_train2014_000000544623.jpg
+snow | neige | a snow skier putting on skis in the snow near a building . | un skieur mettant des skis dans la neige près d&apos; un bâtiment . | COCO_train2014_000000035241.jpg
+snow | neige | a snow skier putting on skis in the snow near a building . | un skieur mettant des skis dans la neige près d&apos; un bâtiment . | COCO_train2014_000000035241.jpg
+building | bâtiment | a snow skier putting on skis in the snow near a building . | un skieur mettant des skis dans la neige près d&apos; un bâtiment . | COCO_train2014_000000035241.jpg
+turkey | dinde | a man putting a turkey in the oven | un homme mettant une dinde dans le four | COCO_train2014_000000305709.jpg
+train | train | a porter is putting luggage on a dolly by a train . | un portier met des bagages sur un porte-bagages à coté d&apos; un train . | COCO_train2014_000000524249.jpg
+climb | grimper | a man trying to climb a big red chair with a fake horse on it . | un homme essayant de grimper une grande chaise rouge avec un faux cheval sur elle . | COCO_train2014_000000385016.jpg
+tub | baignoire | a black cat climbing into a bath tub . | un chat noir grimpant dans une baignoire . | COCO_train2014_000000303592.jpg
+climb | escalader | a man is trying to climb a stop sign pole . | un homme tente d&apos; escalader un poteau de stop . | COCO_train2014_000000382107.jpg
+floor | sol | a young girl climbing out of a suitcase on the floor | une jeune fille sort d&apos; une valise sur le sol | COCO_train2014_000000256533.jpg
+side | côté | people climbing up the snowy mountain side on skis | les gens grimpent le côté de la montagne enneigée sur les skis | COCO_val2014_000000424551.jpg
+truck | camion | a man is climbing up a silo because his truck is full . | un homme monte sur un silo parce que son camion est plein . | COCO_train2014_000000314855.jpg
+brush | brosser | a woman tries to brush her teeth with a huge tooth brush in a store . | une femme essaie de se brosser les dents avec une brosse à dents énorme dans un magasin . | COCO_train2014_000000020417.jpg
+brush | brosse | a woman tries to brush her teeth with a huge tooth brush in a store . | une femme essaie de se brosser les dents avec une brosse à dents énorme dans un magasin . | COCO_train2014_000000020417.jpg
+brush | brosser | a woman tries to brush her teeth with a huge tooth brush in a store . | une femme essaie de se brosser les dents avec une brosse à dents énorme dans un magasin . | COCO_train2014_000000020417.jpg
+brush | brosse | a woman tries to brush her teeth with a huge tooth brush in a store . | une femme essaie de se brosser les dents avec une brosse à dents énorme dans un magasin . | COCO_train2014_000000020417.jpg
+ball | balle | a baseball player has just pitched a ball . | un joueur de baseball vient de lancer une balle . | COCO_train2014_000000277389.jpg
+snow | neige | a tent pitched in the snow with trees and skis nearby . | une tente montée dans la neige avec des arbres et des skis à proximité . | COCO_train2014_000000396696.jpg
+nearby | proximité | a tent pitched in the snow with trees and skis nearby . | une tente montée dans la neige avec des arbres et des skis à proximité . | COCO_train2014_000000396696.jpg
+catch | attraper | a baseball player runs to catch a ball that has been pitched | un joueur de baseball court pour attraper une balle qui a été lancée | COCO_train2014_000000204537.jpg
+ball | balle | a baseball player runs to catch a ball that has been pitched | un joueur de baseball court pour attraper une balle qui a été lancée | COCO_train2014_000000204537.jpg
+ski | ski | adult carrying a child in full gear , including skiis at the bottom of a ski slope . | un adulte portant un enfant entièrement équipé , y compris les skis , au pied d&apos; une piste de ski . | COCO_val2014_000000121839.jpg
+running | court | a black dog running on a field of snow . | un chien noir court sur un champ de neige . | COCO_train2014_000000377422.jpg
+field | champ | a black dog running on a field of snow . | un chien noir court sur un champ de neige . | COCO_train2014_000000377422.jpg
+snow | neige | a black dog running on a field of snow . | un chien noir court sur un champ de neige . | COCO_train2014_000000377422.jpg
+hit | frapper | a tennis player runs in order to hit the ball . | un joueur de tennis court pour frapper le ballon . | COCO_val2014_000000256221.jpg
+ball | ballon | a tennis player runs in order to hit the ball . | un joueur de tennis court pour frapper le ballon . | COCO_val2014_000000256221.jpg
+train | train | an elevated concrete roadway runs parallel to train tracks . | une chaussée en béton élevé s&apos; étend parallèlement aux voies de train . | COCO_val2014_000000418152.jpg
+ball | ballon | two people running after a soccer ball on a grass field . | deux personnes qui courent derrière un ballon de football sur un terrain gazonné . | COCO_train2014_000000351451.jpg
+field | terrain | two people running after a soccer ball on a grass field . | deux personnes qui courent derrière un ballon de football sur un terrain gazonné . | COCO_train2014_000000351451.jpg
+running | court | a woman is running along a sidewalk while a dog is on top of a skateboard . | une femme court le long d&apos; un trottoir alors qu&apos; un chien est au-dessus d&apos; une planche à roulettes . | COCO_train2014_000000125351.jpg
+field | terrain | several men and women in soccer uniforms run around a field with many people and stands on the sidelines . | plusieurs hommes et femmes en uniformes de foot courent dans un terrain avec beaucoup de tables et de stands sur la touche . | COCO_val2014_000000019446.jpg
+surfer | surfeur | a surfer runs into the waves on a beaching with his surfboard | un surfeur court vers les vagues sur une plage avec sa planche de surf | COCO_val2014_000000401897.jpg
+side | côté | a bus turned over on its side in a horrific crash . | un bus renversé sur son côté dans un accident terrible . | COCO_val2014_000000245818.jpg
+crash | accident | a bus turned over on its side in a horrific crash . | un bus renversé sur son côté dans un accident terrible . | COCO_val2014_000000245818.jpg
+turning | tournant | large yellow commuter bus turning on a city street . | grand autobus-navette jaune tournant sur une rue de la ville . | COCO_train2014_000000387401.jpg
+city | ville | large yellow commuter bus turning on a city street . | grand autobus-navette jaune tournant sur une rue de la ville . | COCO_train2014_000000387401.jpg
+road | route | a taxi turned sideways on a busy road . | un taxi tourne de l&apos; autre coté sur une route très fréquentée . | COCO_val2014_000000311471.jpg
+city | ville | a blue and green bus turning down a city road . | un bus vert et bleu descendant une route dans la ville . | COCO_val2014_000000296775.jpg
+road | route | a blue and green bus turning down a city road . | un bus vert et bleu descendant une route dans la ville . | COCO_val2014_000000296775.jpg
+water | eau | a very attractive young woman turning on the water in the shower . | une jeune femme très attirante ouvrant l&apos; eau dans la douche . | COCO_train2014_000000168287.jpg
+truck | camion | a fire truck turning at the corner of a road . | un camion de pompier tournant au coin d&apos; une route . | COCO_val2014_000000246057.jpg
+turning | tournant | a fire truck turning at the corner of a road . | un camion de pompier tournant au coin d&apos; une route . | COCO_val2014_000000246057.jpg
+road | route | a fire truck turning at the corner of a road . | un camion de pompier tournant au coin d&apos; une route . | COCO_val2014_000000246057.jpg
+fire | incendie | a man turns on a fire hydrant near a rocky hill . | un homme ouvre une borne incendie près d&apos; une colline rocheuse . | COCO_train2014_000000548726.jpg
+hill | colline | a man turns on a fire hydrant near a rocky hill . | un homme ouvre une borne incendie près d&apos; une colline rocheuse . | COCO_train2014_000000548726.jpg
+back | dos | man turning his back on his own reflection in a mirror . | l&apos; homme tourne le dos à son propre reflet dans un miroir . | COCO_val2014_000000450357.jpg
+view | vue | view of a hand turning on a white blender . | vue d&apos; une main en train d&apos; allumer un mélangeur blanc . | COCO_train2014_000000224825.jpg
+hand | main | view of a hand turning on a white blender . | vue d&apos; une main en train d&apos; allumer un mélangeur blanc . | COCO_train2014_000000224825.jpg
+door | porte | a man in a black shirt opens an oven door while looking at the inside of the oven . | un homme en maillot noire ouvre une porte de four en regardant à l&apos; intérieur . | COCO_train2014_000000552380.jpg
+looking | regardant | a man in a black shirt opens an oven door while looking at the inside of the oven . | un homme en maillot noire ouvre une porte de four en regardant à l&apos; intérieur . | COCO_train2014_000000552380.jpg
+bottle | bouteille | hey man that is opening up a bottle of wine . | hé l&apos; homme qui ouvre une bouteille de vin . | COCO_val2014_000000025394.jpg
+box | boîte | a person opening up a pizza box in a living room . | une personne ouvrant une boîte à pizza dans un salon . | COCO_val2014_000000053870.jpg
+watch | regardent | an elephant opening its mouth while two men watch . | un éléphant ouvrant sa bouche tandis que deux hommes regardent . | COCO_train2014_000000471136.jpg
+fire | incendie | a man opening a fire hydrant spewing out rusty water into a street . | un homme ouvrant une borne incendie crachant de l&apos; eau rouillée dans une rue . | COCO_val2014_000000273198.jpg
+water | eau | a man opening a fire hydrant spewing out rusty water into a street . | un homme ouvrant une borne incendie crachant de l&apos; eau rouillée dans une rue . | COCO_val2014_000000273198.jpg
+boat | bateau | small boat filled with fruit on a river filled with boats . | un petit bateau rempli de fruits sur une rivière rempli de bateaux . | COCO_train2014_000000242047.jpg
+class | classe | the class room is filled with quiet students . | la salle de classe est remplie d&apos; étudiants tranquilles . | COCO_train2014_000000117721.jpg
+fire | incendie | a young girl by a fire hydrant blowing bubbles . | une jeune fille à coté d&apos; une borne incendie soufflant des bulles . | COCO_train2014_000000374049.jpg
+ball | boule | a man is blowing into a plastic ball | un homme souffle dans une boule en plastique | COCO_train2014_000000474554.jpg
+place | endroit | a herd of animals being led to a place across the road . | un troupeau d&apos; animaux étant conduit à un endroit à travers la route . | COCO_train2014_000000559463.jpg
+road | route | a herd of animals being led to a place across the road . | un troupeau d&apos; animaux étant conduit à un endroit à travers la route . | COCO_train2014_000000559463.jpg
+color | couleur | a color guard with flags leading a parade down a street . | une garde de couleur avec des drapeaux menant un défilé dans une rue . | COCO_train2014_000000169340.jpg
+guard | garde | a color guard with flags leading a parade down a street . | une garde de couleur avec des drapeaux menant un défilé dans une rue . | COCO_train2014_000000169340.jpg
+crowd | foule | crowd of people stands and watch as guy on horseback leads a bunch of horses behind him | la foule de personnes se tient debout et regarde un mec à cheval menant un groupe de chevaux derrière lui | COCO_train2014_000000381683.jpg
+bunch | groupe | crowd of people stands and watch as guy on horseback leads a bunch of horses behind him | la foule de personnes se tient debout et regarde un mec à cheval menant un groupe de chevaux derrière lui | COCO_train2014_000000381683.jpg
+motorcycle | moto | a guy in the desert sitting on his motorcycle | un gars dans le désert assis sur sa moto | COCO_val2014_000000160190.jpg
+boat | bateau | a boat that is sitting in the water . | un bateau repose sur l&apos; eau . | COCO_val2014_000000093773.jpg
+water | eau | a boat that is sitting in the water . | un bateau repose sur l&apos; eau . | COCO_val2014_000000093773.jpg
+train | train | a train sitting on the tracks next to a platform . | un train sur les rails à côté d&apos; une plate-forme . | COCO_val2014_000000150091.jpg
+next | côté | a train sitting on the tracks next to a platform . | un train sur les rails à côté d&apos; une plate-forme . | COCO_val2014_000000150091.jpg
+platform | plate-forme | a train sitting on the tracks next to a platform . | un train sur les rails à côté d&apos; une plate-forme . | COCO_val2014_000000150091.jpg
+pile | tas | a man in blue shirt sitting on a pile of luggage . | un homme en chemise bleue assis sur un tas de bagages . | COCO_val2014_000000060700.jpg
+next | côté | a pizza sitting next to a bowl of salad . | une pizza posée à côté d&apos; un bol de salade . | COCO_val2014_000000075636.jpg
+bowl | bol | a pizza sitting next to a bowl of salad . | une pizza posée à côté d&apos; un bol de salade . | COCO_val2014_000000075636.jpg
+bunch | beaucoup | a bunch of children are sitting at a birthday party | beaucoup d&apos; enfants sont assis à une fête d&apos; anniversaire | COCO_val2014_000000242605.jpg
+party | fête | a bunch of children are sitting at a birthday party | beaucoup d&apos; enfants sont assis à une fête d&apos; anniversaire | COCO_val2014_000000242605.jpg
+hand | main | a man leans over with a tennis racket in hand | un homme s&apos; appuie sur une raquette de tennis en main | COCO_train2014_000000019714.jpg
+door | porte | a young child standing in a kitchen with the refrigerator door open and the child is leaning into the refrigerator with their back . | un jeune enfant debout dans une cuisine avec la porte du réfrigérateur ouverte et l&apos; enfant est penché dans le réfrigérateur avec le dos . | COCO_train2014_000000401416.jpg
+back | dos | a young child standing in a kitchen with the refrigerator door open and the child is leaning into the refrigerator with their back . | un jeune enfant debout dans une cuisine avec la porte du réfrigérateur ouverte et l&apos; enfant est penché dans le réfrigérateur avec le dos . | COCO_train2014_000000401416.jpg
+umbrella | parapluie | a closed umbrella leaning on a building wall | un parapluie fermé appuyé sur un mur de bâtiment | COCO_train2014_000000240596.jpg
+building | bâtiment | a closed umbrella leaning on a building wall | un parapluie fermé appuyé sur un mur de bâtiment | COCO_train2014_000000240596.jpg
+wall | mur | a closed umbrella leaning on a building wall | un parapluie fermé appuyé sur un mur de bâtiment | COCO_train2014_000000240596.jpg
+counter | comptoir | a girl with arms crossed leaning on counter over a rectangular pizza , by a wall calendar and containers . | une fille aux bras croisés s&apos; appuyant sur un comptoir au dessus d&apos; une pizza rectangulaire , à coté d&apos; un calendrier mural et de conteneurs . | COCO_train2014_000000095100.jpg
+desk | bureau | a man leans over a desk in a hotel room . | un homme s&apos; appuie sur un bureau dans une chambre d&apos; hôtel . | COCO_train2014_000000318203.jpg
+fall | tomber | a man leans back and gets ready to fall during part of the game . | un homme se recule et se prépare à tomber pendant une partie du jeu . | COCO_val2014_000000161634.jpg
+sign | panneau | a traffic jam at the corner with the leaning stop sign . | un embouteillage à l&apos; angle avec le panneau stop incliné . | COCO_train2014_000000124466.jpg
+blow | souffler | man with glasses in suit leaning over to blow out candles on a cake . | un homme avec des lunettes en costume penché pour souffler des bougies sur un gâteau . | COCO_train2014_000000016173.jpg
+sign | panneau | a stop sign is leaning to its side at an intersection . | un panneau stop est penché sur son côté à une intersection . | COCO_val2014_000000326428.jpg
+side | côté | a stop sign is leaning to its side at an intersection . | un panneau stop est penché sur son côté à une intersection . | COCO_val2014_000000326428.jpg
+dress | robe | a girl in a dress leaning back on a cow wearing a straw hat . | une jeune fille vêtue d&apos; une robe se penchant sur une vache portant un chapeau de paille . | COCO_train2014_000000355975.jpg
+wearing | portant | a girl in a dress leaning back on a cow wearing a straw hat . | une jeune fille vêtue d&apos; une robe se penchant sur une vache portant un chapeau de paille . | COCO_train2014_000000355975.jpg
+hat | chapeau | a girl in a dress leaning back on a cow wearing a straw hat . | une jeune fille vêtue d&apos; une robe se penchant sur une vache portant un chapeau de paille . | COCO_train2014_000000355975.jpg
+motorcycle | moto | a motorcycle racer on a track leaning into a curve . | un pilote de moto sur une piste incliné dans une courbe . | COCO_val2014_000000511145.jpg
+racer | pilote | a motorcycle racer on a track leaning into a curve . | un pilote de moto sur une piste incliné dans une courbe . | COCO_val2014_000000511145.jpg
+track | piste | a motorcycle racer on a track leaning into a curve . | un pilote de moto sur une piste incliné dans une courbe . | COCO_val2014_000000511145.jpg
+curve | courbe | a motorcycle racer on a track leaning into a curve . | un pilote de moto sur une piste incliné dans une courbe . | COCO_val2014_000000511145.jpg
+truck | camion | a truck crosses train tracks near an oncoming train . | un camion traverse les voies de train près d&apos; un train à venir . | COCO_val2014_000000007952.jpg
+train | train | a truck crosses train tracks near an oncoming train . | un camion traverse les voies de train près d&apos; un train à venir . | COCO_val2014_000000007952.jpg
+train | train | a truck crosses train tracks near an oncoming train . | un camion traverse les voies de train près d&apos; un train à venir . | COCO_val2014_000000007952.jpg
+train | train | a truck crosses train tracks near an oncoming train . | un camion traverse les voies de train près d&apos; un train à venir . | COCO_val2014_000000007952.jpg
+train | train | a truck crosses train tracks near an oncoming train . | un camion traverse les voies de train près d&apos; un train à venir . | COCO_val2014_000000007952.jpg
+city | ville | pedestrians cross at a crosswalk in a crowded city . | les piétons traversent un passage à niveau dans une ville bondée . | COCO_val2014_000000480140.jpg
+motorcycle | moto | two cars and a motorcycle on a road being crossed by a herd of elephants . | deux voitures et une moto sur une route traversée par un troupeau d&apos; éléphants . | COCO_train2014_000000538249.jpg
+road | route | two cars and a motorcycle on a road being crossed by a herd of elephants . | deux voitures et une moto sur une route traversée par un troupeau d&apos; éléphants . | COCO_train2014_000000538249.jpg
+remote | télécommande | a man crossing his eyes with a remote in his mouth . | un homme croisant les yeux avec une télécommande dans sa bouche . | COCO_val2014_000000491223.jpg
+boat | bateau | man paddling small boat on river in native land . | l&apos; homme dirige le petit bateau sur la rivière dans son pays natal . | COCO_train2014_000000070403.jpg
+water | eau | a woman on a surfboard is paddling in the water . | une femme sur une planche de surf barbote dans l&apos; eau . | COCO_train2014_000000014835.jpg
+water | eau | two fishermen paddling their boats along calm water . | deux pêcheurs naviguant leurs bateaux sur une eau calme . | COCO_train2014_000000575519.jpg
+pair | paire | pair of surfers paddling out to open ocean . | paire de surfeurs naviguant vers l&apos; océan . | COCO_val2014_000000214703.jpg
+cell | téléphone | a man writing something down while on a cell phone . | un homme qui écrit quelque chose alors qu&apos; il est au téléphone . | COCO_train2014_000000072988.jpg
+fire | incendie | the fire hydrant on the side of the road is painted green and white . | la bouche d&apos; incendie sur le côté de la route est peinte en vert et en blanc . | COCO_train2014_000000338987.jpg
+side | côté | the fire hydrant on the side of the road is painted green and white . | la bouche d&apos; incendie sur le côté de la route est peinte en vert et en blanc . | COCO_train2014_000000338987.jpg
+road | route | the fire hydrant on the side of the road is painted green and white . | la bouche d&apos; incendie sur le côté de la route est peinte en vert et en blanc . | COCO_train2014_000000338987.jpg
+building | bâtiment | a clock on a building with people painted around it . | une horloge sur un bâtiment avec des gens peints autour d&apos; elle . | COCO_val2014_000000579226.jpg
+fire | incendie | a fire hydrant painted like an american flag | une bouche d&apos; incendie peinte comme un drapeau américain | COCO_train2014_000000454177.jpg
+middle | milieu | appliances in the middle of a kitchen while it is being painted | appareils au milieu d&apos; une cuisine pendant qu&apos; elle est peinte | COCO_val2014_000000391539.jpg
+tight | moulant | a man in tight black shirts snow boarding | un homme en maillot noir moulant fait du snowboard . | COCO_train2014_000000222074.jpg
+skate | skateboard | several kids skate boarding under a bridge painted with graffiti | plusieurs enfants font du skateboard sous un pont décoré avec des graffiti | COCO_val2014_000000343753.jpg
+pot | marmite | a young woman stirring a steaming pot on a stove . | une jeune femme remuant une marmite qui fume sur une cuisinière . | COCO_train2014_000000248610.jpg
+stove | cuisinière | a young woman stirring a steaming pot on a stove . | une jeune femme remuant une marmite qui fume sur une cuisinière . | COCO_train2014_000000248610.jpg
+pot | casserole | a young child stirring a pot of food . | un jeune enfant remuant une casserole contenant des aliments . | COCO_train2014_000000326584.jpg
+fire | incendie | eyes and a frowning mouth have been drawn on this fire hydrant . | des yeux et une bouche renfrognée ont été dessinés sur cette bouche d&apos; incendie . | COCO_train2014_000000495013.jpg
+bowl | bol | a wooden bowl of bananas that someone has drawn faces on . | un bol en bois rempli de bananes sur lesquelles quelqu&apos; un a dessiné des visages . | COCO_train2014_000000540933.jpg
+dolly | diable | a man is moving an oven using a dolly . | un homme transporte un four avec un diable . | COCO_train2014_000000337575.jpg
+silver | argenté | a silver train is moving through a town | un train argenté se déplace dans une ville | COCO_train2014_000000541251.jpg
+train | train | a silver train is moving through a town | un train argenté se déplace dans une ville | COCO_train2014_000000541251.jpg
+move | déménager | eight movers helping someone move into heir new home | huit déménageurs aidant quelqu&apos; un à déménager dans son nouveau domicile | COCO_train2014_000000097391.jpg
+city | ville | fire trucks move down a city road , while children play nearby . | des camions de pompier descendent une route d&apos; une ville alors que des enfants jouent à proximité . | COCO_val2014_000000258395.jpg
+road | route | fire trucks move down a city road , while children play nearby . | des camions de pompier descendent une route d&apos; une ville alors que des enfants jouent à proximité . | COCO_val2014_000000258395.jpg
+play | jouent | fire trucks move down a city road , while children play nearby . | des camions de pompier descendent une route d&apos; une ville alors que des enfants jouent à proximité . | COCO_val2014_000000258395.jpg
+nearby | proximité | fire trucks move down a city road , while children play nearby . | des camions de pompier descendent une route d&apos; une ville alors que des enfants jouent à proximité . | COCO_val2014_000000258395.jpg
+old | ancien | an old model train moving down the tracks . | un ancien modèle de train circulant sur les rails . | COCO_train2014_000000504873.jpg
+model | modèle | an old model train moving down the tracks . | un ancien modèle de train circulant sur les rails . | COCO_train2014_000000504873.jpg
+train | train | an old model train moving down the tracks . | un ancien modèle de train circulant sur les rails . | COCO_train2014_000000504873.jpg
+hill | colline | three skiers skiing on a hill with two going down the hill and one moving up the hill . | trois skieurs skiant sur une colline dont deux vont vers le bas et un vers le haut . | COCO_train2014_000000014677.jpg
+hill | colline | three skiers skiing on a hill with two going down the hill and one moving up the hill . | trois skieurs skiant sur une colline dont deux vont vers le bas et un vers le haut . | COCO_train2014_000000014677.jpg
+hill | colline | three skiers skiing on a hill with two going down the hill and one moving up the hill . | trois skieurs skiant sur une colline dont deux vont vers le bas et un vers le haut . | COCO_train2014_000000014677.jpg
+truck | camion | two men are moving logs with a red truck | deux hommes déplacent des rondins avec un camion rouge | COCO_train2014_000000163273.jpg
+area | espace | the people move about and congregate in the public area next to the large white tent . | les gens s&apos; affairent et se rassemblent dans un espace public à côté d&apos; une grande tente blanche . | COCO_train2014_000000565108.jpg
+next | côté | the people move about and congregate in the public area next to the large white tent . | les gens s&apos; affairent et se rassemblent dans un espace public à côté d&apos; une grande tente blanche . | COCO_train2014_000000565108.jpg
+side | côté | a tennis player is moving to the side and is gripping his racquet with both hands . | un joueur de tennis se déplace sur le côté et tient sa raquette avec ses deux mains . | COCO_val2014_000000042743.jpg
+ball | balle | a man hitting a tennis ball on a court . | un homme frappant une balle de tennis sur un court . | COCO_val2014_000000566908.jpg
+hit | percuter | a person is skateboarding and has just hit a white cone . | une personne fait du skateboard et vient tout juste de percuter un plot blanc . | COCO_val2014_000000426182.jpg
+wearing | portant | a young boy wearing a catchers mitt while getting hit by a ball . | un jeune garçon portant une mitaine d&apos; attrapeur est frappé par une balle . | COCO_val2014_000000093985.jpg
+ball | balle | a young boy wearing a catchers mitt while getting hit by a ball . | un jeune garçon portant une mitaine d&apos; attrapeur est frappé par une balle . | COCO_val2014_000000093985.jpg
+carriage | calèche | a carriage carrying several people is being pulled by two horses . | une calèche transportant plusieurs personne est tirée par deux chevaux . | COCO_train2014_000000316377.jpg
+train | train | a passenger train is seen pulling up to a platform . | on voit un train de voyageurs s&apos; arrêter à un quai . | COCO_train2014_000000441132.jpg
+platform | quai | a passenger train is seen pulling up to a platform . | on voit un train de voyageurs s&apos; arrêter à un quai . | COCO_train2014_000000441132.jpg
+tug | remorqueur | a red tug boat pulling up to a rocky shoreline . | un remorqueur rouge s&apos; arrêtant sur un rivage rocheux . | COCO_val2014_000000371176.jpg
+train | train | a yellow and blue train pulling into a train station . | un train jaune te bleu s&apos; arrêtant dans une gare . | COCO_train2014_000000406188.jpg
+train | train | a yellow and blue train pulling into a train station . | un train jaune te bleu s&apos; arrêtant dans une gare . | COCO_train2014_000000406188.jpg
+station | gare | a yellow and blue train pulling into a train station . | un train jaune te bleu s&apos; arrêtant dans une gare . | COCO_train2014_000000406188.jpg
+boat | bateau | a boat pulling a water boarder along on a lake . | un bateau tirant un surfeur sur d&apos; un lac . | COCO_val2014_000000435308.jpg
+side | côté | the city bus has pulled over the side of the road . | l&apos; autobus s&apos; est arrêté sur le côté de la route . | COCO_val2014_000000076595.jpg
+road | route | the city bus has pulled over the side of the road . | l&apos; autobus s&apos; est arrêté sur le côté de la route . | COCO_val2014_000000076595.jpg
+boat | bateau | a motor boat leaves a wake as it pulls two waterskiers behind it . | un bateau à moteur laisse un sillage alors qu&apos; il tire deux skieurs nautiques derrière lui . | COCO_val2014_000000427111.jpg
+train | train | a train pulls in to the train station . | un train s&apos; arrête dans une gare . | COCO_val2014_000000119845.jpg
+train | train | a train pulls in to the train station . | un train s&apos; arrête dans une gare . | COCO_val2014_000000119845.jpg
+station | gare | a train pulls in to the train station . | un train s&apos; arrête dans une gare . | COCO_val2014_000000119845.jpg
+train | train | a train pulls past an apartment building and a sidewalk . | un train passe au milieu d&apos; un immeuble et d&apos; un trottoir . | COCO_train2014_000000251314.jpg
+building | immeuble | a train pulls past an apartment building and a sidewalk . | un train passe au milieu d&apos; un immeuble et d&apos; un trottoir . | COCO_train2014_000000251314.jpg
+reading | lire | a man is reading a book while another is holding a dog . | un homme est en train de lire un livre pendant qu&apos; un autre tient un chien . | COCO_train2014_000000141557.jpg
+umbrella | parapluie | a woman sitting under an umbrella while reading a book | une femme est assise sous un parapluie lisant un livre | COCO_train2014_000000473499.jpg
+reading | lisant | a woman sitting under an umbrella while reading a book | une femme est assise sous un parapluie lisant un livre | COCO_train2014_000000473499.jpg
+reading | lisant | a man reading a book to a child in a bed . | un homme lisant un livre à un enfant dans un lit . | COCO_val2014_000000068277.jpg
+reading | lire | young boy in the bed reading a book to his little sibling . | jeune garçon dans le lit en train de lire un livre à son petit frère . | COCO_train2014_000000274108.jpg
+watch | regardent | a woman adjusts clock while several people watch . | une femme règle une horloge alors que plusieurs personne regardent . | COCO_val2014_000000468704.jpg
+watch | regardent | onlookers at a zoo watch an african elephant . | des spectateurs à un zoo regardent un éléphant d&apos; afrique . | COCO_train2014_000000252018.jpg
+paddle | paddle | a group of paddle boarders watch the beach . | un groupe de gens faisant du paddle regardent la plage . | COCO_val2014_000000375285.jpg
+watch | regardent | a group of paddle boarders watch the beach . | un groupe de gens faisant du paddle regardent la plage . | COCO_val2014_000000375285.jpg
+play | jouer | people are watching others play a game of tennis . | des gens en regardent d&apos; autres jouer une partie de tennis . | COCO_train2014_000000516034.jpg
+watching | regarder | people are watching airplanes from behind a fence . | des gens sont en train de regarder des avions derrière une clôture . | COCO_train2014_000000564491.jpg
+female | femme | young female wrapped up in a colorful striped beach towel | jeune femme enveloppée dans une serviette de plage à rayures colorées | COCO_train2014_000000235314.jpg
+towel | serviette | young female wrapped up in a colorful striped beach towel | jeune femme enveloppée dans une serviette de plage à rayures colorées | COCO_train2014_000000235314.jpg
+towel | serviette | a woman wrapped in a towel after a shower brushing her hair | une femme enveloppée dans une serviette après une douche se brosse les cheveux | COCO_train2014_000000499552.jpg
+hand | main | a hand holding a hotdog with ketchup , mustard , and onions wrapped in foil . | une main tenant un hot dog avec du ketchup , de la moutarde et des oignons enroulés dans une feuille . | COCO_train2014_000000478080.jpg
+old | vieille | an old lady wrapped in a blanket eating food | une vieille femme enveloppée dans une couverture mangeant de la nourriture | COCO_train2014_000000379180.jpg
+towel | serviette | a small child wrapped in a towel on a bed . | un petit enfant enveloppé dans une serviette sur un lit . | COCO_train2014_000000315964.jpg
+bike | moto | a motorcyclist rounds a corner as his partner hangs off the bike . | un motocycliste prend un virage alors que son partenaire se penche de la moto . | COCO_val2014_000000372413.jpg
+wire | fil | a store with bunches of bananas hanging from a wire . | un magasin avec des régimes de bananes suspendues à un fil . | COCO_train2014_000000242582.jpg
+outside | extérieur | some colorful kites hanging outside an old building . | plusieurs cerfs-volants colorés suspendus à l&apos; extérieur d&apos; un ancien bâtiment . | COCO_train2014_000000424596.jpg
+old | ancien | some colorful kites hanging outside an old building . | plusieurs cerfs-volants colorés suspendus à l&apos; extérieur d&apos; un ancien bâtiment . | COCO_train2014_000000424596.jpg
+building | bâtiment | some colorful kites hanging outside an old building . | plusieurs cerfs-volants colorés suspendus à l&apos; extérieur d&apos; un ancien bâtiment . | COCO_train2014_000000424596.jpg
+brown | marron | a lady that is hanging onto a brown jeep | une femme se tient à une jeep marron | COCO_train2014_000000099422.jpg
+field | terrain | a man on a field breaking a baseball bat . | un homme sur un terrain qui brise une batte de baseball . | COCO_train2014_000000310588.jpg
+truck | camionnette | an old image of a pickup truck broken down on the side of the road . | une ancienne image d&apos; une camionnette démontée sur le côté de la route . | COCO_train2014_000000016486.jpg
+side | côté | an old image of a pickup truck broken down on the side of the road . | une ancienne image d&apos; une camionnette démontée sur le côté de la route . | COCO_train2014_000000016486.jpg
+road | route | an old image of a pickup truck broken down on the side of the road . | une ancienne image d&apos; une camionnette démontée sur le côté de la route . | COCO_train2014_000000016486.jpg
+hammer | marteau | a young boy breaking a toilet apart with a small hammer . | un jeune garçon cassant des toilettes avec un petit marteau . | COCO_train2014_000000174071.jpg
+lawn | pelouse | a street light broken in half on someones lawn | un feu tricolore brisé en deux sur la pelouse de quelqu&apos; un | COCO_train2014_000000074466.jpg
+wave | vague | a person is mid air while falling off a surfboard an a large wave . | une personne est en l&apos; air tout en tombant de la planche de surf et d&apos; une grande vague . | COCO_train2014_000000465936.jpg
+next | côté | a woman falling asleep next to a man , who are both sitting down . | une femme s&apos; endormant à côté d&apos; un homme , tous deux assis . | COCO_val2014_000000394677.jpg
+water | eau | man falling into the water as the wave knocks him off his surfboard | l&apos; homme tombe dans l&apos; eau alors que la vague le fait tomber de sa planche de surf | COCO_val2014_000000408288.jpg
+wave | vague | man falling into the water as the wave knocks him off his surfboard | l&apos; homme tombe dans l&apos; eau alors que la vague le fait tomber de sa planche de surf | COCO_val2014_000000408288.jpg
+fall | tomber | a person doing tricks on a skateboard about to fall | une personne faisant des acrobaties sur une planche à roulettes est sur le point de tomber | COCO_val2014_000000373007.jpg
+snow | neige | a person on a snowboard has fallen down on the snow | une personne sur un snowboard est tombée sur la neige | COCO_train2014_000000218319.jpg
+catch | attraper | a man falls while trying to catch a wave surfing | un homme tombe en essayant d&apos; attraper une vague en surfant | COCO_train2014_000000251511.jpg
+wave | vague | a man falls while trying to catch a wave surfing | un homme tombe en essayant d&apos; attraper une vague en surfant | COCO_train2014_000000251511.jpg
+wearing | portant | a person wearing skis falling down on a snow covered ski slope . | une personne portant des skis tombant sur une piste de ski couverte de neige . | COCO_train2014_000000046003.jpg
+snow | neige | a person wearing skis falling down on a snow covered ski slope . | une personne portant des skis tombant sur une piste de ski couverte de neige . | COCO_train2014_000000046003.jpg
+ski | ski | a person wearing skis falling down on a snow covered ski slope . | une personne portant des skis tombant sur une piste de ski couverte de neige . | COCO_train2014_000000046003.jpg
+hat | bonnet | a man falls down and his hat goes flying while snowboarding . | un homme tombe et son bonnet vole pendant qu&apos; il snowboard . | COCO_val2014_000000385154.jpg
+fallen | tombé | two men are snow skiing and one has fallen down . | deux hommes sont en ski et l&apos; un est tombé . | COCO_train2014_000000455717.jpg
+middle | milieu | some people standing in the middle of the street lined with motorcycles . | quelques personnes debout au milieu de la rue bordées de motos . | COCO_train2014_000000038923.jpg
+microphone | microphone | some of the catholic school children are lined up in single file before the microphone . | certains enfants de l&apos; école catholique sont alignés en une seule file devant le microphone . | COCO_train2014_000000498639.jpg
+bunch | tas | a bunch of motorcycles that are lined up together . | un tas de motos qui sont alignées ensemble . | COCO_train2014_000000355967.jpg
+busy | occupé | cars line up to coin meters on at a busy sidewalk | les voitures s&apos; alignent sur des parcmètre sur un trottoir occupé | COCO_val2014_000000485123.jpg
+brush | brosse | a man without a shirt holding a purple tooth brush . | un homme sans chemise tenant une brosse à dents violette . | COCO_val2014_000000459752.jpg
+remote | télécommande | a man standing with his eyes closed holding on to a wii remote . | un homme debout avec les yeux fermés tenant sur une télécommande wii . | COCO_val2014_000000478664.jpg
+umbrella | parapluie | a young boy sitting on the ground while holding an umbrella . | un jeune garçon assis sur le sol en tenant un parapluie . | COCO_val2014_000000391642.jpg
+wearing | portant | a girl with pale skin wearing a hoodie holds up a toothbrush . | une fille avec la peau pâle portant un sweat à capuche tient une brosse à dents . | COCO_val2014_000000504621.jpg
+baby | bébé | baby in yellow holds on to her teddy bear . | le bébé en jaune tient son ours en peluche . | COCO_val2014_000000094174.jpg
+wearing | portant | a man wearing a hat sitting under a tv mounted on a wall . | un homme portant une casquette assis sous un téléviseur fixé sur un mur . | COCO_train2014_000000530284.jpg
+hat | casquette | a man wearing a hat sitting under a tv mounted on a wall . | un homme portant une casquette assis sous un téléviseur fixé sur un mur . | COCO_train2014_000000530284.jpg
+wall | mur | a man wearing a hat sitting under a tv mounted on a wall . | un homme portant une casquette assis sous un téléviseur fixé sur un mur . | COCO_train2014_000000530284.jpg
+old | ancien | an old stone building with a clock mounted on the side . | un ancien bâtiment en pierre avec une horloge fixée sur le côté . | COCO_val2014_000000040711.jpg
+building | bâtiment | an old stone building with a clock mounted on the side . | un ancien bâtiment en pierre avec une horloge fixée sur le côté . | COCO_val2014_000000040711.jpg
+side | côté | an old stone building with a clock mounted on the side . | un ancien bâtiment en pierre avec une horloge fixée sur le côté . | COCO_val2014_000000040711.jpg
+side | côté | a large clock mounted to the side of a building . | une grande horloge montée sur le côté d&apos; un bâtiment . | COCO_val2014_000000214737.jpg
+building | bâtiment | a large clock mounted to the side of a building . | une grande horloge montée sur le côté d&apos; un bâtiment . | COCO_val2014_000000214737.jpg
+screen | écran | a flat screen television is mounted by the stairs . | un téléviseur à écran plat est monté à côté des escaliers . | COCO_train2014_000000442785.jpg
+hat | chapeau | a man in camouflage and a black hat mounting a horse . | un homme en tenue de camouflage et un chapeau noir montant un cheval . | COCO_train2014_000000072793.jpg
+crowd | foule | a large crowd watches a tennis player while he serves a ball . | une grande foule regarde un joueur de tennis alors qu&apos; il sert une balle . | COCO_val2014_000000301011.jpg
+ball | balle | a large crowd watches a tennis player while he serves a ball . | une grande foule regarde un joueur de tennis alors qu&apos; il sert une balle . | COCO_val2014_000000301011.jpg
+ball | ballon | a woman on a tennis court about to serve the ball . | une femme sur le point de servir le ballon dans un terrain de tennis . | COCO_train2014_000000039467.jpg
+truck | camion | a food truck serving calamari sandwiched between other food trucks . | un camion de nourriture servant des calamars coincé entre d&apos; autres camions de nourriture . | COCO_train2014_000000092914.jpg
+tower | tour | a large clock tower is lit up on a shore . | une grande tour d&apos; horloge est éclairée sur un rivage . | COCO_val2014_000000209935.jpg
+wave | vague | two people on surfboards with one riding a wave towards the other . | deux personnes sur des planches de surf , dont une montant une vague en direction de l&apos; autre . | COCO_val2014_000000223751.jpg
+surfer | surfeur | a surfer is riding a big wave in the ocean . | un surfeur monte une grande vague dans l&apos; océan . | COCO_val2014_000000145750.jpg
+wave | vague | a surfer is riding a big wave in the ocean . | un surfeur monte une grande vague dans l&apos; océan . | COCO_val2014_000000145750.jpg
+dirt | terre | a man is riding a horse in a dirt enclosure . | un homme monte à cheval dans un enclos en terre battue . | COCO_val2014_000000465973.jpg
+bike | vélo | a woman rides her bike while on her smartphone . | une femme monte son vélo pendant qu&apos; elle se penche sur son smartphone . | COCO_val2014_000000144333.jpg
+truck | camion | a truck covered in graffiti sitting on a street with other vehicles | un camion recouvert de graffitis stationné sur une rue à coté d&apos; autres véhicules | COCO_val2014_000000520043.jpg
+ski | ski | a group of men riding skis down a snow covered ski slope . | un groupe d&apos; hommes , skis aux pieds , sur une pentes de ski enneigées . | COCO_train2014_000000308777.jpg
+motorcycle | moto | a man covering his eyes from sun on a motorcycle | un homme couvrant ses yeux du soleil sur une moto | COCO_train2014_000000055637.jpg
+next | côté | a man covering his eyes next to cases of bananas | un homme couvrant ses yeux à côté des boîtiers de bananes | COCO_val2014_000000527029.jpg
+pair | paire | a pair of doughnuts are covered in messy toppings | une paire de beignets couverts de garnitures désordonnée | COCO_val2014_000000050034.jpg
+side | côté | a person half covered by a blue sheet laying on their side . | une personne à moitié couverte d&apos; un drap bleu couchée sur le côté . | COCO_train2014_000000446539.jpg
+city | ville | a city bus driving down a crowded city street . | un autobus de la ville traversant une rue encombrée dans la ville . | COCO_val2014_000000531286.jpg
+city | ville | a city bus driving down a crowded city street . | un autobus de la ville traversant une rue encombrée dans la ville . | COCO_val2014_000000531286.jpg
+city | ville | a city bus driving down a crowded city street . | un autobus de la ville traversant une rue encombrée dans la ville . | COCO_val2014_000000531286.jpg
+city | ville | a city bus driving down a crowded city street . | un autobus de la ville traversant une rue encombrée dans la ville . | COCO_val2014_000000531286.jpg
+bunch | groupe | a bunch of buses driving along a road with cars . | un groupe d&apos; autobus roulant le long d&apos; une route avec des voitures . | COCO_val2014_000000491793.jpg
+road | route | a bunch of buses driving along a road with cars . | un groupe d&apos; autobus roulant le long d&apos; une route avec des voitures . | COCO_val2014_000000491793.jpg
+next | côté | two cars driving down a street next to a green bus . | deux voitures roulant dans une rue à côté d&apos; un bus vert . | COCO_val2014_000000458613.jpg
+overpass | pont | a person driving a car towards an overpass . | une personne conduisant une voiture vers un pont . | COCO_val2014_000000368663.jpg
+stop | arrêt | a bus is driving away from a bus stop . | un autobus s&apos; éloigne d&apos; un arrêt de bus . | COCO_val2014_000000038540.jpg
+boat | bateau | a man driving a boat along the river | un homme conduisant un bateau le long de la rivière | COCO_val2014_000000194756.jpg
+truck | camion | a truck covered in ads drives in a desert area . | un camion recouvert d&apos; annonces roule dans une zone désertique . | COCO_val2014_000000138730.jpg
+area | zone | a truck covered in ads drives in a desert area . | un camion recouvert d&apos; annonces roule dans une zone désertique . | COCO_val2014_000000138730.jpg
+sign | panneau | cars driving by a gas station with a big sign | des voitures traversent à coté d&apos; une station-service avec un grand panneau | COCO_val2014_000000450223.jpg
+glass | verre | the woman is pouring wine into the glass . | la femme verse du vin dans le verre . | COCO_train2014_000000220795.jpg
+drink | boisson | a girl pouring a drink out of a blender . | une fille versant une boisson d&apos; un mélangeur . | COCO_train2014_000000109077.jpg
+drink | boisson | a drink being poured into a white cup . | une boisson en train d&apos; être versée dans une tasse blanche . | COCO_train2014_000000242847.jpg
+chef | chef | a chef in a kitchen pours gravy on one of several plates of food . | un chef cuisinier verse de la sauce sur l&apos; une des nombreuses assiettes de nourriture . | COCO_train2014_000000300542.jpg
+chef | cuisinier | a chef in a kitchen pours gravy on one of several plates of food . | un chef cuisinier verse de la sauce sur l&apos; une des nombreuses assiettes de nourriture . | COCO_train2014_000000300542.jpg
+truck | camion | a cement truck pours fresh cement on the road . | un camion de ciment verse du ciment frais sur la route . | COCO_train2014_000000250008.jpg
+road | route | a cement truck pours fresh cement on the road . | un camion de ciment verse du ciment frais sur la route . | COCO_train2014_000000250008.jpg
+batter | pâte | a person pouring cake batter into a pan with a utensil . | une personne versant une pâte à gâteau dans une casserole avec un ustensile . | COCO_train2014_000000545033.jpg
+glass | verre | a young woman pouring a glass of wine . | une jeune femme remplissant un verre de vin . | COCO_train2014_000000093030.jpg
+container | récipient | beer being poured in a container full of hotdogs . | la bière versée dans un récipient rempli de hot-dogs . | COCO_val2014_000000500871.jpg
+glass | verre | a woman pouring a man a glass of wine . | une femme versant à un homme un verre de vin . | COCO_train2014_000000438071.jpg
+microphone | microphone | a woman speaks into her microphone while looking at the cow . | une femme parle dans son microphone en regardant la vache . | COCO_val2014_000000164366.jpg
+looking | regardant | a woman speaks into her microphone while looking at the cow . | une femme parle dans son microphone en regardant la vache . | COCO_val2014_000000164366.jpg
+cell | téléphone | a young woman looks at her cell phone . | une jeune femme regarde son téléphone portable . | COCO_train2014_000000535137.jpg
+cell | portable | a young woman looks at her cell phone . | une jeune femme regarde son téléphone portable . | COCO_train2014_000000535137.jpg
+city | ville | a lady looks out onto the city from behind a giant clock . | une dame regarde la ville derrière une horloge géante . | COCO_val2014_000000054335.jpg
+looking | regardant | a dog with its tongue out looking up at a frisbee by a man | un chien tire la langue en regardant un frisbee à coté d&apos; un homme | COCO_train2014_000000344127.jpg
+looking | regardant | a person looking down at his own shoes and the top of a dog &apos;s head . | une personne regardant ses propres chaussures au-dessus de la tête d&apos; un chien . | COCO_train2014_000000296946.jpg
+head | tête | a person looking down at his own shoes and the top of a dog &apos;s head . | une personne regardant ses propres chaussures au-dessus de la tête d&apos; un chien . | COCO_train2014_000000296946.jpg
+place | lieu | some signs for a food place with one looking like a stop sign | quelques signes pour un lieu de restauration dont un semblable à un panneau d&apos; arrêt | COCO_val2014_000000216972.jpg
+stop | arrêt | some signs for a food place with one looking like a stop sign | quelques signes pour un lieu de restauration dont un semblable à un panneau d&apos; arrêt | COCO_val2014_000000216972.jpg
+sign | panneau | some signs for a food place with one looking like a stop sign | quelques signes pour un lieu de restauration dont un semblable à un panneau d&apos; arrêt | COCO_val2014_000000216972.jpg
+looking | regardant | a woman on skis looking back to the person behind her | une femme sur les skis regardant la personne derrière elle | COCO_train2014_000000054001.jpg
+back | derrière | a woman on skis looking back to the person behind her | une femme sur les skis regardant la personne derrière elle | COCO_train2014_000000054001.jpg
+looking | regardant | young man looking into the inside of a refrigerator through bottles . | un jeune homme regardant l&apos; intérieur d&apos; un réfrigérateur à travers des bouteilles . | COCO_val2014_000000302716.jpg
+race | course | two motorcycles racing down a race track in front of a hertz rental advertisement . | deux motos faisant une course devant une annonce de location hertz . | COCO_train2014_000000431012.jpg
+front | devant | two motorcycles racing down a race track in front of a hertz rental advertisement . | deux motos faisant une course devant une annonce de location hertz . | COCO_train2014_000000431012.jpg
+race | courir | two jockeys race their horses down a track . | deux jockeys font courir leurs chevaux sur une piste . | COCO_val2014_000000228914.jpg
+track | piste | two jockeys race their horses down a track . | deux jockeys font courir leurs chevaux sur une piste . | COCO_val2014_000000228914.jpg
+race | course | a man is racing a black motorbike around a race track . | un homme sur une moto de course noire autour d&apos; une piste de course . | COCO_val2014_000000094319.jpg
+race | course | a man is racing a black motorbike around a race track . | un homme sur une moto de course noire autour d&apos; une piste de course . | COCO_val2014_000000094319.jpg
+track | piste | a man is racing a black motorbike around a race track . | un homme sur une moto de course noire autour d&apos; une piste de course . | COCO_val2014_000000094319.jpg
+track | piste | two men racing horses down a racing track . | deux hommes font courir les chevaux dans une piste de course . | COCO_val2014_000000123627.jpg
+track | piste | a group of motorcycle riders racing down a track . | un groupe de motards faisaient une course sur une piste . | COCO_val2014_000000211189.jpg
+rain | pluie | a jockey is racing on a horse in the rain . | un jockey fait la course sur un cheval sous la pluie . | COCO_train2014_000000361460.jpg
+purple | pourpre | a woman in a purple ski suit racing two other girls on skis . | une femme dans un costume de ski pourpre fait la course contre deux autres filles sur les skis . | COCO_val2014_000000396687.jpg
+ski | ski | a woman in a purple ski suit racing two other girls on skis . | une femme dans un costume de ski pourpre fait la course contre deux autres filles sur les skis . | COCO_val2014_000000396687.jpg
+front | devant | a group of police offices standing in front of a parade . | un groupe de policiers debout devant un défilé . | COCO_train2014_000000265186.jpg
+next | côté | a group of men standing next to each other on a stage . | un groupe d&apos; hommes debout l&apos; un à côté de l&apos; autre sur une scène . | COCO_val2014_000000165862.jpg
+stage | scène | a group of men standing next to each other on a stage . | un groupe d&apos; hommes debout l&apos; un à côté de l&apos; autre sur une scène . | COCO_val2014_000000165862.jpg
+field | terrain | a man on a field swinging a bat at a ball . | un homme sur un terrain balançant une batte dans une balle . | COCO_train2014_000000535212.jpg
+ball | balle | a man on a field swinging a bat at a ball . | un homme sur un terrain balançant une batte dans une balle . | COCO_train2014_000000535212.jpg
+truck | camion | several people pushing a truck from the dirt onto the road . | plusieurs personnes poussent un camion d&apos; un chemin de terre sur la route . | COCO_train2014_000000065245.jpg
+dirt | terre | several people pushing a truck from the dirt onto the road . | plusieurs personnes poussent un camion d&apos; un chemin de terre sur la route . | COCO_train2014_000000065245.jpg
+road | chemin | several people pushing a truck from the dirt onto the road . | plusieurs personnes poussent un camion d&apos; un chemin de terre sur la route . | COCO_train2014_000000065245.jpg
+road | route | several people pushing a truck from the dirt onto the road . | plusieurs personnes poussent un camion d&apos; un chemin de terre sur la route . | COCO_train2014_000000065245.jpg
+ball | balle | two soccer players pushing each other for the ball . | deux joueurs de football se poussent pour la balle . | COCO_val2014_000000233968.jpg
+push | pousser | a group of men using poles to push themselves on skateboards . | un groupe d&apos; hommes utilisant des bâtons pour se faire pousser sur des planches à roulettes . | COCO_val2014_000000097946.jpg
+catch | attraper | a woman holds her hands up to catch a frisbee . | une femme lève ses mains pour attraper un frisbee . | COCO_train2014_000000423096.jpg
+ball | balle | a baseball player catching a ball on a baseball field . | un joueur de baseball attrape une balle sur un terrain de baseball . | COCO_val2014_000000548361.jpg
+field | terrain | a baseball player catching a ball on a baseball field . | un joueur de baseball attrape une balle sur un terrain de baseball . | COCO_val2014_000000548361.jpg
+wave | vague | a surfer catching a wave on the ocean . | un surfer attrape une vague dans l&apos; océan . | COCO_val2014_000000002613.jpg
+wave | vague | two men on surfboards catch a breaking wave . | deux hommes sur les planches de surf attrapent une vague déferlante . | COCO_val2014_000000470417.jpg
+leap | saut | man and his skateboard caught mid-flight during a leap | l&apos; homme et sa planche à roulettes pris en plein vol pendant un saut | COCO_train2014_000000480116.jpg
+shop | magasin | a shop displays different color parasols on a wall . | un magasin affiche des parasols de différentes couleurs sur un mur . | COCO_train2014_000000571842.jpg
+wall | mur | a shop displays different color parasols on a wall . | un magasin affiche des parasols de différentes couleurs sur un mur . | COCO_train2014_000000571842.jpg
+couple | couple | a picture of a recently married couple displayed behind glass . | une photo d&apos; un couple récemment marié affichée derrière une vitre . | COCO_val2014_000000239347.jpg
+glass | vitre | a picture of a recently married couple displayed behind glass . | une photo d&apos; un couple récemment marié affichée derrière une vitre . | COCO_val2014_000000239347.jpg
+middle | milieu | a metal artwork displays a clock in the middle of a floor . | une illustration en métal affiche une horloge au milieu d&apos; un plancher . | COCO_train2014_000000516866.jpg
+floor | plancher | a metal artwork displays a clock in the middle of a floor . | une illustration en métal affiche une horloge au milieu d&apos; un plancher . | COCO_train2014_000000516866.jpg
+middle | milieu | a classic trolly car is displayed in the middle of the road . | un tramway classique est exposé au milieu de la route . | COCO_train2014_000000143870.jpg
+road | route | a classic trolly car is displayed in the middle of the road . | un tramway classique est exposé au milieu de la route . | COCO_train2014_000000143870.jpg
+screen | écran | a television screen displaying a cow in a wooded area . | un écran de télévision présentant une vache dans une zone boisée . | COCO_val2014_000000123842.jpg
+area | zone | a television screen displaying a cow in a wooded area . | un écran de télévision présentant une vache dans une zone boisée . | COCO_val2014_000000123842.jpg
+storefront | vitrine | a spanish-language storefront displays its many wares in the windows . | une vitrine en espagnole affiche ses nombreuses marchandises dans les fenêtres . | COCO_train2014_000000478781.jpg
+market | marché | fresh fruits and vegetables displayed in a market . | des fruits et légumes frais exposés dans un marché . | COCO_val2014_000000156302.jpg
+wall | mur | a young man standing against a wall talking on a cell phone . | un jeune homme debout contre un mur en parlant sur son téléphone cellulaire . | COCO_val2014_000000549361.jpg
+talking | parlant | a young man standing against a wall talking on a cell phone . | un jeune homme debout contre un mur en parlant sur son téléphone cellulaire . | COCO_val2014_000000549361.jpg
+cell | téléphone | a young man standing against a wall talking on a cell phone . | un jeune homme debout contre un mur en parlant sur son téléphone cellulaire . | COCO_val2014_000000549361.jpg
+cell | cellulaire | a young man standing against a wall talking on a cell phone . | un jeune homme debout contre un mur en parlant sur son téléphone cellulaire . | COCO_val2014_000000549361.jpg
+talking | parlant | a man and woman holding coffee and talking to a woman in the city while walking their dog | un homme et une femme tenant du café et parlant à une femme dans la ville pendant qu&apos; ils promènent leurs chiens | COCO_train2014_000000118697.jpg
+city | ville | a man and woman holding coffee and talking to a woman in the city while walking their dog | un homme et une femme tenant du café et parlant à une femme dans la ville pendant qu&apos; ils promènent leurs chiens | COCO_train2014_000000118697.jpg
+microphone | micro | a man talking on a microphone in a suit . | un homme en costume qui parle dans un micro . | COCO_train2014_000000200597.jpg
+field | terrain | two professional baseball players talking on the field . | deux joueurs de baseball professionnels discutent sur le terrain . | COCO_val2014_000000061175.jpg
+talking | parlant | a cop on a horse talking to a cop on a bike . | un policier sur un cheval parlant avec un policier sur une moto . | COCO_train2014_000000468263.jpg
+bike | moto | a cop on a horse talking to a cop on a bike . | un policier sur un cheval parlant avec un policier sur une moto . | COCO_train2014_000000468263.jpg
+box | boîte | several arrows sticking out of an orange tool box . | plusieurs flèches transperçant une boîte à outils orange . | COCO_train2014_000000369452.jpg
+baby | bébé | a baby is sticking a toothbrush in its mouth . | un bébé en train de sucer une brosse à dent . | COCO_val2014_000000501429.jpg
+photograph | photographie | black and white photograph of two bare feet sticking out from the covers of a child &apos;s bed | photographie en noir et blanc de deux pieds nus sortant des couvertures d&apos; un lit d&apos; enfant . | COCO_val2014_000000310227.jpg

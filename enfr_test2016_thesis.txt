@@ -1,0 +1,864 @@
+hat | chapeau | a man in an orange hat starring at something . | un homme avec un chapeau orange regardant quelque chose . | 1007129816.jpg
+running | court | a boston terrier is running on lush green grass in front of a white fence . | un terrier de boston court sur l&apos; herbe verdoyante devant une clôture blanche . | 1009434119.jpg
+grass | herbe | a boston terrier is running on lush green grass in front of a white fence . | un terrier de boston court sur l&apos; herbe verdoyante devant une clôture blanche . | 1009434119.jpg
+front | devant | a boston terrier is running on lush green grass in front of a white fence . | un terrier de boston court sur l&apos; herbe verdoyante devant une clôture blanche . | 1009434119.jpg
+stick | bâton | a girl in karate uniform breaking a stick with a front kick . | une fille en tenue de karaté brisant un bâton avec un coup de pied . | 101362133.jpg
+kick | coup | a girl in karate uniform breaking a stick with a front kick . | une fille en tenue de karaté brisant un bâton avec un coup de pied . | 101362133.jpg
+snow | neige | five people wearing winter jackets and helmets stand in the snow , with snowmobiles in the background . | cinq personnes avec des vestes d&apos; hiver et des casques sont debout dans la neige , avec des motoneiges en arrière-plan . | 102617084.jpg
+wearing | tenue | a man in light colored clothing photographs a group of men wearing dark suits and hats standing around a woman dressed in a strapless gown . | un homme en tenue claire photographie un groupe d&apos; hommes portant des costumes sombres et des chapeaux , debout autour d&apos; une femme vêtue d&apos; une robe bustier . | 1039637574.jpg
+wearing | portant | a man in light colored clothing photographs a group of men wearing dark suits and hats standing around a woman dressed in a strapless gown . | un homme en tenue claire photographie un groupe d&apos; hommes portant des costumes sombres et des chapeaux , debout autour d&apos; une femme vêtue d&apos; une robe bustier . | 1039637574.jpg
+gown | robe | a man in light colored clothing photographs a group of men wearing dark suits and hats standing around a woman dressed in a strapless gown . | un homme en tenue claire photographie un groupe d&apos; hommes portant des costumes sombres et des chapeaux , debout autour d&apos; une femme vêtue d&apos; une robe bustier . | 1039637574.jpg
+front | devant | a group of people standing in front of an igloo . | un groupe de personnes debout devant un igloo . | 1043819504.jpg
+catch | attraper | a boy in a red uniform is attempting to avoid getting out at home plate , while the catcher in the blue uniform is attempting to catch him . | un garçon en uniforme rouge essaie d&apos; éviter de sortir du marbre , tandis que le receveur en tenue bleue essaie de l&apos; attraper . | 1043910339.jpg
+building | bâtiment | a guy works on a building . | un gars travaille sur un bâtiment . | 1044798682.jpg
+outside | dehors | a mother and her young song enjoying a beautiful day outside . | une mère et son jeune fils profitant d&apos; une belle journée dehors . | 107969134.jpg
+ball | ballon | men playing volleyball , with one player missing the ball but hands still in the air . | des hommes jouant au volleyball , avec un joueur ratant le ballon mais avec les mains toujours en l&apos; air . | 1080230428.jpg
+still | toujours | men playing volleyball , with one player missing the ball but hands still in the air . | des hommes jouant au volleyball , avec un joueur ratant le ballon mais avec les mains toujours en l&apos; air . | 1080230428.jpg
+dress | robe | a girl in a jean dress is walking along a raised balance beam . | une fille avec une robe en jean marche sur une poutre d&apos; équilibre surélevée . | 109656696.jpg
+cap | casquette | a woman in a gray sweater and black baseball cap is standing in line at a shop . | une femme avec un pull gris et une casquette noire est debout et fait la queue dans un magasin . | 110671448.jpg
+line | queue | a woman in a gray sweater and black baseball cap is standing in line at a shop . | une femme avec un pull gris et une casquette noire est debout et fait la queue dans un magasin . | 110671448.jpg
+shop | magasin | a woman in a gray sweater and black baseball cap is standing in line at a shop . | une femme avec un pull gris et une casquette noire est debout et fait la queue dans un magasin . | 110671448.jpg
+climbing | alpinisme | the person in the striped shirt is mountain climbing . | la personne en maillot rayé fait de l&apos; alpinisme . | 111497985.jpg
+building | bâtiment | people standing outside of a building . | des gens debout devant un bâtiment . | 1144865997.jpg
+trumpet | trompette | a teenager plays her trumpet on the field at a game . | une adolescente joue de la trompette sur le terrain pendant un match . | 1153704539.jpg
+field | terrain | a teenager plays her trumpet on the field at a game . | une adolescente joue de la trompette sur le terrain pendant un match . | 1153704539.jpg
+bar | bar | a man is standing by a group of video games in a bar . | un homme est debout près d&apos; une série de jeux vidéo dans un bar . | 1167908324.jpg
+drill | perceuse | a woman uses a drill while another man takes her picture . | une femme utilise une perceuse tandis qu&apos; un autre homme la prend en photo . | 1181708011.jpg
+wait | attendent | group of asian boys wait for meat to cook over barbecue . | un groupe de garçons asiatiques attendent que la viande soit cuite sur le barbecue . | 12252043.jpg
+wearing | portant | women , wearing traditional clothing , are reenacting native life . | des femmes , portant des vêtements traditionnels , reproduisent leur mode de vie natal . | 1229536824.jpg
+head | tête | one man holds another man &apos;s head down and prepares to punch him in the face . | un homme tient la tête d&apos; un autre homme vers le bas et se prépare à lui donner un coup de poing au visage . | 123314995.jpg
+punch | coup | one man holds another man &apos;s head down and prepares to punch him in the face . | un homme tient la tête d&apos; un autre homme vers le bas et se prépare à lui donner un coup de poing au visage . | 123314995.jpg
+face | tête | one man holds another man &apos;s head down and prepares to punch him in the face . | un homme tient la tête d&apos; un autre homme vers le bas et se prépare à lui donner un coup de poing au visage . | 123314995.jpg
+face | visage | one man holds another man &apos;s head down and prepares to punch him in the face . | un homme tient la tête d&apos; un autre homme vers le bas et se prépare à lui donner un coup de poing au visage . | 123314995.jpg
+ledge | rebord | 2 blond girls are sitting on a ledge in a crowded plaza . | deux filles blondes sont assises sur un rebord , sur une place bondée . | 1253095131.jpg
+water | eau | a child is splashing in the water | un enfant éclabousse dans l&apos; eau | 1255504166.jpg
+building | bâtiment | three people sit at a picnic table outside of a building painted like a union jack . | trois personnes sont assises à une table de pique-nique devant un bâtiment peint comme un union jack . | 1258913059.jpg
+fish | poisson | an employee is handing a woman a bag while she is browsing through fish on ice at a street market . | un employé donne un sac à une femme tandis qu&apos; elle regarde du poisson sur de la glace sur un marché de rue . | 1287704027.jpg
+market | marché | an employee is handing a woman a bag while she is browsing through fish on ice at a street market . | un employé donne un sac à une femme tandis qu&apos; elle regarde du poisson sur de la glace sur un marché de rue . | 1287704027.jpg
+building | bâtiment | outside a building , a uniformed security guard looks at the camera from behind a fence . | devant un bâtiment , un garde de sécurité en uniforme situé derrière une clôture regarde l&apos; objectif . | 129860826.jpg
+guard | garde | outside a building , a uniformed security guard looks at the camera from behind a fence . | devant un bâtiment , un garde de sécurité en uniforme situé derrière une clôture regarde l&apos; objectif . | 129860826.jpg
+fishing | pêche | a shirtless man in shorts is fishing while standing on some rocks . | un homme torse nu en short pêche , debout sur des rochers . | 1313869424.jpg
+water | eau | a girl wearing a life vest floats in water . | une fille vêtue d&apos; un gilet de sauvetage flotte sur l&apos; eau . | 1313961775.jpg
+front | devant | a man in uniform and a man in a blue shirt are standing in front of a truck . | un homme en uniforme et un homme en chemise bleue sont debout devant un camion . | 133010954.jpg
+truck | camion | a man in uniform and a man in a blue shirt are standing in front of a truck . | un homme en uniforme et un homme en chemise bleue sont debout devant un camion . | 133010954.jpg
+train | train | people sit inside a train . | des gens sont assis dans un train . | 1332208215.jpg
+wearing | portant | two men wearing swim trunks jump in the air at a moderately populated beach . | deux hommes portant des maillots de bain sautent en l&apos; air sur une plage moyennement peuplée . | 1351500610.jpg
+cooking | cuisine | a toddler is cooking with another person . | un bébé cuisine avec une autre personne . | 136581487.jpg
+home | maison | a father-figure and two children outside their home doing yard work such as using a hoe on the grass and planting a tree . | une figure paternelle et deux enfants devant leur maison , faisant des activités de jardinage comme utiliser une binette dans l&apos; herbe et planter un arbre . | 136693281.jpg
+grass | herbe | a father-figure and two children outside their home doing yard work such as using a hoe on the grass and planting a tree . | une figure paternelle et deux enfants devant leur maison , faisant des activités de jardinage comme utiliser une binette dans l&apos; herbe et planter un arbre . | 136693281.jpg
+cooking | cuisinant | a man cooking food on the stove . | un homme cuisinant des aliments sur la cuisinière . | 1368082221.jpg
+stove | cuisinière | a man cooking food on the stove . | un homme cuisinant des aliments sur la cuisinière . | 1368082221.jpg
+ball | balle | a man in jeans at the beach playing with a red ball . | un homme en jean à la plage jouant avec une balle rouge . | 139245992.jpg
+next | côté | people walking down sidewalk next to a line of stores . | des gens marchant sur le trottoir à côté d&apos; une rangée de magasins . | 1395410911.jpg
+line | rangée | people walking down sidewalk next to a line of stores . | des gens marchant sur le trottoir à côté d&apos; une rangée de magasins . | 1395410911.jpg
+speed | vitesse | a wakeboarder performs a flip while being towed at high speed . | un wakeboardeur effectue un salto tout en étant tracté à grande vitesse . | 1396064003.jpg
+water | eau | a man on a tag line going into the water . | un homme sur une tyrolienne pénétrant dans l&apos; eau . | 1404832008.jpg
+grass | herbe | a man in a pink shirt is sitting in the grass and a ball is in the air . | un homme en polo rose est assis dans l&apos; herbe et un ballon est en l&apos; air . | 14133592.jpg
+ball | ballon | a man in a pink shirt is sitting in the grass and a ball is in the air . | un homme en polo rose est assis dans l&apos; herbe et un ballon est en l&apos; air . | 14133592.jpg
+city | ville | two men wearing black in a city | deux hommes habillés en noir dans une ville | 1417882092.jpg
+water | eau | two men wearing hats and using walking sticks are walking near a body of water during sundown . | deux hommes avec des casquettes et des bâtons de marche marchent près d&apos; une étendue d&apos; eau au coucher du soleil . | 14559446.jpg
+crowd | foule | a crowd of people out for some fun in public park . | une foule de personnes dehors pour s&apos; amuser dans un parc public . | 146906547.jpg
+crowd | public | a crowd of people out for some fun in public park . | une foule de personnes dehors pour s&apos; amuser dans un parc public . | 146906547.jpg
+park | parc | a crowd of people out for some fun in public park . | une foule de personnes dehors pour s&apos; amuser dans un parc public . | 146906547.jpg
+looking | regardant | a man sits on a bench holding his dog and looking at the water . | un homme est assis sur un banc , tenant son chien et regardant l&apos; eau . | 1489286545.jpg
+water | eau | a man sits on a bench holding his dog and looking at the water . | un homme est assis sur un banc , tenant son chien et regardant l&apos; eau . | 1489286545.jpg
+brown | brun | the brown dog is standing on the sandy beach . | le chien brun est debout sur la plage de sable . | 1526325728.jpg
+club | club | a woman sings in a club with a guitarist behind her . | une femme chante dans un club avec un guitariste derrière elle . | 1579198375.jpg
+lawn | jardin | a child sitting on a lawn chair looking up at the camera | un enfant assis sur une chaise de jardin , regardant en l&apos; air vers l&apos; objectif | 157955034.jpg
+looking | regardant | a child sitting on a lawn chair looking up at the camera | un enfant assis sur une chaise de jardin , regardant en l&apos; air vers l&apos; objectif | 157955034.jpg
+looking | regardant | two ladies and three men looking at the ocean . | deux femmes et trois hommes regardant l&apos; océan . | 160792599.jpg
+female | femme | a female performer with a violin plays on a street while a woman with a blue guitar looks on . | une artiste avec un violon joue dans une rue tandis qu&apos; une femme avec une guitare bleue regarde . | 16151663.jpg
+swimming | nageant | a young girl swimming in a pool | une jeune fille nageant dans une piscine | 16437914.jpg
+pool | piscine | a young girl swimming in a pool | une jeune fille nageant dans une piscine | 16437914.jpg
+play | jouer | several children are outdoors getting ready to play tug-of-war . | plusieurs enfants sont dehors , prêts à jouer au tir à la corde . | 16495609.jpg
+brown | brun | a brown dog walks in the grass with its tongue hanging out . | un chien brun se promène dans l&apos; herbe avec sa langue pendante . | 1659358141.jpg
+grass | herbe | a brown dog walks in the grass with its tongue hanging out . | un chien brun se promène dans l&apos; herbe avec sa langue pendante . | 1659358141.jpg
+grass | herbe | people sitting in the grass outside a building , taking a break . | des gens assis dans l&apos; herbe devant un bâtiment , prenant une pause . | 16626851.jpg
+building | bâtiment | people sitting in the grass outside a building , taking a break . | des gens assis dans l&apos; herbe devant un bâtiment , prenant une pause . | 16626851.jpg
+taking | prenant | people sitting in the grass outside a building , taking a break . | des gens assis dans l&apos; herbe devant un bâtiment , prenant une pause . | 16626851.jpg
+break | pause | people sitting in the grass outside a building , taking a break . | des gens assis dans l&apos; herbe devant un bâtiment , prenant une pause . | 16626851.jpg
+crowd | foule | shirtless guy staring off in the distance while three woman are walking past a crowd sitting outside a cafe . | un gars torse nu regardant au loin tandis que trois femmes passent devant une foule assise devant un café . | 166283675.jpg
+bike | vélo | two young boys putting fruit on the bike . | deux jeunes garçons mettant des fruits sur le vélo . | 1664475761.jpg
+cap | casquette | a man in a black t-shirt , cap and jeans is playing drums on an upside down yellow pail . | un homme en t-shirt noir , casquette et jean joue de la percussion sur un seau jaune retourné . | 1675332284.jpg
+female | femme | a young female artists paints an image of a woman on a wall . | une jeune artiste peint un portrait d&apos; une femme sur un mur . | 1681253990.jpg
+wall | mur | a young female artists paints an image of a woman on a wall . | une jeune artiste peint un portrait d&apos; une femme sur un mur . | 1681253990.jpg
+pot | casserole | a man stirring a pot of liquid in this kitchen . | un homme remuant une casserole de liquide dans cette cuisine . | 17186135.jpg
+outside | dehors | a large group of people of various ages and genders sit outside together . | un grand nombre de personnes de différents âges et sexes sont assises dehors ensemble . | 175556963.jpg
+bar | bar | a blond-haired woman is pouring drinks at a bar . | une femme blonde verse des boissons dans un bar . | 1798209205.jpg
+box | caisse | a male worker with his tool box is kneeling next to two women . | un ouvrier avec sa caisse à outils est agenouillé près de deux femmes . | 183647966.jpg
+next | près | a male worker with his tool box is kneeling next to two women . | un ouvrier avec sa caisse à outils est agenouillé près de deux femmes . | 183647966.jpg
+wide | grand | an older man is opening his arms wide and looking perplexed . | un vieil homme ouvre grand ses bras et semble perplexe . | 185404966.jpg
+move | mouvement | a child in a white karate outfit practicing a move | un enfant avec une tenue de karaté blanche répétant un mouvement | 18638572.jpg
+baby | bébé | a woman takes a picture of a baby wearing a pink hat while a man carries her . | une femme prend une photo d&apos; un bébé portant un chapeau rose tandis qu&apos; un homme le porte . | 1881494074.jpg
+wearing | portant | a woman takes a picture of a baby wearing a pink hat while a man carries her . | une femme prend une photo d&apos; un bébé portant un chapeau rose tandis qu&apos; un homme le porte . | 1881494074.jpg
+hat | chapeau | a woman takes a picture of a baby wearing a pink hat while a man carries her . | une femme prend une photo d&apos; un bébé portant un chapeau rose tandis qu&apos; un homme le porte . | 1881494074.jpg
+construction | chantier | a construction worker is driving heavy equipment at a work site . | un ouvrier du bâtiment conduit un gros engin sur un chantier . | 196521598.jpg
+heavy | gros | a construction worker is driving heavy equipment at a work site . | un ouvrier du bâtiment conduit un gros engin sur un chantier . | 196521598.jpg
+equipment | engin | a construction worker is driving heavy equipment at a work site . | un ouvrier du bâtiment conduit un gros engin sur un chantier . | 196521598.jpg
+site | chantier | a construction worker is driving heavy equipment at a work site . | un ouvrier du bâtiment conduit un gros engin sur un chantier . | 196521598.jpg
+work | travail | a man in a work uniform passing a tool to another person . | un homme en uniforme de travail passant un outil à une autre personne . | 1989609.jpg
+passing | passant | a man in a work uniform passing a tool to another person . | un homme en uniforme de travail passant un outil à une autre personne . | 1989609.jpg
+cold | froid | a group of people are climbing in cold weather . | un groupe de personnes gravissent une pente dans le froid . | 202174004.jpg
+top | sommet | a man doing handstand on top of a round statue . | un homme faisant l&apos; équilibre au sommet d&apos; une statue ronde . | 204150602.jpg
+face | visage | a child sitting at a restaurant table holding a paper mask against his face . | un enfant assis à une table de restaurant , tenant un masque en carton sur son visage . | 2041867793.jpg
+brown | brun | a brown dog wades into a lake to retrieve a stick . | un chien brun patauge dans un lac pour récupérer un bâton . | 2052202553.jpg
+stick | bâton | a brown dog wades into a lake to retrieve a stick . | un chien brun patauge dans un lac pour récupérer un bâton . | 2052202553.jpg
+fish | pêcher | a mother teaches her two young boys to fish off of a rocky coast into very blue water . | une mère apprend à pêcher à ses deux jeunes garçons dans une eau très bleue sur une côte rocheuse . | 2063399864.jpg
+water | eau | a mother teaches her two young boys to fish off of a rocky coast into very blue water . | une mère apprend à pêcher à ses deux jeunes garçons dans une eau très bleue sur une côte rocheuse . | 2063399864.jpg
+next | côté | a little kid is walking next to red banners . | un enfant marche à côté de chaises rouges . | 2064046067.jpg
+decorated | décoré | a girl sits on a decorated bike with a younger boy while another girl takes a picture . | une fille est assise sur un vélo décoré avec un jeune garçon tandis qu&apos; une autre fille prend une photo . | 2064792226.jpg
+bike | vélo | a girl sits on a decorated bike with a younger boy while another girl takes a picture . | une fille est assise sur un vélo décoré avec un jeune garçon tandis qu&apos; une autre fille prend une photo . | 2064792226.jpg
+ball | balle | a black dog is retrieving a ball in water . | un chien noir récupère une balle dans l&apos; eau . | 2066271441.jpg
+water | eau | a black dog is retrieving a ball in water . | un chien noir récupère une balle dans l&apos; eau . | 2066271441.jpg
+sunset | coucher | two silhouetted people paddle a canoe on the ocean during sunset . | deux silhouettes de personnes ramant dans un canoë sur l&apos; océan au coucher du soleil . | 2088705195.jpg
+platform | quai | people are standing on a crowded subway , and the platform outside is visible through the window . | des gens sont debout dans un métro bondé , et le quai à l&apos; extérieur est visible par la fenêtre . | 211026975.jpg
+outside | extérieur | people are standing on a crowded subway , and the platform outside is visible through the window . | des gens sont debout dans un métro bondé , et le quai à l&apos; extérieur est visible par la fenêtre . | 211026975.jpg
+wall | mur | man scaling wall with fire in hand | un homme escaladant un mur avec du feu à la main | 21138719.jpg
+fire | feu | man scaling wall with fire in hand | un homme escaladant un mur avec du feu à la main | 21138719.jpg
+hand | main | man scaling wall with fire in hand | un homme escaladant un mur avec du feu à la main | 21138719.jpg
+snow | neige | two brown dogs are running through the snow . | deux chiens bruns courent dans la neige . | 2115631346.jpg
+stage | scène | on stage photo of small band performing for theater audience . | une photo d&apos; un petit groupe sur scène jouant devant un public dans un théâtre . | 21166859.jpg
+band | groupe | on stage photo of small band performing for theater audience . | une photo d&apos; un petit groupe sur scène jouant devant un public dans un théâtre . | 21166859.jpg
+baby | bébé | a baby in a christmas outfit looks at the camera . | un bébé en tenue de noël regarde l&apos; objectif . | 2119380659.jpg
+next | côté | a man is sitting next to a computer monitor . | un homme est assis à côté d&apos; un écran d&apos; ordinateur . | 212396217.jpg
+monitor | écran | a man is sitting next to a computer monitor . | un homme est assis à côté d&apos; un écran d&apos; ordinateur . | 212396217.jpg
+building | bâtiment | people inside of a building , one is taking a photo . | des gens à l&apos; intérieur d&apos; un bâtiment , l&apos; un prend une photo . | 2152057198.jpg
+wall | mur | four white dogs with muzzles jump over a red wall . | quatre chiens blancs avec des muselières sautent par-dessus un mur rouge . | 2165461920.jpg
+baby | bébé | the woman with the blue shirt is holding a baby . | la femme avec le t-shirt bleu tient un bébé . | 2165724565.jpg
+fishing | pêchant | two people are sitting fishing on striped beach chairs in a body of water . | deux personnes sont assises dans des fauteuils de plage rayés , pêchant dans une étendue d&apos; eau . | 2169788484.jpg
+water | eau | two people are sitting fishing on striped beach chairs in a body of water . | deux personnes sont assises dans des fauteuils de plage rayés , pêchant dans une étendue d&apos; eau . | 2169788484.jpg
+looking | regardant | a boy standing in the foreground looking out over other people in a court . | un garçon debout au premier plan , regardant d&apos; autres personnes dans une cour . | 2180356743.jpg
+top | sommet | a man in a gray shirt jumps over the top of a sand dune in the desert . | un homme en sweat gris saute au sommet d&apos; une dune de sable dans le désert . | 2208662604.jpg
+work | travailler | a worker in a yellow jacket is hoisted up high to work on a building . | un ouvrier en veste jaune est hissé dans les airs pour travailler sur un bâtiment . | 2215837479.jpg
+building | bâtiment | a worker in a yellow jacket is hoisted up high to work on a building . | un ouvrier en veste jaune est hissé dans les airs pour travailler sur un bâtiment . | 2215837479.jpg
+bunch | tas | a bunch of beer pull tabs at a bar with christmas lights on the ceiling . | un tas de tireuses à bière dans un bar avec des lumières de noël au plafond . | 2217728745.jpg
+bar | bar | a bunch of beer pull tabs at a bar with christmas lights on the ceiling . | un tas de tireuses à bière dans un bar avec des lumières de noël au plafond . | 2217728745.jpg
+truck | monospace | a man in black is walking to his truck in the snow . | un homme en noir marche vers son monospace dans la neige . | 2255633616.jpg
+snow | neige | a man in black is walking to his truck in the snow . | un homme en noir marche vers son monospace dans la neige . | 2255633616.jpg
+ball | ballon | a fox terrier leaps after a ball . | un fox terrier bondit pour attraper un ballon . | 2259203920.jpg
+cap | casquette | a female police officer in a cap and navy uniform smiles while wearing sunglasses outside of a shop . | une policière avec une casquette et un uniforme bleu marine sourit tandis qu&apos; elle porte des lunettes de soleil devant un magasin . | 226481576.jpg
+shop | magasin | a female police officer in a cap and navy uniform smiles while wearing sunglasses outside of a shop . | une policière avec une casquette et un uniforme bleu marine sourit tandis qu&apos; elle porte des lunettes de soleil devant un magasin . | 226481576.jpg
+park | parc | a family going for a walk in a park . | une famille se promenant dans un parc . | 2268207503.jpg
+hat | casque | a man in a green hard hat and yellow safety vest frowns . | un homme avec un casque vert et un gilet de sécurité jaune fronce les sourcils . | 2275214054.jpg
+head | tête | child with pink strings on head dancing surrounded by confetti , balloons . | un enfant avec des ficelles roses sur la tête en train de danser , entouré de confettis et de ballons . | 2282260240.jpg
+construction | construction | a man wearing a white shirt is looking out a window of a metal construction . | un homme vêtu d&apos; une chemise blanche regarde par la fenêtre d&apos; une construction métallique . | 231935782.jpg
+water | eau | six shirtless children are playing in natural water and splashing around . | six enfants torses nus jouent dans de l&apos; eau naturelle et s&apos; éclaboussent . | 2330536645.jpg
+rope | corde | a girl jumping rope on a sidewalk near a parking garage . | une fille sautant à la corde sur un trottoir près d&apos; un parking . | 2330843604.jpg
+closely | attentivement | a small boy plays with plastic blocks , cars , and animals with an adult watching closely . | un petit garçon joue avec des blocs en plastique , des voitures et des animaux tandis qu&apos; un adulte regarde attentivement . | 2338791560.jpg
+present | cadeau | a little girl opening a christmas present . | une petite fille ouvrant un cadeau de noël . | 2342035754.jpg
+front | devant | the woman in blue is operating a camera in front of two other women . | la femme en bleu manipule un appareil photo devant deux autres femmes . | 2346401538.jpg
+brown | marron | a brown and black dog running on a trail in the woods . | un chien marron et noir courant sur un sentier dans les bois . | 2367139509.jpg
+trail | sentier | a brown and black dog running on a trail in the woods . | un chien marron et noir courant sur un sentier dans les bois . | 2367139509.jpg
+woods | bois | a brown and black dog running on a trail in the woods . | un chien marron et noir courant sur un sentier dans les bois . | 2367139509.jpg
+play | jouent | two dogs play by a tree . | deux chiens jouent près d&apos; un arbre . | 2368266191.jpg
+hat | chapeau | a man dressed in black leather and a cowboy hat is walking around a renaissance festival . | un homme avec une tenue de cuir noire et un chapeau de cowboy se promène dans un festival renaissance . | 2391094555.jpg
+outside | dehors | a dog runs outside with a yellow toy . | un chien court dehors avec un jouet jaune . | 2391269207.jpg
+cover | couverture | a dog wearing a cover runs in the snow . | un chien avec une couverture court dans la neige . | 2392625002.jpg
+snow | neige | a dog wearing a cover runs in the snow . | un chien avec une couverture court dans la neige . | 2392625002.jpg
+outside | dehors | two men and a lady are standing outside . | deux hommes et une femme sont debout dehors . | 2421340833.jpg
+boat | bateau | a group of men using logs to push a boat out of the water . | un groupe d&apos; hommes utilisant des troncs pour sortir un bateau de l&apos; eau . | 2421367904.jpg
+water | eau | a group of men using logs to push a boat out of the water . | un groupe d&apos; hommes utilisant des troncs pour sortir un bateau de l&apos; eau . | 2421367904.jpg
+reading | lisant | a man drinks from a wineglass while reading the paper . | un homme boit dans un verre à pied tout en lisant le journal . | 2422589651.jpg
+structure | structure | a man is standing on a stone structure with his arms out like a bird . | un homme est debout sur une structure en pierre avec ses bras ouverts comme un oiseau . | 2433175169.jpg
+water | eau | a dog drinks water outside on the grass . | un chien boit de l&apos; eau dehors sur l&apos; herbe . | 2436398074.jpg
+outside | dehors | a dog drinks water outside on the grass . | un chien boit de l&apos; eau dehors sur l&apos; herbe . | 2436398074.jpg
+grass | herbe | a dog drinks water outside on the grass . | un chien boit de l&apos; eau dehors sur l&apos; herbe . | 2436398074.jpg
+wearing | portant | two women wearing tank tops are looking at the camera . | deux femmes portant des débardeurs regardent l&apos; objectif . | 2438754748.jpg
+cut | couper | a man using a chainsaw to cut lumber . | un homme utilisant une tronçonneuse pour couper du bois . | 2441818017.jpg
+front | face | a man sitting at a picnic table with a tray and partially consumed beer in front of him . | un homme assis à une table de pique-nique avec un plateau et une bière entamée en face de lui . | 2445442929.jpg
+grass | herbe | a dark-haired bearded man in glasses and a hawaiian shirt is sitting on the grass . | un homme barbu avec des cheveux foncés , des lunettes et une chemise hawaïenne est assis dans l&apos; herbe . | 244910130.jpg
+run | course | dogs run at a dog racetrack . | des chiens courent lors d&apos; une course de chiens . | 2451114871.jpg
+light | lumière | a light technician man with tribal tattoos aiming a spotlight over a balcony . | un technicien lumière avec des tatouages tribaux dirigeant un projecteur depuis un balcon . | 245307666.jpg
+light | projecteur | a light technician man with tribal tattoos aiming a spotlight over a balcony . | un technicien lumière avec des tatouages tribaux dirigeant un projecteur depuis un balcon . | 245307666.jpg
+brown | marron | a brown and white dog fetching a toy . | un chien blanc et marron récupérant un jouet . | 2466171114.jpg
+middle | milieu | man with white hair playing an accordion in the middle of some buildings . | un homme avec des cheveux blancs jouant de l&apos; accordéon au milieu de bâtiments . | 2468466969.jpg
+next | côté | a man next to a bicycle is playing a pan flute . | un homme à côté d&apos; un vélo joue de la flûte de pan . | 2470317702.jpg
+rope | corde | two kids are balancing on a log and holding a rope . | deux enfants sont en équilibre sur un tronc et tiennent une corde . | 2470493181.jpg
+motorcycle | moto | a man riding a motorcycle is performing a trick at a track . | un homme en moto fait une figure sur un circuit . | 2472980433.jpg
+track | circuit | a man riding a motorcycle is performing a trick at a track . | un homme en moto fait une figure sur un circuit . | 2472980433.jpg
+purple | violet | a young woman with a purple cloth hiding her face relaxes on a wooden deck . | une jeune femme avec un tissu violet cachant son visage se repose sur une plate-forme en bois . | 247618600.jpg
+cloth | tissu | a young woman with a purple cloth hiding her face relaxes on a wooden deck . | une jeune femme avec un tissu violet cachant son visage se repose sur une plate-forme en bois . | 247618600.jpg
+face | visage | a young woman with a purple cloth hiding her face relaxes on a wooden deck . | une jeune femme avec un tissu violet cachant son visage se repose sur une plate-forme en bois . | 247618600.jpg
+brown | marron | the woman in the brown shirt is sitting on a bright red bench . | la femme en t-shirt marron est assise sur un banc rouge vif . | 247619370.jpg
+bright | vif | the woman in the brown shirt is sitting on a bright red bench . | la femme en t-shirt marron est assise sur un banc rouge vif . | 247619370.jpg
+sign | pancarte | a man advertises with a giant sign tied onto his bicycle . | un homme fait de la publicité avec une pancarte géante attachée à son vélo . | 2504007911.jpg
+watch | regardent | a man is throwing a log into a waterway while two dogs watch . | un homme lance un tronc dans un cours d&apos; eau , tandis que deux chiens regardent . | 2504764590.jpg
+water | eau | group of elders playing instruments under a tent by the water . | un groupe de personnes âgées jouant avec des instruments sous une tente au bord de l&apos; eau . | 2506460104.jpg
+city | ville | a view of a crowded city street . | une photo d&apos; une rue bondée en ville . | 2508851882.jpg
+outside | dehors | two people in blue shirts are outside with a bullhorn . | deux personnes en t-shirts bleus sont dehors avec un mégaphone . | 2511798599.jpg
+pool | piscine | a black dog springs up into a pool . | un chien noir jaillit d&apos; une piscine . | 251586160.jpg
+back | dos | a cowboy riding on the back of a bronco in a competition . | un cow-boy sur le dos d&apos; un cheval de rodéo lors d&apos; une compétition . | 2521788750.jpg
+construction | chantier | two construction workers have a discussion while on the work site . | deux ouvriers du bâtiment ont une discussion sur le chantier . | 2537755800.jpg
+site | chantier | two construction workers have a discussion while on the work site . | deux ouvriers du bâtiment ont une discussion sur le chantier . | 2537755800.jpg
+dress | robe | an asian woman in a floral wedding dress poses on a bridge close to her bridesmaids . | une femme asiatique en robe de mariée à fleurs pose sur un pont près de ses demoiselles d&apos; honneur . | 2549933281.jpg
+close | près | an asian woman in a floral wedding dress poses on a bridge close to her bridesmaids . | une femme asiatique en robe de mariée à fleurs pose sur un pont près de ses demoiselles d&apos; honneur . | 2549933281.jpg
+water | eau | three boys are playing with sponges and buckets of water . | trois garçons jouent avec des éponges et des seaux d&apos; eau . | 2558911884.jpg
+next | côté | people chilling in at forest next to canoes . | des gens se détendant dans une forêt à côté de canoës . | 2566294211.jpg
+building | bâtiment | two workers spread cement onto a brick building . | deux ouvriers appliquent du ciment sur un bâtiment en briques . | 261627889.jpg
+fight | combat | two performers putting on a mock fight for an audience that is watching attentively . | deux artistes simulant un combat devant un public qui regarde attentivement . | 2658439322.jpg
+fire | feu | a man in a yellow coat tends a fire , a boy in a parka watches . | un homme en manteau jaune s&apos; occupe d&apos; un feu , un garçon en parka regarde . | 2665461736.jpg
+boat | bateau | a woman on a boat named &quot; el corazon &quot; drops black weights into the water . | une femme sur un bateau nommé &quot; el corazon &quot; lâche des poids noirs dans l&apos; eau . | 2671167487.jpg
+water | eau | a woman on a boat named &quot; el corazon &quot; drops black weights into the water . | une femme sur un bateau nommé &quot; el corazon &quot; lâche des poids noirs dans l&apos; eau . | 2671167487.jpg
+looking | regardant | a boy sitting on and looking out from a microscope . | un garçon assis et regardant dans un télescope . | 2671560649.jpg
+dress | robe | a young barefoot girl in a pink dress is jumping outside . | une jeune fille pieds nus en robe rose saute dehors . | 2673209105.jpg
+outside | dehors | a young barefoot girl in a pink dress is jumping outside . | une jeune fille pieds nus en robe rose saute dehors . | 2673209105.jpg
+outside | dehors | many people are sitting around a tent outside . | beaucoup de gens sont assis autour d&apos; une tente dehors . | 2678668581.jpg
+drum | percussion | a youth with a black shirt that says &quot; asian pacific 2007 &quot; plays a drum while sitting . | un jeune avec un t-shirt noir où est écrit &quot; asian pacific 2007 &quot; joue de la percussion assis . | 2679382388.jpg
+outside | dehors | a dog jumps over an obstacle outside . | un chien saute par-dessus un obstacle dehors . | 2695961935.jpg
+dirt | terre | dog with black collar rolling in dirt and dried leaves | un chien avec un collier noir se roulant dans la terre et les feuilles mortes | 2696866120.jpg
+wearing | tenue | a man , wearing revolutionary period clothes , is ringing a bell . | un homme , en tenue d&apos; époque révolutionnaire , sonne une cloche . | 2710027673.jpg
+fishing | pêchant | a man in a black shirt fishing on a rocky shore . | un homme en sweat noir pêchant sur un rivage rocailleux . | 271396631.jpg
+stop | arrêtent | two men stop to chat on the sidewalk as a car passes by . | deux hommes s&apos; arrêtent pour discuter sur le trottoir tandis qu&apos; une voiture passe . | 271572671.jpg
+wearing | portant | two woman wearing similar shirts walk to the left . | deux femmes portant des t-shirts similaires marchent vers la gauche . | 2724485630.jpg
+water | eau | a young child wearing an orange life vest holding an oar paddling a blue kayak in a body of water . | un jeune enfant avec un gilet de sauvetage orange et une rame pagayant dans un kayak bleu sur un plan d&apos; eau . | 2725508159.jpg
+trail | sentier | people walking on a trail in a tree filled park . | des gens marchant sur un sentier dans un parc rempli d&apos; arbres . | 2728583298.jpg
+park | parc | people walking on a trail in a tree filled park . | des gens marchant sur un sentier dans un parc rempli d&apos; arbres . | 2728583298.jpg
+crowd | foule | three young adults talk in a crowd of people , the woman looks upset . | trois jeunes adultes parlent parmi une foule de gens , la femme semble bouleversée . | 2729685399.jpg
+crowd | gens | three young adults talk in a crowd of people , the woman looks upset . | trois jeunes adultes parlent parmi une foule de gens , la femme semble bouleversée . | 2729685399.jpg
+front | devant | woman and child outside the front door of their scenic home . | une femme et un enfant devant la porte d&apos; entrée de leur maison pittoresque . | 273603643.jpg
+door | porte | woman and child outside the front door of their scenic home . | une femme et un enfant devant la porte d&apos; entrée de leur maison pittoresque . | 273603643.jpg
+home | maison | woman and child outside the front door of their scenic home . | une femme et un enfant devant la porte d&apos; entrée de leur maison pittoresque . | 273603643.jpg
+wearing | portant | a girl wearing camouflage pants sits on top of a hummer . | une fille portant un pantalon de camouflage est assise sur le toit d&apos; un hummer . | 2737609659.jpg
+top | toit | a girl wearing camouflage pants sits on top of a hummer . | une fille portant un pantalon de camouflage est assise sur le toit d&apos; un hummer . | 2737609659.jpg
+brown | brun | a light brown dog is running up . | un chien brun clair monte une pente en courant . | 2738077433.jpg
+brown | marron | a bald man demonstarting how high his brown and black dog can jump . | un homme chauve montrant à quelle hauteur son chien marron et noir peut sauter . | 2751602672.jpg
+crowd | foule | a crowd on a busy daytime street . | une foule dans une rue bien remplie en journée . | 275175200.jpg
+running | court | a muzzled greyhound dog wearing yellow and black is running on the track . | un lévrier muselé vêtu de jaune et noir court sur la piste . | 2755362721.jpg
+track | piste | a muzzled greyhound dog wearing yellow and black is running on the track . | un lévrier muselé vêtu de jaune et noir court sur la piste . | 2755362721.jpg
+busy | fréquenté | a man drinking out of a yellow cup around people at a busy event | un homme buvant dans un gobelet jaune autour de personnes lors d&apos; un événement très fréquenté | 2768933636.jpg
+hood | capot | a boy is leaning on a car with flowers on the hood . | un garçon s&apos; appuie sur une voiture avec des fleurs sur le capot . | 277119391.jpg
+dress | robe | a woman in a floral dress talks to children in front of a van . | une femme en robe à fleurs parle à des enfants devant une fourgonnette . | 2773474615.jpg
+front | devant | a woman in a floral dress talks to children in front of a van . | une femme en robe à fleurs parle à des enfants devant une fourgonnette . | 2773474615.jpg
+van | fourgonnette | a woman in a floral dress talks to children in front of a van . | une femme en robe à fleurs parle à des enfants devant une fourgonnette . | 2773474615.jpg
+hat | chapeau | woman with a hat on climbing a cliff near a large body of water . | une femme avec un chapeau escaladant une falaise près d&apos; une grande étendue d&apos; eau . | 2780179669.jpg
+water | eau | woman with a hat on climbing a cliff near a large body of water . | une femme avec un chapeau escaladant une falaise près d&apos; une grande étendue d&apos; eau . | 2780179669.jpg
+grass | herbe | a big black poodle running on the grass with a toy in its mouth . | un grand caniche noir courant sur l&apos; herbe avec un jouet dans sa gueule . | 2789350645.jpg
+play | jouent | eight men play instruments on stage , with a guitarist highlighted in lights . | huit hommes jouent d&apos; instruments sur scène , avec un guitariste mis en valeur dans la lumière . | 2802158972.jpg
+stage | scène | eight men play instruments on stage , with a guitarist highlighted in lights . | huit hommes jouent d&apos; instruments sur scène , avec un guitariste mis en valeur dans la lumière . | 2802158972.jpg
+hat | casque | a man in an orange jumpsuit and matching hard hat is helping with a blue hose | un homme en combinaison orange avec un casque assorti aide à dérouler un tuyau bleu | 2809218945.jpg
+fish | poisson | a man and two girls show off a fish while holding fishing poles in front of a body of water . | un homme et deux filles montrent un poisson tout en tenant des cannes à pêche devant un plan d&apos; eau . | 2812568040.jpg
+fishing | pêche | a man and two girls show off a fish while holding fishing poles in front of a body of water . | un homme et deux filles montrent un poisson tout en tenant des cannes à pêche devant un plan d&apos; eau . | 2812568040.jpg
+front | devant | a man and two girls show off a fish while holding fishing poles in front of a body of water . | un homme et deux filles montrent un poisson tout en tenant des cannes à pêche devant un plan d&apos; eau . | 2812568040.jpg
+water | eau | a man and two girls show off a fish while holding fishing poles in front of a body of water . | un homme et deux filles montrent un poisson tout en tenant des cannes à pêche devant un plan d&apos; eau . | 2812568040.jpg
+course | parcours | man in red shirt watches dog on an agility course . | un homme en polo rouge regarde son chien sur un parcours d&apos; agilité . | 2816259113.jpg
+pool | piscine | a boy wearing red and white swimming trunks diving backwards in a beautiful pool . | un garçon en maillot de bain rouge et blanc plongeant en arrière dans une belle piscine . | 2819466992.jpg
+back | arrière | an asian woman pinning her hair back . | une femme asiatique attachant ses cheveux en arrière . | 2825327005.jpg
+trumpet | trompette | a brown-haired man in a green shirt plays a trumpet outdoors . | un homme brun en chemise verte joue de la trompette dehors . | 2833502675.jpg
+mat | tapis | a group of children sit on a blue mat while they eat out of bowls . | un groupe d&apos; enfants sont assis sur un tapis bleu tandis qu&apos; ils mangent dans des bols . | 2838888385.jpg
+field | champ | a small dog watches two big dogs playing rough in a field . | un petit chien regarde deux gros chiens jouer sauvagement dans un champ . | 2844747252.jpg
+building | bâtiment | people sitting in a circle outside a large building . | des gens assis en cercle devant un grand bâtiment . | 2847514745.jpg
+catch | attraper | one dog leaps to catch a softball while another looks on . | un chien saute pour attraper une balle de softball tandis qu&apos; un autre regarde . | 2854959952.jpg
+swing | balançoire | a blond child swinging on a swing . | un enfant blond se balançant sur une balançoire . | 2860040276.jpg
+brown | brun | a brown dog about to catch a green frisbee . | un chien brun sur le point d&apos; attraper un frisbee vert . | 2867026654.jpg
+catch | attraper | a brown dog about to catch a green frisbee . | un chien brun sur le point d&apos; attraper un frisbee vert . | 2867026654.jpg
+band | groupe | fans cheer as the band plays a song . | des fans acclament le groupe tandis qu&apos; il joue une chanson . | 2867460039.jpg
+next | côté | a young boy is standing next to a sand sculpture of a pyramid . | un jeune garçon est debout à côté d&apos; une sculpture en sable représentant une pyramide . | 2869439070.jpg
+yard | jardin | three young children are walking through a grassy yard . | trois jeunes enfants marchent sur la pelouse d&apos; un jardin . | 2870426310.jpg
+dirt | terre | a boy with blue and yellow rain boots runs on dirt . | un garçon avec des bottes bleues et jaunes court dans la terre . | 2889845164.jpg
+field | terrain | two soccer teams are on the field . | deux équipes de football sont sur le terrain . | 289638061.jpg
+wearing | portant | two people wearing odd alien-like costumes , one blue and one purple , are standing in a road . | deux personnes portant des costumes bizarres de type alien , un bleu et un violet , sont debout sur une route . | 2923386532.jpg
+purple | violet | two people wearing odd alien-like costumes , one blue and one purple , are standing in a road . | deux personnes portant des costumes bizarres de type alien , un bleu et un violet , sont debout sur une route . | 2923386532.jpg
+road | route | two people wearing odd alien-like costumes , one blue and one purple , are standing in a road . | deux personnes portant des costumes bizarres de type alien , un bleu et un violet , sont debout sur une route . | 2923386532.jpg
+number | numéro | man running wearing a blue shirt with a number taped to it . | un homme courant , vêtu d&apos; un maillot bleu avec un numéro collé dessus . | 2924306387.jpg
+running | courir | a man that appears to be running in a marathon gives us 2 thumbs up . | un homme qui semble être en train de courir un marathon lève deux pouces en l&apos; air . | 2925163942.jpg
+wearing | tenue | a football player wearing an orange uniform smiling and holding the football . | un joueur de football américain vêtu d&apos; une tenue orange souriant et tenant le ballon . | 2933637854.jpg
+curve | virage | two downhill skateboarders round a curve while others watch . | deux skateurs prennent un virage dans une descente tandis que d&apos; autres regardent . | 2934022873.jpg
+watch | regardent | two downhill skateboarders round a curve while others watch . | deux skateurs prennent un virage dans une descente tandis que d&apos; autres regardent . | 2934022873.jpg
+gold | or | a team in white and gold on the sidelines of a football field . | une équipe en blanc et or sur le bord d&apos; un terrain de football américain . | 293575531.jpg
+field | terrain | a team in white and gold on the sidelines of a football field . | une équipe en blanc et or sur le bord d&apos; un terrain de football américain . | 293575531.jpg
+field | pelouse | a little girl is pushing her scooter through a grassy tree lined field . | une petite fille pousse sa trottinette sur une pelouse bordée d&apos; arbres . | 2936693681.jpg
+crowd | foule | group of asian children dressed in white shirts and hats performing with a crowd looking on . | un groupe d&apos; enfants asiatiques en t-shirts et casquettes blancs faisant un spectacle devant une foule qui regarde . | 2937461473.jpg
+box | carton | pedestrians walking down the street look at a child in a cardboard box . | des piétons marchant dans la rue regardent un enfant dans un carton . | 2943557287.jpg
+brown | brun | a brown dog runs down the sandy beach . | un chien brun court sur la plage de sable . | 2953861572.jpg
+next | côté | two men in army uniforms stand next to a woman . | deux hommes en uniformes militaires sont debout à côté d&apos; une femme . | 2957682838.jpg
+reception | réception | the dali lama during a reception where participants have brought carnations , parasols and prayer flags . | le dalaï lama lors d&apos; une réception où les participants ont apporté des œillets , des ombrelles et des drapeaux de prière . | 2961247549.jpg
+biker | cycliste | a biker jumps an obstacle . | un cycliste saute un obstacle . | 2963672852.jpg
+couple | couple | a couple sitting in white lawn chairs are smiling at the camera . | un couple assis dans des chaises de jardin blanches sourit pour la photo . | 2975627633.jpg
+lawn | jardin | a couple sitting in white lawn chairs are smiling at the camera . | un couple assis dans des chaises de jardin blanches sourit pour la photo . | 2975627633.jpg
+train | train | young kids are on a small train ride . | de jeunes enfants font un tour dans un petit train . | 2975845158.jpg
+surfer | surfeur | a surfer in a blue swimsuit is riding the waves . | un surfeur en combinaison bleue surfe les vagues . | 2978409165.jpg
+ball | ballon | two young men on opposing soccer teams are competing to get the ball on a soccer field . | deux jeunes hommes appartenant à des équipes de football opposées s&apos; affrontent pour avoir le ballon sur un terrain de football . | 2987121689.jpg
+field | terrain | two young men on opposing soccer teams are competing to get the ball on a soccer field . | deux jeunes hommes appartenant à des équipes de football opposées s&apos; affrontent pour avoir le ballon sur un terrain de football . | 2987121689.jpg
+brown | marron | woman wearing brown sandals and blue jeans , in a white shirt , holding a baby under a tall tree . | une femme avec des sandales marron , un jean et un t-shirt blanc tenant un bébé sous un grand arbre . | 2993318965.jpg
+baby | bébé | woman wearing brown sandals and blue jeans , in a white shirt , holding a baby under a tall tree . | une femme avec des sandales marron , un jean et un t-shirt blanc tenant un bébé sous un grand arbre . | 2993318965.jpg
+city | ville | an officer stands next to a car on a city street . | un policier est debout à proximité d&apos; une voiture dans une rue en ville . | 300577375.jpg
+wearing | portant | two men wearing hats . | deux hommes portant des bonnets . | 3006095077.jpg
+kick | frapper | a boy in midair trying to kick a soccer ball | un garçon en l&apos; air essayant de frapper dans un ballon de football | 3009047603.jpg
+ball | ballon | a boy in midair trying to kick a soccer ball | un garçon en l&apos; air essayant de frapper dans un ballon de football | 3009047603.jpg
+head | tête | a young boy with a blue beanie has his head down . | un jeune garçon avec un bonnet bleu a la tête baissée . | 3016244153.jpg
+crowd | foule | a woman directs a crowd of people with a loudspeaker . | une femme s&apos; adresse à une foule de gens avec un mégaphone . | 3028145992.jpg
+crowd | gens | a woman directs a crowd of people with a loudspeaker . | une femme s&apos; adresse à une foule de gens avec un mégaphone . | 3028145992.jpg
+watch | regardent | costumed onlookers watch as a uniformed policeman makes a speech and a man in a suit holds a bowl of fruit . | des spectateurs déguisés regardent tandis qu&apos; un policier en uniforme fait un discours et qu&apos; un homme en costume tient une corbeille de fruits . | 3031792444.jpg
+crowd | foule | a crowd is present at a bar . | une foule se trouve dans un bar . | 3039095384.jpg
+bar | bar | a crowd is present at a bar . | une foule se trouve dans un bar . | 3039095384.jpg
+station | station | a girl in white and a girl in green walk past a blue car wash station . | une fille en blanc et une fille en vert passent devant une station de lavage de voiture bleue . | 3039200576.jpg
+equipment | matériel | a man is using electronic equipment . | un homme utilise du matériel électronique . | 3040999637.jpg
+wave | vague | a person surfing through a crashing wave in the ocean . | une personne surfant une vague s&apos; écrasant dans l&apos; océan . | 3050114829.jpg
+scarf | foulard | riot police are standing in the background while a young man with a red scarf covering his face is walking . | la police antiémeute est debout en arrière-plan tandis qu&apos; un jeune homme avec un foulard rouge sur le visage marche . | 3064443326.jpg
+face | visage | riot police are standing in the background while a young man with a red scarf covering his face is walking . | la police antiémeute est debout en arrière-plan tandis qu&apos; un jeune homme avec un foulard rouge sur le visage marche . | 3064443326.jpg
+climb | escalader | the man in the white t-shirt is starting to climb a rock . | l&apos; homme en t-shirt blanc commence à escalader un rocher . | 3078844565.jpg
+field | champ | three farmers harvest rice out in a rice field . | trois agriculteurs récoltent du riz dans un champ de riz . | 3083913737.jpg
+mess | tas | three children &apos;s legs are shown as they stand near a mess of silly string . | on voit trois jambes d&apos; enfants tandis qu&apos; ils sont debout près d&apos; un tas de bombes à serpentins . | 3086526292.jpg
+cooking | cuisine | a cook is posing for a camera while cooking . | un cuisinier pose pour une photo pendant qu&apos; il cuisine . | 3091786541.jpg
+hill | colline | the teen jumps the hill with his bicycle . | l&apos; ado saute sur la colline avec son vélo . | 3106782647.jpg
+water | eau | white duck flapping its wings in the water . | un canard blanc battant des ailes dans l&apos; eau . | 3128856481.jpg
+front | devant | two males seem to be conversing while standing in front of a truck &apos;s back , and behind a metal item , while four people stand around them . | deux hommes semblent discuter , debout devant l&apos; arrière d&apos; un camion et derrière un objet métallique , tandis que quatre personnes sont debout autour d&apos; eux . | 313385842.jpg
+truck | camion | two males seem to be conversing while standing in front of a truck &apos;s back , and behind a metal item , while four people stand around them . | deux hommes semblent discuter , debout devant l&apos; arrière d&apos; un camion et derrière un objet métallique , tandis que quatre personnes sont debout autour d&apos; eux . | 313385842.jpg
+back | arrière | two males seem to be conversing while standing in front of a truck &apos;s back , and behind a metal item , while four people stand around them . | deux hommes semblent discuter , debout devant l&apos; arrière d&apos; un camion et derrière un objet métallique , tandis que quatre personnes sont debout autour d&apos; eux . | 313385842.jpg
+back | derrière | two males seem to be conversing while standing in front of a truck &apos;s back , and behind a metal item , while four people stand around them . | deux hommes semblent discuter , debout devant l&apos; arrière d&apos; un camion et derrière un objet métallique , tandis que quatre personnes sont debout autour d&apos; eux . | 313385842.jpg
+baby | bébé | a woman in a pink skirt is holding a baby . | une femme en jupe rose tient un bébé . | 3135317718.jpg
+sign | panneau | a man is walking past a large sign that says e.s.e. electronics . | un homme passe devant un grand panneau où est écrit &quot; e.s.e. electronics &quot; . | 314739483.jpg
+top | sommet | three boys wearing green shirts and tan pants pose at the top of a slide . | trois garçons vêtus de t-shirts verts et de pantalons beiges posent au sommet d&apos; un toboggan . | 3148193539.jpg
+slide | toboggan | three boys wearing green shirts and tan pants pose at the top of a slide . | trois garçons vêtus de t-shirts verts et de pantalons beiges posent au sommet d&apos; un toboggan . | 3148193539.jpg
+running | court | the white dog is running in the shallow water . | le chien blanc court dans une eau peu profonde . | 3150380412.jpg
+water | eau | the white dog is running in the shallow water . | le chien blanc court dans une eau peu profonde . | 3150380412.jpg
+marching | défilent | oregon percussionists are marching with the band . | des percussionnistes de l&apos; oregon défilent avec la fanfare . | 3155400369.jpg
+band | fanfare | oregon percussionists are marching with the band . | des percussionnistes de l&apos; oregon défilent avec la fanfare . | 3155400369.jpg
+play | jouent | a group of children play together in a fenced yard as an adult watches . | un groupe d&apos; enfants jouent ensemble dans un jardin clôturé tandis qu&apos; un adulte regarde . | 3155657768.jpg
+yard | jardin | a group of children play together in a fenced yard as an adult watches . | un groupe d&apos; enfants jouent ensemble dans un jardin clôturé tandis qu&apos; un adulte regarde . | 3155657768.jpg
+dress | robe | a little girl in a purple plaid dress is lying on the floor crying . | une petite fille en robe à carreaux violette est allongée sur le sol en train de pleurer . | 3168354472.jpg
+floor | sol | a little girl in a purple plaid dress is lying on the floor crying . | une petite fille en robe à carreaux violette est allongée sur le sol en train de pleurer . | 3168354472.jpg
+snow | neige | two black dogs , a black puppy , and a white dog in the snow . | deux chiens noirs , un chiot noir et un chien blanc dans la neige . | 317383917.jpg
+door | porte | a woman is sitting outside her house with a blue door , enjoying the air . | une femme est assise devant sa maison avec une porte bleue , en train de prendre l&apos; air . | 3182490771.jpg
+water | eau | a gray and white dog jumping over standing water in the sand . | un chien gris et blanc sautant par-dessus de l&apos; eau stagnante dans le sable . | 319185571.jpg
+crowd | foule | a crowd gathered around a park water fountain in the rain . | une foule rassemblée sous la pluie autour d&apos; une fontaine dans un parc . | 3192267612.jpg
+park | parc | a crowd gathered around a park water fountain in the rain . | une foule rassemblée sous la pluie autour d&apos; une fontaine dans un parc . | 3192267612.jpg
+rain | pluie | a crowd gathered around a park water fountain in the rain . | une foule rassemblée sous la pluie autour d&apos; une fontaine dans un parc . | 3192267612.jpg
+snow | neige | a young lassie looking dog is in the snow . | un jeune chien ressemblant à lassie est dans la neige . | 3206999917.jpg
+gold | doré | the soccer player wearing the gold jersey is blocking the ball from the opposing team player . | le joueur de football avec le maillot doré empêche le joueur de l&apos; équipe adverse de prendre le ballon . | 3222702477.jpg
+ball | ballon | the soccer player wearing the gold jersey is blocking the ball from the opposing team player . | le joueur de football avec le maillot doré empêche le joueur de l&apos; équipe adverse de prendre le ballon . | 3222702477.jpg
+yarn | laine | a woman in a black shirt is knitting with purple yarn . | une femme en t-shirt noir tricote avec de la laine violette . | 3223318401.jpg
+descent | origine | four females of asian descent are wearing golden dresses while performing point ballet . | quatre femmes d&apos; origine asiatique portent des robes dorées , tandis qu&apos; elles font des pointes lors d&apos; un ballet . | 3224375029.jpg
+wearing | portent | four females of asian descent are wearing golden dresses while performing point ballet . | quatre femmes d&apos; origine asiatique portent des robes dorées , tandis qu&apos; elles font des pointes lors d&apos; un ballet . | 3224375029.jpg
+wearing | portant | a girl wearing black athletic clothing with the number 1102 on her jersey runs across some grass . | une fille portant des vêtements de sport noirs avec le numéro 1102 sur son maillot court dans l&apos; herbe . | 3227675485.jpg
+number | numéro | a girl wearing black athletic clothing with the number 1102 on her jersey runs across some grass . | une fille portant des vêtements de sport noirs avec le numéro 1102 sur son maillot court dans l&apos; herbe . | 3227675485.jpg
+grass | herbe | a girl wearing black athletic clothing with the number 1102 on her jersey runs across some grass . | une fille portant des vêtements de sport noirs avec le numéro 1102 sur son maillot court dans l&apos; herbe . | 3227675485.jpg
+number | numéro | a kid crosscountry skis wearing the number &quot; 93 . &quot; | un enfant fait du ski de fond avec le numéro &quot; 93 &quot; . | 3231575742.jpg
+hit | frapper | a boy jumping to hit a tennis ball with his racket | un garçon sautant pour frapper une balle de tennis avec sa raquette | 3245460937.jpg
+ball | balle | a boy jumping to hit a tennis ball with his racket | un garçon sautant pour frapper une balle de tennis avec sa raquette | 3245460937.jpg
+wall | mur | kids scale a wall as two other people watch . | des enfants escaladent un mur tandis que deux autres personnes regardent . | 3246281818.jpg
+watch | regardent | kids scale a wall as two other people watch . | des enfants escaladent un mur tandis que deux autres personnes regardent . | 3246281818.jpg
+class | cours | little girl kicks black object at karate class . | une petite fille donne un coup de pied dans un objet noir lors d&apos; un cours de karaté . | 3256456935.jpg
+water | eau | two men trying to hoist themselves up from the water on to a walkway made of tires . | deux hommes essayant de se hisser hors de l&apos; eau sur une passerelle faite de pneus . | 3257107194.jpg
+crowd | foule | two men breakdancing , with a crowd looking on . | deux hommes faisant du breakdance , avec une foule qui les regarde . | 3259992164.jpg
+floor | sol | a dirt floor gets swept by one white and one black woman . | un sol sale est balayé par une femme blanche et une femme noire . | 327142149.jpg
+play | jouent | three dogs play with each other out in the field . | trois chiens jouent ensemble dehors dans le champ . | 3277162496.jpg
+field | champ | three dogs play with each other out in the field . | trois chiens jouent ensemble dehors dans le champ . | 3277162496.jpg
+guide | guide | while visiting the mayan ruins , a guide points in the direction of more attractions . | tout en visitant les ruines mayas , un guide montre la direction d&apos; autres choses à voir . | 3285342629.jpg
+direction | direction | while visiting the mayan ruins , a guide points in the direction of more attractions . | tout en visitant les ruines mayas , un guide montre la direction d&apos; autres choses à voir . | 3285342629.jpg
+wearing | portant | girl wearing radio t-shirt has open mouth | une fille portant un t-shirt radio a la bouche ouverte | 3286543624.jpg
+water | eau | a tribal group filling water jugs in the desert . | un groupe tribal remplissant des bidons d&apos; eau dans le désert . | 3288174272.jpg
+city | ville | a man standing on a city street . | un homme debout dans une rue en ville . | 3293751640.jpg
+snow | neige | young girl enjoying herself as she makes a snow angel . | une jeune fille s&apos; amusant tandis qu&apos; elle fait un ange de neige . | 3324049172.jpg
+chalkboard | tableau | a person is writing on a chalkboard in a empty classroom . | une personne écrit sur un tableau dans une classe vide . | 3332883133.jpg
+empty | vide | a person is writing on a chalkboard in a empty classroom . | une personne écrit sur un tableau dans une classe vide . | 3332883133.jpg
+classroom | classe | a person is writing on a chalkboard in a empty classroom . | une personne écrit sur un tableau dans une classe vide . | 3332883133.jpg
+front | face | a man in a black shirt sitting at a table with an open apple laptop in front of him . | un homme en polo noir assis à une table avec un ordinateur apple ouvert en face de lui . | 3335965982.jpg
+hill | colline | four people relaxing on a grassy hill overlooking a rocky valley . | quatre personnes se reposant sur une colline verdoyante surplombant une vallée rocheuse . | 3339751521.jpg
+outside | dehors | the boy is outside enjoying a summer day . | le garçon est dehors , profitant d&apos; une journée d&apos; été . | 3350002347.jpg
+snow | neige | there are two dogs in the snow and one has something in his mouth . | il y a deux chiens dans la neige et l&apos; un a quelque chose dans sa gueule . | 3354474353.jpg
+break | pause | an employee takes a break from working to have a drink | une employée prend une pause pendant son travail pour boire un verre | 3364114507.jpg
+drink | boire | an employee takes a break from working to have a drink | une employée prend une pause pendant son travail pour boire un verre | 3364114507.jpg
+drink | verre | an employee takes a break from working to have a drink | une employée prend une pause pendant son travail pour boire un verre | 3364114507.jpg
+gold | or | man in a white shirt with a gold watch playing with a circuit board . | un homme en t-shirt blanc avec une montre en or jouant avec une table de mixage . | 3376227992.jpg
+watch | montre | man in a white shirt with a gold watch playing with a circuit board . | un homme en t-shirt blanc avec une montre en or jouant avec une table de mixage . | 3376227992.jpg
+head | tête | a black horse sticking its head through a fence trying to reach the grass . | un cheval noir passant sa tête à travers une clôture , essayant d&apos; atteindre l&apos; herbe . | 3387661249.jpg
+reach | atteindre | a black horse sticking its head through a fence trying to reach the grass . | un cheval noir passant sa tête à travers une clôture , essayant d&apos; atteindre l&apos; herbe . | 3387661249.jpg
+grass | herbe | a black horse sticking its head through a fence trying to reach the grass . | un cheval noir passant sa tête à travers une clôture , essayant d&apos; atteindre l&apos; herbe . | 3387661249.jpg
+warm | réchauffer | a crackhead is pretending to keep his hands warm but actually he is smoking crack . | un toxicomane fait semblant de se réchauffer les mains , mais en fait il fume du crack . | 3391716619.jpg
+crack | crack | a crackhead is pretending to keep his hands warm but actually he is smoking crack . | un toxicomane fait semblant de se réchauffer les mains , mais en fait il fume du crack . | 3391716619.jpg
+ball | ballon | a black-and-white dog goes for a flattened ball on the snow . | un chien noir et blanc court après un ballon dégonflé sur la neige . | 3418504074.jpg
+snow | neige | a black-and-white dog goes for a flattened ball on the snow . | un chien noir et blanc court après un ballon dégonflé sur la neige . | 3418504074.jpg
+next | côté | a young girl standing next to a yellow cat on a kitchen countertop . | une jeune fille debout à côté d&apos; un chat jaune sur un comptoir de cuisine . | 3421480658.jpg
+hand | main | a tennis player in a green striped shirt is holding his hand up to his mouth . | un joueur de tennis en débardeur rayé vert porte sa main à sa bouche . | 3425756814.jpg
+water | eau | a boy in a red suit plays in the water . | un garçon en maillot de bain rouge joue dans l&apos; eau . | 3430607596.jpg
+cap | bonnet | a child wearing a red coat and cap is holding a large chunk of snow . | un enfant vêtu d&apos; un manteau et d&apos; un bonnet rouges tient un gros bloc de neige . | 3432586199.jpg
+snow | neige | a child wearing a red coat and cap is holding a large chunk of snow . | un enfant vêtu d&apos; un manteau et d&apos; un bonnet rouges tient un gros bloc de neige . | 3432586199.jpg
+next | côté | two people standing next to a tree on the ground . | deux personnes debout à côté d&apos; un arbre par terre . | 3441959314.jpg
+talking | parler | two men sit talking near a stone building . | deux hommes sont assis à parler à côté d&apos; un bâtiment en pierre . | 3443404125.jpg
+building | bâtiment | two men sit talking near a stone building . | deux hommes sont assis à parler à côté d&apos; un bâtiment en pierre . | 3443404125.jpg
+ball | balle | a black and white dog is playing with a white ball . | un chien noir et blanc joue avec une balle blanche . | 3449846784.jpg
+front | devant | two people are kissing on a sidewalk in front of a limo while people walk by . | deux personnes s&apos; embrassent sur un trottoir devant une limousine tandis que des gens passent . | 3456488632.jpg
+dirt | terre | two large dogs are fighting in a dirt field . | deux gros chiens se battent sur un terrain en terre . | 3473534758.jpg
+field | terrain | two large dogs are fighting in a dirt field . | deux gros chiens se battent sur un terrain en terre . | 3473534758.jpg
+brown | brun | a brown dog jumping over a hurdle . | un chien brun sautant par-dessus un obstacle . | 3474406285.jpg
+fight | bataille | children fight to win a tug-of-war battle . | des enfants se battent pour gagner une bataille de tir à la corde . | 3483071906.jpg
+bike | vtt | a cyclist is leaning a mountain bike around a bend on a dirt track . | un cycliste penche un vtt dans un virage sur un chemin de terre . | 3487979741.jpg
+bend | virage | a cyclist is leaning a mountain bike around a bend on a dirt track . | un cycliste penche un vtt dans un virage sur un chemin de terre . | 3487979741.jpg
+dirt | terre | a cyclist is leaning a mountain bike around a bend on a dirt track . | un cycliste penche un vtt dans un virage sur un chemin de terre . | 3487979741.jpg
+bike | vélo | the young boy learns how to ride a bike with his dad . | le jeune garçon apprend à faire du vélo avec son papa . | 3495349745.jpg
+front | devant | an african family are standing in front of some makeshift houses . | une famille africaine est debout devant des maisons de fortune . | 3501083764.jpg
+next | côté | a man playing an instrument next to a tree . | un homme jouant d&apos; un instrument à côté d&apos; un arbre . | 3504379699.jpg
+brown | brun | a panting brown dog walking on the grass . | un chien brun haletant marchant sur la pelouse . | 3514194772.jpg
+grass | pelouse | a panting brown dog walking on the grass . | un chien brun haletant marchant sur la pelouse . | 3514194772.jpg
+check | chèque | a woman is holding a large check for kids food basket . | une femme tient un gros chèque pour kids food basket . | 3514685438.jpg
+ball | balle | the two dogs , one with a tennis ball in its mouth , are running through tall grass . | les deux chiens , dont l&apos; un avec une balle de tennis dans sa gueule , courent dans l&apos; herbe haute . | 3525403875.jpg
+grass | herbe | the two dogs , one with a tennis ball in its mouth , are running through tall grass . | les deux chiens , dont l&apos; un avec une balle de tennis dans sa gueule , courent dans l&apos; herbe haute . | 3525403875.jpg
+park | parc | two adults and two children sit on a park bench . | deux adultes et deux enfants sont assis sur un banc dans un parc . | 3527184455.jpg
+field | pré | a woman in a grassy field blows on a dandelion . | une femme dans un pré souffle sur un pissenlit . | 3530687486.jpg
+reading | lire | an old man on a subway wearing heavy layered clothing is reading a newspaper . | un vieil homme dans un métro , avec plusieurs couches de vêtements , est en train de lire le journal . | 354017707.jpg
+bike | vélo | a man performing a trick on a bicycle by standing on the pedals while the bike is upright . | un homme effectuant une figure sur un vélo en se tenant debout sur les pédales tandis que le vélo est sur la roue arrière . | 3543294190.jpg
+bike | vélo | a man performing a trick on a bicycle by standing on the pedals while the bike is upright . | un homme effectuant une figure sur un vélo en se tenant debout sur les pédales tandis que le vélo est sur la roue arrière . | 3543294190.jpg
+making | faire | a man is at the beach making a sand sculpture . | un homme est à la plage , en train de faire une sculpture de sable . | 35437191.jpg
+park | parc | multiple people in a park eating at a picnic table | de nombreuses personnes dans un parc , mangeant sur une table de pique-nique | 35477421.jpg
+construction | construction | two women are strapped to a tree in some type of construction job . | deux femmes exerçant une sorte de métier de construction sont attachées à un arbre . | 3554391279.jpg
+front | devant | two girls in puffy skirts are dancing in front of some musicians in the street . | deux filles en jupes bouffantes dansent devant des musiciens dans la rue . | 3565598162.jpg
+stick | bâton | the yellow dog is carrying a stick by water . | le chien jaune porte un bâton au bord de l&apos; eau . | 3571193625.jpg
+water | eau | the yellow dog is carrying a stick by water . | le chien jaune porte un bâton au bord de l&apos; eau . | 3571193625.jpg
+place | lieu | a rock concert is taking place . | un concert de rock a lieu . | 3583105294.jpg
+love | amour | three women in bright colors and headdresses are holding love message cards . | trois femmes vêtues de couleurs vives et de coiffes tiennent des cartes avec des messages d&apos; amour . | 3587449716.jpg
+brown | brun | a brown dog is digging in the dirt . | un chien brun creuse dans la terre . | 3589267801.jpg
+dirt | terre | a brown dog is digging in the dirt . | un chien brun creuse dans la terre . | 3589267801.jpg
+woods | bois | two dogs running away from the camera in the woods . | deux chiens fuyant l&apos; objectif dans les bois . | 3593392955.jpg
+side | bord | two male hikers inspect a log by the side of a forest path . | deux randonneurs inspectent un tronc au bord d&apos; un chemin forestier . | 3600229533.jpg
+path | chemin | two male hikers inspect a log by the side of a forest path . | deux randonneurs inspectent un tronc au bord d&apos; un chemin forestier . | 3600229533.jpg
+city | ville | two boys cross a city street while kicking a red soccer ball . | deux garçons traversent une rue en ville tout en donnant un coup de pied dans un ballon de football rouge . | 3608661756.jpg
+ball | ballon | two boys cross a city street while kicking a red soccer ball . | deux garçons traversent une rue en ville tout en donnant un coup de pied dans un ballon de football rouge . | 3608661756.jpg
+back | dos | a man holding up another with his back . | un homme en soulevant un autre avec son dos . | 3612485097.jpg
+hanging | accroche | a young boy is hanging onto a clothing rack . | un jeune garçon s&apos; accroche à un portant . | 3642604708.jpg
+bar | barre | a little girl wearing pink is holding on to a bar . | une petite fille en rose se tient à une barre . | 3643021980.jpg
+park | parc | a woman playing with two young boys at a park | une femme jouant avec deux jeunes garçons dans un parc | 3647826834.jpg
+wearing | portant | two teenage girls hugging , one wearing a bicycle helmet , with cyclists in the background . | deux adolescentes s&apos; enlaçant , l&apos; une portant un casque de vélo , avec des cyclistes en arrière-plan . | 3665179773.jpg
+snow | neige | two medium sized dogs run across the snow . | deux chiens de taille moyenne courent dans la neige . | 366548880.jpg
+field | pelouse | a woman is standing in a green field holding a white dog and pointing at a brown dog . | une femme est debout sur une pelouse , tenant un chien blanc et désignant un chien marron . | 3671851846.jpg
+brown | marron | a woman is standing in a green field holding a white dog and pointing at a brown dog . | une femme est debout sur une pelouse , tenant un chien blanc et désignant un chien marron . | 3671851846.jpg
+market | marché | a table full of pictures in frames , at an outdoor market . | une table pleine de photos dans des cadres , sur un marché de plein air . | 367400736.jpg
+outside | dehors | two people sit at a table outside against a wall and make faces . | deux personnes sont assises à une table dehors devant un mur et font des grimaces . | 3687062281.jpg
+wall | mur | two people sit at a table outside against a wall and make faces . | deux personnes sont assises à une table dehors devant un mur et font des grimaces . | 3687062281.jpg
+drink | boisson | a guy in a white shirt is walking with a drink in his hand . | un gars en t-shirt blanc marche avec une boisson à la main . | 3700739661.jpg
+hand | main | a guy in a white shirt is walking with a drink in his hand . | un gars en t-shirt blanc marche avec une boisson à la main . | 3700739661.jpg
+pile | tas | the four people sit on a pile of rocks . | les quatre personnes sont assises sur un tas de rochers . | 3716244806.jpg
+gear | tenue | bicyclist in racing gear rides through forest area . | un cycliste en tenue de course roule dans une forêt . | 3721082512.jpg
+race | course | several men standing around an antique race car | plusieurs hommes debout autour d&apos; une vieille voiture de course | 3722006169.jpg
+work | travaillent | two men work under the hood of a white race car . | deux hommes travaillent sous le capot d&apos; une voiture de course blanche . | 3722504168.jpg
+hood | capot | two men work under the hood of a white race car . | deux hommes travaillent sous le capot d&apos; une voiture de course blanche . | 3722504168.jpg
+race | course | two men work under the hood of a white race car . | deux hommes travaillent sous le capot d&apos; une voiture de course blanche . | 3722504168.jpg
+pool | piscine | children jump off the edge into a pool . | des enfants sautent du rebord dans une piscine . | 3724738804.jpg
+wall | mur | a man on the edge of a wall about to fall off . | un homme au bord d&apos; un mur , sur le point de tomber . | 3728256505.jpg
+fall | tomber | a man on the edge of a wall about to fall off . | un homme au bord d&apos; un mur , sur le point de tomber . | 3728256505.jpg
+bike | vélo | a woman in a striped outfit on a bike . | une femme en tenue rayée sur un vélo . | 3739742770.jpg
+water | eau | man in shorts standing by the water . | un homme en short debout au bord de l&apos; eau . | 3773310720.jpg
+bar | barre | a gymnast wearing red and white is mid-twirl on an uneven bar . | une gymnaste vêtue de rouge et blanc est au milieu d&apos; un tour sur une barre asymétrique . | 378969774.jpg
+dress | robe | a teacher in white and a little girl wearing a yellow dress playing with building block . | une enseignante en blanc et une petite fille vêtue d&apos; une robe jaune jouant avec des blocs de construction . | 3799847884.jpg
+building | construction | a teacher in white and a little girl wearing a yellow dress playing with building block . | une enseignante en blanc et une petite fille vêtue d&apos; une robe jaune jouant avec des blocs de construction . | 3799847884.jpg
+grass | herbe | a woman eating in the grass on a beautiful day . | une femme mangeant dans l&apos; herbe par une belle journée . | 3826425403.jpg
+next | côté | a man walks down a cobblestone street next to buildings painted tan with red eaves . | un homme se promène dans une rue pavée à côté de bâtiments peints en beige avec des corniches rouges . | 3827298104.jpg
+tan | beige | a man walks down a cobblestone street next to buildings painted tan with red eaves . | un homme se promène dans une rue pavée à côté de bâtiments peints en beige avec des corniches rouges . | 3827298104.jpg
+wearing | portant | a woman wearing a hat with making bread . | une femme portant un chapeau fait du pain . | 3827317206.jpg
+hat | chapeau | a woman wearing a hat with making bread . | une femme portant un chapeau fait du pain . | 3827317206.jpg
+field | champ | a solitary woman uses a large primitive mortar and pestle to crush plant material as she stands in a stubble field . | une femme solitaire utilise un grand mortier et un pilon rudimentaires pour écraser des matières végétales tandis qu&apos; elle est debout dans un champ de chaume . | 384806138.jpg
+front | devant | a man in a karate is performing in front of two judges . | un homme en tenue de karaté se produit devant deux juges . | 38541144.jpg
+city | ville | a man in formal attire plays a piano on the sidewalk of a city street . | un homme en tenue de cérémonie joue du piano sur le trottoir d&apos; une rue en ville . | 3858873745.jpg
+counter | comptoir | a woman in a white shirt works behind the counter at a cafe . | une femme en chemise blanche travaille derrière le comptoir d&apos; un café . | 3884010975.jpg
+work | travail | a man with work clothes on standing on the back of a truck . | un homme en tenue de travail debout à l&apos; arrière d&apos; un camion . | 3887428186.jpg
+back | arrière | a man with work clothes on standing on the back of a truck . | un homme en tenue de travail debout à l&apos; arrière d&apos; un camion . | 3887428186.jpg
+truck | camion | a man with work clothes on standing on the back of a truck . | un homme en tenue de travail debout à l&apos; arrière d&apos; un camion . | 3887428186.jpg
+looking | regardant | two children looking at horses through a small fence . | deux enfants regardant des chevaux à travers une petite clôture . | 388837010.jpg
+design | dessin | a window with some type of design painted on it . | une fenêtre avec une sorte de dessin peint dessus . | 3903017514.jpg
+wearing | portant | a woman wearing a bright pink overcoat makes a face to a woman wearing a purple overcoat while standing outside a vitamin shoppe . | une femme vêtue d&apos; un pardessus rose vif fait une grimace à une femme portant un pardessus violet , tandis qu&apos; elle est debout devant un vitamin shoppe . | 3913884179.jpg
+bright | vif | a woman wearing a bright pink overcoat makes a face to a woman wearing a purple overcoat while standing outside a vitamin shoppe . | une femme vêtue d&apos; un pardessus rose vif fait une grimace à une femme portant un pardessus violet , tandis qu&apos; elle est debout devant un vitamin shoppe . | 3913884179.jpg
+wearing | portant | a woman wearing a bright pink overcoat makes a face to a woman wearing a purple overcoat while standing outside a vitamin shoppe . | une femme vêtue d&apos; un pardessus rose vif fait une grimace à une femme portant un pardessus violet , tandis qu&apos; elle est debout devant un vitamin shoppe . | 3913884179.jpg
+purple | violet | a woman wearing a bright pink overcoat makes a face to a woman wearing a purple overcoat while standing outside a vitamin shoppe . | une femme vêtue d&apos; un pardessus rose vif fait une grimace à une femme portant un pardessus violet , tandis qu&apos; elle est debout devant un vitamin shoppe . | 3913884179.jpg
+talking | parler | a man in a yellow shirt and a man in a dark blue shirt talking . | un homme en polo jaune et un homme en t-shirt bleu foncé en train de parler . | 3914751903.jpg
+hit | frapper | a girl in a red shirt jumps up to hit a tennis ball . | une fille en t-shirt rouge saute pour frapper une balle de tennis . | 3928395936.jpg
+ball | balle | a girl in a red shirt jumps up to hit a tennis ball . | une fille en t-shirt rouge saute pour frapper une balle de tennis . | 3928395936.jpg
+truck | camion | a man is loading a box truck with lots of baked pretzels . | un homme charge un camion fourgon avec de nombreux bretzels cuits . | 3938498023.jpg
+water | eau | a man stands on a rocky cliff overlooking a body of water . | un homme est debout sur une falaise rocheuse surplombant une étendue d&apos; eau . | 396360611.jpg
+watching | regardant | police officer watching woman exit from bus . | un agent de police regardant une femme sortir du bus . | 3966071063.jpg
+exit | sortir | police officer watching woman exit from bus . | un agent de police regardant une femme sortir du bus . | 3966071063.jpg
+looking | regardant | two men in blue shirts looking at a soccer game . | deux hommes en chemises bleues regardant un match de foot . | 3970114165.jpg
+crowd | foule | a large crowd of people are standing around in a park and a few are playing instruments . | une grande foule de gens sont debout dans un parc et quelques-uns jouent avec des instruments . | 3999246475.jpg
+crowd | gens | a large crowd of people are standing around in a park and a few are playing instruments . | une grande foule de gens sont debout dans un parc et quelques-uns jouent avec des instruments . | 3999246475.jpg
+park | parc | a large crowd of people are standing around in a park and a few are playing instruments . | une grande foule de gens sont debout dans un parc et quelques-uns jouent avec des instruments . | 3999246475.jpg
+balloon | ballon | a man with a balloon hat makes balloon animals . | un homme avec un chapeau ballon fait des ballons en forme d&apos; animaux . | 3999247601.jpg
+hat | chapeau | a man with a balloon hat makes balloon animals . | un homme avec un chapeau ballon fait des ballons en forme d&apos; animaux . | 3999247601.jpg
+balloon | ballon | a man with a balloon hat makes balloon animals . | un homme avec un chapeau ballon fait des ballons en forme d&apos; animaux . | 3999247601.jpg
+market | marché | two men selling fruit at a fruit market . | deux hommes vendant des fruits sur un marché de fruits . | 4031513473.jpg
+drink | boisson | brunette woman in a white bikini pouring a drink into a man &apos;s cup . | une femme brune en bikini blanc verse une boisson dans le gobelet d&apos; un homme . | 4035354150.jpg
+running | court | boy in sunglasses is running behind a fair . | un garçon avec des lunettes de soleil court derrière une foire . | 4039846249.jpg
+hand | main | a gloved hand holds what appears to be an oversize nail against a log . | une main gantée tient ce qui semble être un clou surdimensionné contre un tronc . | 4043318461.jpg
+dress | robe | a young girl in a red dress is wearing a black cowboy hat . | une jeune fille en robe rouge porte un chapeau de cowboy noir . | 4062550863.jpg
+hat | chapeau | a young girl in a red dress is wearing a black cowboy hat . | une jeune fille en robe rouge porte un chapeau de cowboy noir . | 4062550863.jpg
+ball | ballon | man in red and white soccer uniform stands on the field boundary lines with yellow and blue soccer ball . | un homme en tenue de football rouge et blanche est debout sur la ligne de touche avec un ballon jaune et bleu . | 4065328632.jpg
+rope | corde | people jump over a mountain crevasse on a rope . | des gens sautent par-dessus une crevasse de montagne sur une corde . | 407008823.jpg
+front | devant | people on laptops in front pf a large window . | des gens sur des ordinateurs portables devant une grande fenêtre . | 407569668.jpg
+work | travail | a disc jockey busy at work as lights shine upon him . | un disc-jockey en plein travail tandis que des lumières brillent sur lui . | 4077122969.jpg
+field | champ | a man wearing gloves carries corn through a field . | un homme avec des gants transporte du maïs dans un champ . | 407815946.jpg
+wall | mur | a woman sitting against a brick wall inside a building . | une femme assise contre un mur de briques à l&apos; intérieur d&apos; un bâtiment . | 409327234.jpg
+building | bâtiment | a woman sitting against a brick wall inside a building . | une femme assise contre un mur de briques à l&apos; intérieur d&apos; un bâtiment . | 409327234.jpg
+plush | luxueux | three young women face each other while sitting on red plush chairs . | trois jeunes femmes se font face , assises dans de luxueux fauteuils rouges . | 4093460759.jpg
+tan | brun | a tan dog playing with a stick on the shore . | un chien brun jouant avec un bâton sur le rivage . | 411175971.jpg
+stick | bâton | a tan dog playing with a stick on the shore . | un chien brun jouant avec un bâton sur le rivage . | 411175971.jpg
+motorcycle | moto | a child is on a motorcycle smiling . | un enfant est sur une moto en souriant . | 4139974800.jpg
+marching | défilent | military families are marching through new york on a rainy day . | des familles de militaires défilent dans new york un jour de pluie . | 4150353377.jpg
+motorcycle | moto | a woman in a blue helmet and red pants riding a motorcycle . | une femme avec un casque bleu et un pantalon rouge faisant de la moto . | 4153147942.jpg
+looking | regardant | people looking over several colored pieces of paper spread on a table . | des gens regardant plusieurs feuilles de papier colorées étalées sur une table . | 4200930361.jpg
+microphone | micro | a man sings and plays the guitar into a microphone . | un homme chante et joue de la guitare dans un micro . | 4202061400.jpg
+water | eau | two women in shorts run down a beach along the water . | deux femmes en shorts courent sur une plage au bord de l&apos; eau . | 4256162530.jpg
+view | vue | a view of a pedestrian thoroughfare , featuring a man in a black apron and a white baseball cap standing in the middle of the image . | une vue d&apos; une artère piétonne , avec un homme en tablier noir et casquette blanche debout au milieu de la photo . | 4282691555.jpg
+cap | casquette | a view of a pedestrian thoroughfare , featuring a man in a black apron and a white baseball cap standing in the middle of the image . | une vue d&apos; une artère piétonne , avec un homme en tablier noir et casquette blanche debout au milieu de la photo . | 4282691555.jpg
+middle | milieu | a view of a pedestrian thoroughfare , featuring a man in a black apron and a white baseball cap standing in the middle of the image . | une vue d&apos; une artère piétonne , avec un homme en tablier noir et casquette blanche debout au milieu de la photo . | 4282691555.jpg
+talking | parlant | a group of men sitting and talking behind some green fruit . | un groupe d&apos; hommes assis et parlant derrière des fruits verts . | 4284980126.jpg
+microphone | micro | a guy with a yellow outfit on standing behind a microphone under a tent . | un gars avec une tenue jaune debout derrière un micro sous une tente . | 428979011.jpg
+brown | marron | a brown dog with a purple frisbee in its mouth . | un chien marron avec un frisbee violet dans sa gueule . | 430173345.jpg
+purple | violet | a brown dog with a purple frisbee in its mouth . | un chien marron avec un frisbee violet dans sa gueule . | 430173345.jpg
+looking | allure | it looks like a man practicing his martial arts moves near some muddy looking water . | il semble qu&apos; un homme répète ses mouvements d&apos; arts martiaux près d&apos; une eau d&apos; allure boueuse . | 4308077016.jpg
+water | eau | it looks like a man practicing his martial arts moves near some muddy looking water . | il semble qu&apos; un homme répète ses mouvements d&apos; arts martiaux près d&apos; une eau d&apos; allure boueuse . | 4308077016.jpg
+drink | boisson | a woman with a drink and a woman with a cellphone . | une femme avec une boisson et une femme avec un téléphone portable . | 43244430.jpg
+hand | main | a child in a red coat waves a hand in the air while lying in snow beside a red plastic sled . | un enfant en manteau rouge lève une main en l&apos; air , tandis qu&apos; il est allongé dans la neige à côté d&apos; une luge en plastique rouge . | 4337180031.jpg
+snow | neige | a child in a red coat waves a hand in the air while lying in snow beside a red plastic sled . | un enfant en manteau rouge lève une main en l&apos; air , tandis qu&apos; il est allongé dans la neige à côté d&apos; une luge en plastique rouge . | 4337180031.jpg
+sled | luge | a child in a red coat waves a hand in the air while lying in snow beside a red plastic sled . | un enfant en manteau rouge lève une main en l&apos; air , tandis qu&apos; il est allongé dans la neige à côté d&apos; une luge en plastique rouge . | 4337180031.jpg
+next | côté | a woman sitting next to her purse watching dogs at the park . | une femme assise à côté de son sac à main , regardant des chiens dans le parc . | 435054077.jpg
+watching | regardant | a woman sitting next to her purse watching dogs at the park . | une femme assise à côté de son sac à main , regardant des chiens dans le parc . | 435054077.jpg
+park | parc | a woman sitting next to her purse watching dogs at the park . | une femme assise à côté de son sac à main , regardant des chiens dans le parc . | 435054077.jpg
+stage | scène | three men are standing on a stage , one is wearing clown makeup and holding a guitar . | trois hommes sont debout sur une scène , l&apos; un avec du maquillage de clown et une guitare . | 4351734575.jpg
+dress | robe | the woman in the red dress is dancing with the man in a suit . | la femme en robe rouge danse avec l&apos; homme en costume . | 4373983146.jpg
+ball | balle | two small dogs follow a larger dog with a tennis ball | deux petits chiens suivent un chien plus gros avec une balle de tennis | 441212506.jpg
+cap | casquette | a man with a bushy beard and a baseball cap sits on a park bench . | un homme avec une grosse barbe et une casquette est assis sur un banc dans un parc . | 441817653.jpg
+park | parc | a man with a bushy beard and a baseball cap sits on a park bench . | un homme avec une grosse barbe et une casquette est assis sur un banc dans un parc . | 441817653.jpg
+brush | brosser | a young girl is trying to brush a goat . | une jeune fille essaie de brosser une chèvre . | 4420174290.jpg
+wearing | portant | a baby girl eats a cookie while seated in a highchair and wearing a bib . | une petite fille mange un cookie , assise dans une chaise haute et portant un bavoir . | 442983801.jpg
+lawn | pelouse | a gray-haired man wearing black gloves is moving the lawn . | un homme aux cheveux gris avec des gants noirs tond la pelouse . | 4434125934.jpg
+row | rangée | a woman reads a book while sitting in a row of red chairs . | une femme lit un livre tout en étant assise dans une rangée de fauteuils rouges . | 4434578571.jpg
+snow | neige | a family is walking on the sidewalk through the snow while a man sits on the side with his paper cup . | une famille marche sur le trottoir dans la neige tandis qu&apos; un homme est assis sur le côté avec son gobelet en carton . | 4442323516.jpg
+side | côté | a family is walking on the sidewalk through the snow while a man sits on the side with his paper cup . | une famille marche sur le trottoir dans la neige tandis qu&apos; un homme est assis sur le côté avec son gobelet en carton . | 4442323516.jpg
+sign | enseigne | a cat sits on top of a store sign . | un chat est assis sur une enseigne de magasin . | 4443087396.jpg
+male | homme | a male in a suit holding a beverage in a cup walking down the sidewalk , next to a city bus . | un homme en costume tenant une boisson dans un gobelet marchant sur le trottoir , à côté d&apos; un bus . | 4460747081.jpg
+next | côté | a male in a suit holding a beverage in a cup walking down the sidewalk , next to a city bus . | un homme en costume tenant une boisson dans un gobelet marchant sur le trottoir , à côté d&apos; un bus . | 4460747081.jpg
+cooking | cuisine | a man in a white apron is cooking something with eggs on a pan outside for a woman in a tan jacket . | un homme en tablier blanc cuisine quelque chose avec des œufs dans une poêle dehors pour une femme en veste beige . | 4469735380.jpg
+outside | dehors | a man in a white apron is cooking something with eggs on a pan outside for a woman in a tan jacket . | un homme en tablier blanc cuisine quelque chose avec des œufs dans une poêle dehors pour une femme en veste beige . | 4469735380.jpg
+tan | beige | a man in a white apron is cooking something with eggs on a pan outside for a woman in a tan jacket . | un homme en tablier blanc cuisine quelque chose avec des œufs dans une poêle dehors pour une femme en veste beige . | 4469735380.jpg
+city | ville | a group of men walk down a city street . | un groupe d&apos; hommes marchent dans une rue en ville . | 4476827011.jpg
+road | route | a road next to an interesting place with lots of pillars . | une route à côté d&apos; un endroit intéressant avec de nombreux piliers . | 4479738973.jpg
+next | côté | a road next to an interesting place with lots of pillars . | une route à côté d&apos; un endroit intéressant avec de nombreux piliers . | 4479738973.jpg
+place | endroit | a road next to an interesting place with lots of pillars . | une route à côté d&apos; un endroit intéressant avec de nombreux piliers . | 4479738973.jpg
+dock | quai | a group of people in black standing on a dock nearby a long structure . | un groupe de personnes en noir debout sur un quai à proximité d&apos; une longue structure . | 4481348193.jpg
+nearby | proximité | a group of people in black standing on a dock nearby a long structure . | un groupe de personnes en noir debout sur un quai à proximité d&apos; une longue structure . | 4481348193.jpg
+structure | structure | a group of people in black standing on a dock nearby a long structure . | un groupe de personnes en noir debout sur un quai à proximité d&apos; une longue structure . | 4481348193.jpg
+outside | dehors | girl with green arm band , hair ties , and earrings stands outside . | une fille avec un brassard vert , des rubans dans les cheveux et des boucles d&apos; oreilles est debout dehors . | 4489839598.jpg
+city | ville | a skateboarder in a black t-shirt and jeans skating threw the city . | un skateur en t-shirt noir et jean roulant en ville . | 4494095559.jpg
+photograph | photo | a man in a jacket is taking a photograph of a large building . | un homme en veste prend une photo d&apos; un grand bâtiment . | 4495033915.jpg
+building | bâtiment | a man in a jacket is taking a photograph of a large building . | un homme en veste prend une photo d&apos; un grand bâtiment . | 4495033915.jpg
+match | match | people on the sideline of a soccer match . | des gens sur la touche lors d&apos; un match de football . | 450697885.jpg
+city | ville | in this photo there is a family of four dashing across a busy street in the city . | sur cette photo , il y a une famille de quatre personnes se dépêchant pour traverser une rue très fréquentée en ville . | 4507759934.jpg
+wearing | portant | a street near a stoplight with several people including a man wearing a brown coat and sunglasses with his hand to his face . | une rue à proximité d&apos; un feu tricolore avec plusieurs personnes , dont un homme portant un manteau brun et des lunettes de soleil avec sa main sur son visage . | 4516267602.jpg
+brown | brun | a street near a stoplight with several people including a man wearing a brown coat and sunglasses with his hand to his face . | une rue à proximité d&apos; un feu tricolore avec plusieurs personnes , dont un homme portant un manteau brun et des lunettes de soleil avec sa main sur son visage . | 4516267602.jpg
+hand | main | a street near a stoplight with several people including a man wearing a brown coat and sunglasses with his hand to his face . | une rue à proximité d&apos; un feu tricolore avec plusieurs personnes , dont un homme portant un manteau brun et des lunettes de soleil avec sa main sur son visage . | 4516267602.jpg
+face | visage | a street near a stoplight with several people including a man wearing a brown coat and sunglasses with his hand to his face . | une rue à proximité d&apos; un feu tricolore avec plusieurs personnes , dont un homme portant un manteau brun et des lunettes de soleil avec sa main sur son visage . | 4516267602.jpg
+ball | balle | this player with the blue helmet was at bat and just finished swinging at the ball during a team baseball game . | ce joueur avec le casque bleu était à la batte et vient de frapper la balle pendant un match de baseball . | 4517838680.jpg
+gold | doré | the woman in the gold coat hurries to catch the subway . | la femme en manteau doré se presse pour prendre le métro . | 4520820052.jpg
+front | devant | some people sit on benches under rows of trees in front of a building . | des gens sont assis sur des bancs sous des rangées d&apos; arbres devant un bâtiment . | 4523132391.jpg
+building | bâtiment | some people sit on benches under rows of trees in front of a building . | des gens sont assis sur des bancs sous des rangées d&apos; arbres devant un bâtiment . | 4523132391.jpg
+stop | arrêt | a man in a suit is sitting at a bus stop . | un homme en costume est assis à un arrêt de bus . | 4525077213.jpg
+hat | chapeau | a man in a suit and hat is playing the guitar on the street . | un homme avec un costume et un chapeau joue de la guitare dans la rue . | 4539608494.jpg
+smoke | fumée | people standing around incense , wafting the smoke into their faces . | des gens debout autour d&apos; encens , recevant la fumée dans leurs visages . | 4546499100.jpg
+tie | attacher | a man using the bathroom mirror to tie his tie . | un homme utilisant le miroir de la salle de bain pour attacher sa cravate . | 4549977232.jpg
+tie | cravate | a man using the bathroom mirror to tie his tie . | un homme utilisant le miroir de la salle de bain pour attacher sa cravate . | 4549977232.jpg
+tie | attacher | a man using the bathroom mirror to tie his tie . | un homme utilisant le miroir de la salle de bain pour attacher sa cravate . | 4549977232.jpg
+tie | cravate | a man using the bathroom mirror to tie his tie . | un homme utilisant le miroir de la salle de bain pour attacher sa cravate . | 4549977232.jpg
+crowd | foule | music being played by several individuals while a happy crowd sits and listens . | de la musique jouée par plusieurs personnes tandis qu&apos; une foule joyeuse est assise et écoute . | 4553348746.jpg
+dress | robe | a woman in a dress walking down the street past a construction site . | une femme en robe passant devant un chantier dans la rue . | 4560420776.jpg
+construction | chantier | a woman in a dress walking down the street past a construction site . | une femme en robe passant devant un chantier dans la rue . | 4560420776.jpg
+site | chantier | a woman in a dress walking down the street past a construction site . | une femme en robe passant devant un chantier dans la rue . | 4560420776.jpg
+construction | construction | a man with sunglasses is operating a construction automobile and releasing gravel on to the ground . | un homme avec des lunettes de soleil manie un engin de construction et fait tomber du gravier par terre . | 4563143284.jpg
+baby | bébé | a baby playing with her toys looking at a black and white cat . | un bébé jouant avec ses jouets , regardant un chat noir et blanc . | 4567311889.jpg
+looking | regardant | a baby playing with her toys looking at a black and white cat . | un bébé jouant avec ses jouets , regardant un chat noir et blanc . | 4567311889.jpg
+woods | bois | a teenage girl is carrying a guitar in the woods . | une adolescente porte une guitare dans les bois . | 4567455846.jpg
+wearing | portant | a man wearing a backpack is walking down the street . | un homme portant un sac à dos se promène dans la rue . | 4578856261.jpg
+front | devant | two men are having a conversation in front of a souvenir shop in rome . | deux hommes ont une conversation devant une boutique de souvenirs à rome . | 4587060991.jpg
+shop | boutique | two men are having a conversation in front of a souvenir shop in rome . | deux hommes ont une conversation devant une boutique de souvenirs à rome . | 4587060991.jpg
+bike | vélo | a man riding his bike up the ramp . | un homme sautant avec son vélo sur la rampe . | 4592269543.jpg
+wearing | portant | a woman wearing a black tank top and a cross necklace stares off into the distance near sunset . | une femme portant un débardeur noir et une croix autour du cou regarde au loin près du soleil se couchant . | 4603095253.jpg
+cross | croix | a woman wearing a black tank top and a cross necklace stares off into the distance near sunset . | une femme portant un débardeur noir et une croix autour du cou regarde au loin près du soleil se couchant . | 4603095253.jpg
+road | route | a man is skateboarding on a road while another man watches from the sidewalk . | un homme fait du skateboard sur une route tandis qu&apos; un autre homme regarde du trottoir . | 4612060755.jpg
+front | devant | a man in a black leather coat is standing in front of a sign . | un homme en blouson de cuir noir est debout devant une banderole . | 4613268345.jpg
+sign | banderole | a man in a black leather coat is standing in front of a sign . | un homme en blouson de cuir noir est debout devant une banderole . | 4613268345.jpg
+male | homme | a male and female singing a song together outside . | un homme et une femme chantant une chanson ensemble dehors . | 4615770260.jpg
+female | femme | a male and female singing a song together outside . | un homme et une femme chantant une chanson ensemble dehors . | 4615770260.jpg
+singing | chantant | a male and female singing a song together outside . | un homme et une femme chantant une chanson ensemble dehors . | 4615770260.jpg
+outside | dehors | a male and female singing a song together outside . | un homme et une femme chantant une chanson ensemble dehors . | 4615770260.jpg
+top | haut | a young girl with curly blond-hair and wearing a white top lies in the grass , holding a flower stem . | une jeune fille avec des cheveux blonds bouclés et un haut blanc est allongée dans l&apos; herbe , tenant la tige d&apos; une fleur . | 4620293662.jpg
+grass | herbe | a young girl with curly blond-hair and wearing a white top lies in the grass , holding a flower stem . | une jeune fille avec des cheveux blonds bouclés et un haut blanc est allongée dans l&apos; herbe , tenant la tige d&apos; une fleur . | 4620293662.jpg
+exercise | exercice | a young women &apos;s soccer team with green uniforms is performing a stretching exercise . | une jeune équipe féminine de football avec des maillots verts fait un exercice d&apos; étirement . | 462879289.jpg
+scene | scène | a woman acts out a dramatic scene in public behind yellow caution tape . | une femme joue une scène dramatique en public derrière un ruban de sécurité jaune . | 4630824427.jpg
+tape | ruban | a woman acts out a dramatic scene in public behind yellow caution tape . | une femme joue une scène dramatique en public derrière un ruban de sécurité jaune . | 4630824427.jpg
+field | terrain | a group of men standing on a field of black balls . | un groupe d&apos; hommes debout sur un terrain avec des boules noires . | 4634848106.jpg
+city | ville | a busy day for citizens at a local city court . | une journée bien remplie pour les citoyens de cette ville . | 463551598.jpg
+city | ville | people sit on a bench in a city square with random objects including a lamp and a dressmakers form standing nearby . | des gens sont assis sur un banc sur une place en ville avec des objets divers , dont une lampe et un mannequin de couture , à côté d&apos; eux . | 4639459528.jpg
+square | place | people sit on a bench in a city square with random objects including a lamp and a dressmakers form standing nearby . | des gens sont assis sur un banc sur une place en ville avec des objets divers , dont une lampe et un mannequin de couture , à côté d&apos; eux . | 4639459528.jpg
+lamp | lampe | people sit on a bench in a city square with random objects including a lamp and a dressmakers form standing nearby . | des gens sont assis sur un banc sur une place en ville avec des objets divers , dont une lampe et un mannequin de couture , à côté d&apos; eux . | 4639459528.jpg
+nearby | côté | people sit on a bench in a city square with random objects including a lamp and a dressmakers form standing nearby . | des gens sont assis sur un banc sur une place en ville avec des objets divers , dont une lampe et un mannequin de couture , à côté d&apos; eux . | 4639459528.jpg
+water | eau | a shirtless man in black shorts is standing on the rocky shore to a large body of water . | un homme torse nu en short noir est debout sur le rivage rocheux d&apos; une vaste étendue d&apos; eau . | 4650623132.jpg
+guard | garde | a guard is on the look out while on duty . | un garde est à l&apos; affût pendant son service . | 4653258614.jpg
+pool | billard | people playing pool , one is a man wearing a blue shirt and the others are women but their heads are not within the camera shot . | des gens jouant au billard , l&apos; un est un homme vêtu d&apos; une chemise bleue et les autres sont des femmes , mais leurs têtes n&apos; apparaissent pas sur la photo . | 4654284177.jpg
+shot | photo | people playing pool , one is a man wearing a blue shirt and the others are women but their heads are not within the camera shot . | des gens jouant au billard , l&apos; un est un homme vêtu d&apos; une chemise bleue et les autres sont des femmes , mais leurs têtes n&apos; apparaissent pas sur la photo . | 4654284177.jpg
+front | devant | people are standing in front of a sculpture surrounded by water . | des gens sont debout devant une sculpture entourée d&apos; eau . | 4655102365.jpg
+water | eau | people are standing in front of a sculpture surrounded by water . | des gens sont debout devant une sculpture entourée d&apos; eau . | 4655102365.jpg
+looking | regardant | middle-aged man in white shorts and flip-flops looking up the road | un homme d&apos; âge moyen en short blanc et tongs regardant la route | 4664359066.jpg
+road | route | middle-aged man in white shorts and flip-flops looking up the road | un homme d&apos; âge moyen en short blanc et tongs regardant la route | 4664359066.jpg
+good | bon | two people are spending good time in their boat . | deux personnes passent un bon moment sur leur bateau . | 4671795847.jpg
+time | moment | two people are spending good time in their boat . | deux personnes passent un bon moment sur leur bateau . | 4671795847.jpg
+boat | bateau | two people are spending good time in their boat . | deux personnes passent un bon moment sur leur bateau . | 4671795847.jpg
+city | ville | a man and a woman are standing on the street in the city . | un homme et une femme sont debout dans la rue en ville . | 4675063973.jpg
+station | station | firemen emerge from a subway station . | des pompiers sortent d&apos; une station de métro . | 4679111230.jpg
+wearing | portent | four men , three of whom are wearing prayer caps , are sitting on a blue and olive green patterned mat . | quatre hommes , dont trois portent des kippas , sont assis sur un tapis à motifs bleu et vert olive . | 4683565867.jpg
+mat | tapis | four men , three of whom are wearing prayer caps , are sitting on a blue and olive green patterned mat . | quatre hommes , dont trois portent des kippas , sont assis sur un tapis à motifs bleu et vert olive . | 4683565867.jpg
+outside | dehors | this is a large group of people sitting outside on benches . | c&apos; est un grand groupe de gens assis dehors sur des bancs . | 4687557453.jpg
+cap | casquette | an older man with a cigarette in his mouth and a ball cap inspects his camera . | un homme âgé avec une cigarette à la bouche et une casquette inspecte son appareil photo . | 4689169924.jpg
+case | étui | small orchestra playing with open violin case in front | un petit orchestre jouant avec un étui de violon ouvert devant | 4691655601.jpg
+front | devant | small orchestra playing with open violin case in front | un petit orchestre jouant avec un étui de violon ouvert devant | 4691655601.jpg
+city | ville | two people look on in the nighttime at the lights in a city . | deux personnes regardent les lumières d&apos; une ville la nuit . | 4696109052.jpg
+looking | regardant | two motocross bikers wearing full protective gear , with one in midair after a jump and the other looking down at his motorcycle . | deux coureurs de motocross en tenues de protection intégrales , l&apos; un dans les airs après un saut et l&apos; autre regardant en bas vers sa moto . | 4700788144.jpg
+motorcycle | moto | two motocross bikers wearing full protective gear , with one in midair after a jump and the other looking down at his motorcycle . | deux coureurs de motocross en tenues de protection intégrales , l&apos; un dans les airs après un saut et l&apos; autre regardant en bas vers sa moto . | 4700788144.jpg
+building | bâtiment | two young girls run on a sidewalk outside of a brick building with banners on it . | deux jeunes filles courent sur un trottoir devant un bâtiment en briques avec des bannières dessus . | 4706166634.jpg
+next | côté | a child is laying on the ground next to a stroller . | un enfant est allongé par terre à côté d&apos; une poussette . | 4709819574.jpg
+market | marché | a lot of people at the market looking at various different things . | de nombreuses personnes au marché regardant différentes choses . | 4725026501.jpg
+looking | regardant | a lot of people at the market looking at various different things . | de nombreuses personnes au marché regardant différentes choses . | 4725026501.jpg
+play | jouent | two young men play electric guitars on stage . | deux jeunes hommes jouent de la guitare électrique sur scène . | 4727540499.jpg
+stage | scène | two young men play electric guitars on stage . | deux jeunes hommes jouent de la guitare électrique sur scène . | 4727540499.jpg
+bottle | bouteille | a tattooed man pouring beer out of a bottle into a young man &apos;s mouth . | un homme tatoué versant une bouteille de bière dans la bouche d&apos; un jeune homme . | 4729526023.jpg
+outside | dehors | two people standing outside next to blow up toys and dumpsters . | deux personnes debout dehors à côté de jouets gonflables et de poubelles . | 4730076543.jpg
+next | côté | two people standing outside next to blow up toys and dumpsters . | deux personnes debout dehors à côté de jouets gonflables et de poubelles . | 4730076543.jpg
+bike | vélo | four people are riding bicycles on a bike path near a busy street . | quatre personnes font du vélo sur une piste cyclable près d&apos; une rue très fréquentée . | 4731694958.jpg
+path | piste | four people are riding bicycles on a bike path near a busy street . | quatre personnes font du vélo sur une piste cyclable près d&apos; une rue très fréquentée . | 4731694958.jpg
+crowd | foule | a woman in a red shirt raising her arm to the passing crowd below . | une femme en t-shirt rouge saluant la foule qui passe en bas . | 4733026480.jpg
+hood | capuche | a person in a hood is standing in front of a run down building . | une personne en sweat à capuche est debout en face d&apos; un bâtiment défraîchi . | 4742299638.jpg
+front | face | a person in a hood is standing in front of a run down building . | une personne en sweat à capuche est debout en face d&apos; un bâtiment défraîchi . | 4742299638.jpg
+building | bâtiment | a person in a hood is standing in front of a run down building . | une personne en sweat à capuche est debout en face d&apos; un bâtiment défraîchi . | 4742299638.jpg
+construction | construction | construction workers picketing against pm construction services . | des ouvriers du bâtiment manifestant contre pm construction services . | 4745356451.jpg
+construction | construction | construction workers picketing against pm construction services . | des ouvriers du bâtiment manifestant contre pm construction services . | 4745356451.jpg
+running | course | a man riding a running horse with some other men doing the same behind him . | un homme sur un cheval de course avec d&apos; autres hommes faisant la même chose derrière lui . | 474581065.jpg
+back | dos | a small african child carries a younger child on his back . | un petit enfant africain porte un enfant plus jeune sur son dos . | 47529535.jpg
+front | devant | a person in a bandanna stands on the street in front his things . | une personne avec un bandana est debout dans la rue devant ses affaires . | 4756089619.jpg
+brown | marron | a black dog and a brown dog with a ball . | un chien noir et un chien marron avec un ballon . | 475816542.jpg
+ball | ballon | a black dog and a brown dog with a ball . | un chien noir et un chien marron avec un ballon . | 475816542.jpg
+model | modèle | a man with a black vest holding a model airplane | un homme avec un gilet noir tenant un modèle réduit d&apos; avion | 4758483073.jpg
+field | champ | a man in a field with an airplane in view . | un homme dans un champ avec un avion visible . | 4759256692.jpg
+underground | métro | a man in a suit and tie and a woman with luggage join others in waiting in the london underground . | un homme en costume-cravate et une femme avec des bagages se joignent aux autres pour attendre le métro de londres . | 4762011238.jpg
+grass | herbe | a black dog runs on green grass with a toy in his mouth . | un chien noir court dans l&apos; herbe verte avec un jouet dans sa gueule . | 476760133.jpg
+turn | tour | an oriental traveler awaits his turn at the currency exchange . | un voyageur oriental attend son tour pour changer de l&apos; argent . | 476769369.jpg
+grass | herbe | a dog turns on the grass to persue a flying ball . | un chien tourne sur l&apos; herbe pour poursuivre une balle en l&apos; air . | 477204750.jpg
+ball | balle | a dog turns on the grass to persue a flying ball . | un chien tourne sur l&apos; herbe pour poursuivre une balle en l&apos; air . | 477204750.jpg
+bike | vélo | a large gray sea deck and a guy on the bike . | une grande promenade grise au bord de l&apos; eau et un gars sur le vélo . | 4780620826.jpg
+boat | bateau | a boat with red , white and blue sails docking at a pier . | un bateau avec des voiles rouges , blanches et bleues amarré à un quai . | 4788967636.jpg
+hat | casquette | a man wearing a black hat taking a photo in a busy street . | un homme avec une casquette noire prenant une photo dans une rue très fréquentée . | 4789309483.jpg
+taking | prenant | a man wearing a black hat taking a photo in a busy street . | un homme avec une casquette noire prenant une photo dans une rue très fréquentée . | 4789309483.jpg
+looking | regardant | a man is standing on a busy street looking with his head tilted up . | un homme est debout dans une rue très fréquentée , regardant en hauteur . | 4789959232.jpg
+dress | robe | a woman in black has a little girl in a yellow dress on her shoulders . | une femme en noir porte une petite fille en robe jaune sur ses épaules . | 4795824646.jpg
+fallen | tombé | a fallen dirt biker is aided by another . | un motard qui est tombé est aidé par un autre . | 479807465.jpg
+biker | motard | a fallen dirt biker is aided by another . | un motard qui est tombé est aidé par un autre . | 479807465.jpg
+trail | sentier | three people are walking up a mountain trail , while one woman is looking at her camera . | trois personnes gravissent un sentier de montagne , tandis qu&apos; une femme regarde son appareil photo . | 4798837062.jpg
+wearing | portant | several asian men wearing black clothing in some kind of station . | plusieurs hommes asiatiques portant des vêtements noirs dans une sorte de gare . | 4798986110.jpg
+station | gare | several asian men wearing black clothing in some kind of station . | plusieurs hommes asiatiques portant des vêtements noirs dans une sorte de gare . | 4798986110.jpg
+dress | robe | people cooling off in a fountain , a woman in a white dress sits on the edge looking on . | des gens se rafraîchissant dans une fontaine , une femme en robe blanche est assise sur le bord en train de les regarder . | 4805078127.jpg
+looking | regarder | people cooling off in a fountain , a woman in a white dress sits on the edge looking on . | des gens se rafraîchissant dans une fontaine , une femme en robe blanche est assise sur le bord en train de les regarder . | 4805078127.jpg
+hold | tiennent | three men in red and white striped shirts , white pants , and black hats hold flags . | trois hommes avec des maillots rayés rouges et blancs , des pantalons blancs et des chapeaux noirs tiennent des drapeaux . | 4806000438.jpg
+busy | fréquenté | busy asian mall with paper lanterns and shoppers . | un centre commercial asiatique très fréquenté avec des lanternes en papier et des clients . | 4808278005.jpg
+hat | chapeau | a man with a hat is playing the drum in the street . | un homme avec un chapeau joue du tambour dans la rue . | 4813957025.jpg
+drum | tambour | a man with a hat is playing the drum in the street . | un homme avec un chapeau joue du tambour dans la rue . | 4813957025.jpg
+front | devant | a smiling man wearing a backpack holds his fists up in front of a boy in glasses . | un homme souriant avec un sac à dos lève son poing devant un garçon à lunettes . | 4814335297.jpg
+outside | dehors | four men are outside looking down over the green bridge they are on . | quatre hommes sont dehors , regardant vers le bas depuis le pont vert où ils se trouvent . | 4814603619.jpg
+looking | regardant | four men are outside looking down over the green bridge they are on . | quatre hommes sont dehors , regardant vers le bas depuis le pont vert où ils se trouvent . | 4814603619.jpg
+towel | serviette | a woman lounges on a towel in front of people enjoying the blue water . | une femme se prélasse sur une serviette devant des gens profitant de l&apos; eau bleue . | 4814933116.jpg
+front | devant | a woman lounges on a towel in front of people enjoying the blue water . | une femme se prélasse sur une serviette devant des gens profitant de l&apos; eau bleue . | 4814933116.jpg
+water | eau | a woman lounges on a towel in front of people enjoying the blue water . | une femme se prélasse sur une serviette devant des gens profitant de l&apos; eau bleue . | 4814933116.jpg
+running | court | an adult australian shepherd follows behind a running australian shepherd puppy . | un berger australien adulte suit un petit berger australien qui court . | 481632457.jpg
+bistro | bistrot | fall shoppers and bistro food lovers caught in the ebb and flow of the city . | des clients et des amateurs de cuisine de bistrot pris dans les fluctuations de la ville . | 4817447781.jpg
+city | ville | fall shoppers and bistro food lovers caught in the ebb and flow of the city . | des clients et des amateurs de cuisine de bistrot pris dans les fluctuations de la ville . | 4817447781.jpg
+bike | moto | a policeman is on a bike waiting for the light to change . | un policier est sur une moto , attendant que le feu passe au vert . | 4821487527.jpg
+park | parc | high class group of business people including older men have drinks in park . | un groupe d&apos; entrepreneurs de la haute société , incluant des hommes âgés , prennent un verre dans un parc . | 4824522315.jpg
+talking | parlant | woman talking to friend while walking dog outside on a sunny day . | une femme parlant à une amie tout en promenant son chien dehors par une journée ensoleillée . | 4826547083.jpg
+outside | dehors | woman talking to friend while walking dog outside on a sunny day . | une femme parlant à une amie tout en promenant son chien dehors par une journée ensoleillée . | 4826547083.jpg
+motorcycle | moto | two people are riding a motorcycle along with many other riders . | deux personnes sont sur une moto parmi de nombreux autres motards . | 4830409466.jpg
+rimmed | monture | the lady wearing black rimmed glasses and a yellow sweater jacket looks confused as she sits on the tan covered bench . | la femme avec des lunettes à monture noire et une veste tricotée jaune semble désorientée tandis qu&apos; elle est assise sur un banc beige en intérieur . | 4846324908.jpg
+tan | beige | the lady wearing black rimmed glasses and a yellow sweater jacket looks confused as she sits on the tan covered bench . | la femme avec des lunettes à monture noire et une veste tricotée jaune semble désorientée tandis qu&apos; elle est assise sur un banc beige en intérieur . | 4846324908.jpg
+city | ville | two men and a woman are walking down a city street . | deux hommes et une femme marchent dans une rue en ville . | 4854547386.jpg
+hat | casquette | a young boy in a red hat rides on a horse . | un jeune garçon en casquette rouge monte un cheval . | 4859764297.jpg
+hat | chapeau | old man wearing a hat and coat sleeping sitting up on a sofa . | un vieil homme avec un chapeau et un manteau dormant assis sur un canapé . | 4862204000.jpg
+warm | réchauffer | two boys are looking up at the sky and waving theirs arms and they are dressed in clothes to keep them warm . | deux garçons regardent vers le ciel et agitent les bras , et ils portent des vêtements pour se réchauffer . | 4864584935.jpg
+couple | couple | a young couple sits on the sidewalk and relaxes together . | un jeune couple est assis sur le trottoir et se détend . | 4868221344.jpg
+tie | cravate | a youth wearing a shirt and tie crouching down and giving the peace sign . | un jeune vêtu d&apos; une chemise blanche et d&apos; une cravate accroupi et faisant le signe de la paix . | 4869914617.jpg
+sign | signe | a youth wearing a shirt and tie crouching down and giving the peace sign . | un jeune vêtu d&apos; une chemise blanche et d&apos; une cravate accroupi et faisant le signe de la paix . | 4869914617.jpg
+bar | bar | three people sitting at a table outside bar gelati tabacchi . | trois personnes assises à une table devant bar gelati tabacchi . | 4871230195.jpg
+front | devant | a man walking in front of a colorful wall mural . | un homme marchant devant une fresque murale colorée . | 4882632874.jpg
+brown | marron | five people walking up a set of stairs led by a woman in a pink shirt and brown skirt . | cinq personnes montant un escalier , avec en tête une femme en t-shirt rose et jupe marron . | 4890769146.jpg
+market | marché | a group of people at an outdoor fruit market | un groupe de personnes sur un marché de fruits en plein air | 4892698507.jpg
+front | avant | a man driving a four wheeled vehicle with four passengers riding on the front and a man sitting sideways on the back . | un homme conduisant un véhicule à quatre roues avec quatre passagers à l&apos; avant et un homme assis de biais à l&apos; arrière . | 4899074189.jpg
+back | arrière | a man driving a four wheeled vehicle with four passengers riding on the front and a man sitting sideways on the back . | un homme conduisant un véhicule à quatre roues avec quatre passagers à l&apos; avant et un homme assis de biais à l&apos; arrière . | 4899074189.jpg
+platform | plate-forme | a man seated on a platform with wheels is being pulled by a burrow . | un homme assis sur une plate-forme avec des roues est tiré par un âne . | 4915716087.jpg
+umbrella | parapluie | two men in suits under an umbrella and in front of graffiti . | deux hommes en costumes sous un parapluie et devant des graffitis . | 4928592495.jpg
+front | devant | two men in suits under an umbrella and in front of graffiti . | deux hommes en costumes sous un parapluie et devant des graffitis . | 4928592495.jpg
+skinny | frêle | an old skinny man wearing the dirty white shirt riding on a bicycle on the street | un vieil homme frêle vêtu d&apos; un débardeur blanc sale faisant du vélo dans la rue | 4930533574.jpg
+dirty | sale | an old skinny man wearing the dirty white shirt riding on a bicycle on the street | un vieil homme frêle vêtu d&apos; un débardeur blanc sale faisant du vélo dans la rue | 4930533574.jpg
+rope | lasso | on horseback a man attempts to rope a young bull . | un homme à cheval tente d&apos; attraper un jeune taureau au lasso . | 4931239366.jpg
+calf | veau | a cowboy is attempting to lasso a calf while riding a horse . | un cowboy à cheval tente d&apos; attraper un veau au lasso . | 4931319718.jpg
+country | campagne | two bicyclists with helmets on are riding past some empty country fields . | deux cyclistes avec des casques passent en vélo devant des champs déserts en campagne . | 4931839897.jpg
+park | parc | a man in a motor cart rides by to witness the park area . | un homme en voiturette électrique passe pour regarder ce qui se passe dans le parc . | 4937639267.jpg
+looking | regardant | a man in a black shirt and jeans standing on the sidewalk looking at the camera . | un homme en t-shirt noir et jean debout sur le trottoir , regardant l&apos; objectif . | 4950715878.jpg
+dirt | terre | two women are walking in dirt outside a large building . | deux femmes marchent dans la terre devant un grand bâtiment . | 4954827712.jpg
+building | bâtiment | two women are walking in dirt outside a large building . | deux femmes marchent dans la terre devant un grand bâtiment . | 4954827712.jpg
+road | route | a group of men and a child in white shirts are standing in the road . | un groupe d&apos; hommes et un enfant en t-shirts blancs sont debout sur la route . | 4965629392.jpg
+wearing | portant | a woman wearing all black and carrying a black bag on sidewalk | une femme vêtue tout en noir et portant un sac noir sur le trottoir | 4971580248.jpg
+building | bâtiment | a mural on the side of a building . | une fresque sur la façade d&apos; un bâtiment . | 4979311570.jpg
+wearing | portant | an asian man wearing gloves is working at a food stall . | un homme asiatique portant des gants travaille sur un stand alimentaire . | 4980430291.jpg
+desk | bureau | a person is looking at the computer on a desk with a phone and a box . | une personne regarde l&apos; ordinateur sur un bureau avec un téléphone et une box internet . | 499340051.jpg
+watching | regardant | a man sits in a chair watching people stroll by . | un homme est assis sur une chaise , regardant les gens passer . | 502529086.jpg
+wearing | portant | two people wearing hats are standing in a field tending to a crop . | deux personnes portant des chapeaux sont debout dans un champ , s&apos; occupant de leurs cultures . | 5026046208.jpg
+field | champ | two people wearing hats are standing in a field tending to a crop . | deux personnes portant des chapeaux sont debout dans un champ , s&apos; occupant de leurs cultures . | 5026046208.jpg
+bar | barre | some leaping over a high bar in barcelona . | quelqu&apos; un sautant par-dessus une haute barre à barcelone . | 5060850038.jpg
+hat | chapeau | a man dressed in boots and a cowboy hat sits atop a horse that is jumping while spectators sit in the stands . | un homme avec des bottes et un chapeau de cow-boy est assis sur un cheval qui saute tandis que des spectateurs sont assis dans les gradins . | 508793006.jpg
+field | terrain | three children in football uniforms of two different teams are playing football on a football field , while another player and an adult stand in the background . | trois enfants avec des tenues de deux équipes différentes jouent au football américain sur un terrain , tandis qu&apos; un autre joueur et un adulte sont debout en arrière-plan . | 5094295894.jpg
+dirty | sale | a young child with a dirty face being held by an old woman . | un jeune enfant avec le visage sale , tenu par une femme âgée . | 5103930077.jpg
+face | visage | a young child with a dirty face being held by an old woman . | un jeune enfant avec le visage sale , tenu par une femme âgée . | 5103930077.jpg
+hat | casquette | a young boy wearing a blue hat is looking through a telescope while another boy watches . | un jeune garçon avec une casquette bleue regarde dans un télescope tandis qu&apos; un autre garçon regarde . | 5122705505.jpg
+cooking | cuisinant | 3 men cooking in a small kitchen . | trois hommes cuisinant dans une petite cuisine . | 5126446040.jpg
+cooking | cuisine | 3 men cooking in a small kitchen . | trois hommes cuisinant dans une petite cuisine . | 5126446040.jpg
+market | marché | in a outdoor market two men shovel snow and slush out of the path . | sur un marché en plein air , deux hommes enlèvent la neige et la gadoue avec des pelles . | 5238681042.jpg
+snow | neige | in a outdoor market two men shovel snow and slush out of the path . | sur un marché en plein air , deux hommes enlèvent la neige et la gadoue avec des pelles . | 5238681042.jpg
+dock | quai | a little boy jumping off of a dock into a lake . | un petit garçon sautant d&apos; un quai dans un lac . | 529101401.jpg
+hat | bonnet | a man with an orange jacket and blue hat climbing a snowy mountain . | un homme avec une veste orange et un bonnet bleu escaladant une montagne enneigée . | 5323049335.jpg
+bike | vélo | a child is riding a bike down an alleyway with graffiti in it . | un enfant fait du vélo dans une ruelle avec des graffitis . | 533508800.jpg
+next | côté | man clothed in a traditional dress like attire , while standing next to his mule who also seems to be clothed as well . | un homme vêtu d&apos; une sorte de costume traditionnel , debout à côté de sa mule qui semble être vêtue de la même façon . | 5350403659.jpg
+field | terrain | two men on opposing teams are playing soccer in a field . | deux hommes d&apos; équipes opposées jouent au football sur un terrain . | 5369771639.jpg
+water | eau | the girl is taking a drink from a water fountain . | la fille boit de l&apos; eau à une fontaine . | 538825260.jpg
+water | eau | the spelunker finds water during his trek . | le spéléologue trouve de l&apos; eau durant son périple . | 539676201.jpg
+lab | laboratoire | a man in a lab coat is looking through a microscope . | un homme en blouse de laboratoire regarde dans un microscope . | 5428390334.jpg
+brown | marron | a blond girl sleeps on a brown couch . | une fille blonde dort sur un canapé marron . | 54817316.jpg
+building | bâtiment | a man sweeps a sidewalk outside of a brick building during the day . | un homme balaie un trottoir devant un bâtiment en briques pendant la journée . | 5489602545.jpg
+cooking | cuisine | three men are cooking in a kitchen . | trois hommes cuisinent dans une cuisine . | 5491874786.jpg
+front | devant | a man on a scaffold in front of a house is smiling and posing for the photographer . | un homme sur un échafaudage devant une maison sourit et pose pour le photographe . | 5498941021.jpg
+pool | piscine | two girls in shorts are holding hands at a pool . | deux filles en shorts se tiennent la main à la piscine . | 5501939468.jpg
+wearing | portant | a young boy , wearing a chef &apos;s hat and apron , is cutting sausages in a kitchen . | un jeune garçon , portant une toque et un tablier , coupe des saucisses dans une cuisine . | 5510073103.jpg
+dirt | terre | a yellow bulldozer working to move dirt . | un bulldozer jaune déplaçant de la terre . | 5566972.jpg
+pool | piscine | a girl plays in a small pool . | une fille joue dans une petite piscine . | 562588230.jpg
+fishing | pêche | a man throws a fishing net into the bay . | un homme jette un filet de pêche dans la baie . | 566945636.jpg
+wearing | portant | a man wearing a gray shirt , blue jeans and a neon green safety vest is standing on a railroad track with a white truck and a white building in the background . | un homme portant un t-shirt gris , un jean et un gilet de sécurité vert fluo est debout sur une voie ferrée avec un camion blanc et un bâtiment blanc en arrière-plan . | 567903453.jpg
+track | voie | a man wearing a gray shirt , blue jeans and a neon green safety vest is standing on a railroad track with a white truck and a white building in the background . | un homme portant un t-shirt gris , un jean et un gilet de sécurité vert fluo est debout sur une voie ferrée avec un camion blanc et un bâtiment blanc en arrière-plan . | 567903453.jpg
+truck | camion | a man wearing a gray shirt , blue jeans and a neon green safety vest is standing on a railroad track with a white truck and a white building in the background . | un homme portant un t-shirt gris , un jean et un gilet de sécurité vert fluo est debout sur une voie ferrée avec un camion blanc et un bâtiment blanc en arrière-plan . | 567903453.jpg
+building | bâtiment | a man wearing a gray shirt , blue jeans and a neon green safety vest is standing on a railroad track with a white truck and a white building in the background . | un homme portant un t-shirt gris , un jean et un gilet de sécurité vert fluo est debout sur une voie ferrée avec un camion blanc et un bâtiment blanc en arrière-plan . | 567903453.jpg
+band | groupe | there is a band on stage with band members wearing hints of blue . | il y a un groupe sur scène , dont les membres portent des touches de bleu . | 5745120660.jpg
+stage | scène | there is a band on stage with band members wearing hints of blue . | il y a un groupe sur scène , dont les membres portent des touches de bleu . | 5745120660.jpg
+band | groupe | there is a band on stage with band members wearing hints of blue . | il y a un groupe sur scène , dont les membres portent des touches de bleu . | 5745120660.jpg
+wearing | portent | there is a band on stage with band members wearing hints of blue . | il y a un groupe sur scène , dont les membres portent des touches de bleu . | 5745120660.jpg
+microphone | micro | a rocker with his shirt off sings into a microphone while he plays the drums . | un rocker torse nu chante dans un micro tout en jouant de la batterie . | 5747873823.jpg
+walk | promenade | the man with the cane is on a walk . | l&apos; homme avec la canne fait une promenade . | 5791274887.jpg
+move | mouvement | two girls , one older and in black and one younger and in white , are performing the same ballet move in front of decorations made from balloons . | deux filles , une plus âgée en noir et une plus jeune en blanc , font le même mouvement de ballet devant des décorations en ballons . | 5829317322.jpg
+front | devant | two girls , one older and in black and one younger and in white , are performing the same ballet move in front of decorations made from balloons . | deux filles , une plus âgée en noir et une plus jeune en blanc , font le même mouvement de ballet devant des décorations en ballons . | 5829317322.jpg
+front | devant | several women are performing a dance in front of a building . | plusieurs femmes exécutent une danse devant un bâtiment . | 5829827359.jpg
+building | bâtiment | several women are performing a dance in front of a building . | plusieurs femmes exécutent une danse devant un bâtiment . | 5829827359.jpg
+city | ville | a bald man walking down a city sidewalk while talking on his cellphone . | un homme chauve marchant sur un trottoir en ville tout en parlant sur son téléphone portable . | 583865081.jpg
+talking | parlant | a bald man walking down a city sidewalk while talking on his cellphone . | un homme chauve marchant sur un trottoir en ville tout en parlant sur son téléphone portable . | 583865081.jpg
+watch | regardent | a group of people watch young men play the drums using makeshift buckets as instruments . | un groupe de personnes regardent des jeunes hommes jouer des percussions en utilisant des seaux de fortune comme instruments . | 58803866.jpg
+play | jouer | a group of people watch young men play the drums using makeshift buckets as instruments . | un groupe de personnes regardent des jeunes hommes jouer des percussions en utilisant des seaux de fortune comme instruments . | 58803866.jpg
+train | train | a small white car is on the train tracks and may or may not have been hit by the train behind it . | une petite voiture blanche est sur les rails et est susceptible d&apos; avoir été heurtée ou non par le train derrière elle . | 5984974054.jpg
+train | train | a small white car is on the train tracks and may or may not have been hit by the train behind it . | une petite voiture blanche est sur les rails et est susceptible d&apos; avoir été heurtée ou non par le train derrière elle . | 5984974054.jpg
+singing | chantent | two rockers are singing and playing on a dark stage . | deux rockers chantent et jouent sur une scène sombre . | 5986222648.jpg
+stage | scène | two rockers are singing and playing on a dark stage . | deux rockers chantent et jouent sur une scène sombre . | 5986222648.jpg
+cap | casquette | a girl wearing a baseball cap , white t-shirt and blue shorts is standing in a rock-bottomed , forest-lined mountain stream . | une fille vêtue d&apos; une casquette , d&apos; un t-shirt blanc et d&apos; un short bleu est debout dans un torrent avec des rochers , bordé par la forêt . | 5995817000.jpg
+front | devant | two men playing guitar in front of a large audience . | deux hommes jouant de la guitare devant un public nombreux . | 6041486114.jpg
+number | nombre | a number of people are dancing with their significant others in front of this huge house . | un certain nombre de gens dansent avec leurs moitiés devant cette immense maison . | 6056788662.jpg
+front | devant | a number of people are dancing with their significant others in front of this huge house . | un certain nombre de gens dansent avec leurs moitiés devant cette immense maison . | 6056788662.jpg
+old | vieux | woman and dog selling her wares on the old building steps outside . | une femme avec un chien vendant ses marchandises sur les marches d&apos; un vieux bâtiment dehors . | 6099093979.jpg
+building | bâtiment | woman and dog selling her wares on the old building steps outside . | une femme avec un chien vendant ses marchandises sur les marches d&apos; un vieux bâtiment dehors . | 6099093979.jpg
+outside | dehors | woman and dog selling her wares on the old building steps outside . | une femme avec un chien vendant ses marchandises sur les marches d&apos; un vieux bâtiment dehors . | 6099093979.jpg
+number | numéro | a guy dressed in a white uniform with a number 3 on it playing soccer . | un gars vêtu d&apos; une tenue blanche avec le numéro 3 en train de jouer au football . | 6224066807.jpg
+ball | ballon | two males from the green team tackles the other members from black team for the ball in a game of rugby . | deux hommes de l&apos; équipe verte plaquent les autres membres de l&apos; équipe noire pour récupérer le ballon lors d&apos; un match de rugby . | 6250527395.jpg
+ball | ballon | kids compete to gain possession of the soccer ball . | des enfants se battent pour récupérer le ballon de football . | 6275000713.jpg
+ball | boule | a person in blue is the only person currently throwing their ball at a bowling alley . | une personne en bleu est la seule personne en train de lancer sa boule dans un bowling . | 6278649113.jpg
+field | terrain | several football players on a field in action . | plusieurs joueurs de football en action sur un terrain . | 6312211170.jpg
+perform | produire | this band is getting ready to perform in front of an audience at church . | cet ensemble s&apos; apprête à se produire devant un public à l&apos; église . | 6337111139.jpg
+front | devant | this band is getting ready to perform in front of an audience at church . | cet ensemble s&apos; apprête à se produire devant un public à l&apos; église . | 6337111139.jpg
+path | piste | two male curling players are on ice sweeping the path in front of polished rock , a small crowd watches . | deux joueurs de curling sont sur la glace en train de balayer la piste devant une pierre polie , et une petite foule regarde . | 6439261679.jpg
+front | devant | two male curling players are on ice sweeping the path in front of polished rock , a small crowd watches . | deux joueurs de curling sont sur la glace en train de balayer la piste devant une pierre polie , et une petite foule regarde . | 6439261679.jpg
+crowd | foule | two male curling players are on ice sweeping the path in front of polished rock , a small crowd watches . | deux joueurs de curling sont sur la glace en train de balayer la piste devant une pierre polie , et une petite foule regarde . | 6439261679.jpg
+play | jouent | men play soccer on a muddy field . | des hommes jouent au football sur un terrain boueux . | 6453399365.jpg
+field | terrain | men play soccer on a muddy field . | des hommes jouent au football sur un terrain boueux . | 6453399365.jpg
+city | ville | people walk through an arch in an old-looking city . | des gens passent sous une arche dans une ville ayant l&apos; air ancienne . | 6486182665.jpg
+race | course | two race cars , one red and one blue , are driving side by side down a racetrack while being watched by several onlookers . | deux voitures de course , une rouge et une bleue , roulent côte à côte sur un circuit tandis qu&apos; elles sont regardées par plusieurs spectateurs . | 6489895665.jpg
+racetrack | circuit | two race cars , one red and one blue , are driving side by side down a racetrack while being watched by several onlookers . | deux voitures de course , une rouge et une bleue , roulent côte à côte sur un circuit tandis qu&apos; elles sont regardées par plusieurs spectateurs . | 6489895665.jpg
+watching | regardant | a hockey game is being played with lots of people watching it . | un match de hockey se joue , avec beaucoup de personnes le regardant . | 6514004309.jpg
+grass | herbe | three woman bouncing on balls in the grass . | trois femmes rebondissant sur des ballons dans l&apos; herbe . | 6515331737.jpg
+wearing | portant | an african-american boy wearing blue shorts , a black and red shirt , and white sneakers , is playing tennis . | un garçon afro-américain portant un short bleu , un t-shirt rouge et noir et des tennis blanches joue au tennis . | 6556870225.jpg
+talking | parlant | a man talking to a family unit holding some sort of probing device as they look on and smile to be polite . | un homme parlant à une famille en tenant une espèce de sonde , tandis qu&apos; ils le regardent et sourient pour être polis . | 6586954247.jpg
+area | zone | a woman is skying in a snowy area wearing warm clothing . | une femme avec des vêtements chauds skie dans une zone enneigée . | 6699112713.jpg
+stop | arrêter | a man wearing black and white stripes is trying to stop a horse . | un homme avec des rayures noires et blanches tente d&apos; arrêter un cheval . | 6818129694.jpg
+water | eau | a woman with red-hair is neck deep in cloudy blue water . | une femme rousse est dans de l&apos; eau bleue trouble jusqu&apos; au cou . | 6853360659.jpg
+watch | regardent | four children practice karate while two adults watch . | quatre enfants s&apos; entraînent au karaté tandis que deux adultes regardent . | 6889322961.jpg
+talking | parlant | a group of people talking at tables . | un groupe de personnes parlant à des tables . | 6917718093.jpg
+brown | marron | two horse racing jockeys , one in checkered blue and red and the other in orange and brown , are racing against a blurry background . | deux coureurs hippiques , l&apos; un en tenue bleue et rouge à carreaux et l&apos; autre en orange et marron , font une course devant un arrière-plan flou . | 6918264972.jpg
+help | aider | a large bull targets a man , inches away , in a rodeo with his horns , while a rodeo clown runs to help . | lors d&apos; un rodéo , un gros taureau se dirige les cornes en avant vers un homme à quelques centimètres , tandis qu&apos; un clown de rodéo court pour aider . | 6956989138.jpg
+wall | muret | a child in blue and a child in white stand on a short concrete wall by a stream . | un enfant en bleu et un enfant en blanc sont debout sur un muret en béton au bord d&apos; un ruisseau . | 6999596517.jpg
+design | motif | a woman draws a floral design on a clay pot . | une femme dessine un motif floral sur un vase en argile . | 7001949951.jpg
+foreign | étranger | people are walking down a busy street in a foreign country . | des gens marchent dans une rue très fréquentée dans un pays étranger . | 7003919692.jpg
+country | pays | people are walking down a busy street in a foreign country . | des gens marchent dans une rue très fréquentée dans un pays étranger . | 7003919692.jpg
+boat | bateau | a man is standing in a boat holding some netting . | un homme est debout sur un bateau , tenant des filets . | 7037413229.jpg
+surfer | surfeur | a surfer who fell off his surfboard in the ocean while trying to ride a wave . | un surfeur qui est tombé de sa planche dans l&apos; océan en essayant de surfer une vague . | 7052724381.jpg
+wave | vague | a surfer who fell off his surfboard in the ocean while trying to ride a wave . | un surfeur qui est tombé de sa planche dans l&apos; océan en essayant de surfer une vague . | 7052724381.jpg
+sample | échantillon | a technician preparing a sample in the lab . | un technicien préparant un échantillon au laboratoire . | 7072093125.jpg
+lab | laboratoire | a technician preparing a sample in the lab . | un technicien préparant un échantillon au laboratoire . | 7072093125.jpg
+hit | frapper | soccer players are jumping in the air to hit the ball with their heads . | des footballeurs sautent en l&apos; air pour frapper le ballon avec leurs têtes . | 7099368287.jpg
+ball | ballon | soccer players are jumping in the air to hit the ball with their heads . | des footballeurs sautent en l&apos; air pour frapper le ballon avec leurs têtes . | 7099368287.jpg
+play | jouent | two boys play soccer against each other . | deux garçons jouent au football l&apos; un contre l&apos; autre . | 7130336193.jpg
+umbrella | parapluie | an elderly person is crossing a street with an umbrella in their hands . | une personne âgée traverse une rue avec un parapluie à la main . | 7131011211.jpg
+wall | mur | a skateboarder rides up a concrete wall , nearly falling off as he tries a trick . | un skateur monte un mur de béton , et est proche de tomber tandis qu&apos; il tente une figure . | 7187734520.jpg
+pool | piscine | people playing a game in the pool . | des gens jouant à un jeu dans la piscine . | 7194590496.jpg
+area | zone | a young man in a blue shirt grinds a rail on a skateboard in an urban area . | un jeune homme en t-shirt bleu glisse sur une rampe avec un skateboard dans une zone urbaine . | 7292785488.jpg
+hat | chapeau | a british gentleman , dressed in full military uniform , waving his hat with a background of people sitting back and looking out onto the waterway . | un gentleman britannique , en tenue militaire complète , agitant son chapeau avec un arrière-plan de gens assis et regardant le cours d&apos; eau . | 7329031116.jpg
+looking | regardant | a british gentleman , dressed in full military uniform , waving his hat with a background of people sitting back and looking out onto the waterway . | un gentleman britannique , en tenue militaire complète , agitant son chapeau avec un arrière-plan de gens assis et regardant le cours d&apos; eau . | 7329031116.jpg
+racetrack | circuit | two cars are driving on a racetrack . | deux voitures roulent sur un circuit . | 7330749240.jpg
+ski | ski | a man in a black and white jersey is holding yellow ski poles and preparing to take off . | un homme en maillot noir et blanc tient des bâtons de ski jaunes et se prépare à s&apos; élancer . | 7333716086.jpg
+lawn | pelouse | two people are laying down and kissing on a grassy lawn . | deux personnes sont allongées et s&apos; embrassent sur une pelouse . | 733965014.jpg
+cap | casquette | a very young child in a denim baseball cap eats a green apple . | un très jeune enfant avec une casquette en jean mange une pomme verte . | 7348289414.jpg
+get | récupérer | the football players are running to get the ball . | les joueurs de football américain courent pour récupérer le ballon . | 7393977570.jpg
+ball | ballon | the football players are running to get the ball . | les joueurs de football américain courent pour récupérer le ballon . | 7393977570.jpg
+hat | casquette | a man in a black jacket and checkered hat wearing black and white striped pants plays an electric guitar on a stage with a singer and another guitar player in the background . | un homme avec une veste noire , une casquette à carreaux et un pantalon rayé noir et blanc joue de la guitare électrique sur une scène avec un chanteur et un autre guitariste en arrière-plan . | 7438195398.jpg
+stage | scène | a man in a black jacket and checkered hat wearing black and white striped pants plays an electric guitar on a stage with a singer and another guitar player in the background . | un homme avec une veste noire , une casquette à carreaux et un pantalon rayé noir et blanc joue de la guitare électrique sur une scène avec un chanteur et un autre guitariste en arrière-plan . | 7438195398.jpg
+load | chargement | a man is carrying a large load of metal beams on his shoulder through a lumberyard . | un homme porte un gros chargement de poutres métalliques sur son épaule dans une scierie . | 7559183044.jpg
+brown | brun | woman with camera is throwing a frisbee for her brown dog to catch . | une femme avec un appareil photo lance un frisbee pour que son chien brun l&apos; attrape . | 756521713.jpg
+male | homme | there is an outline of a male and female observing a bonfire or other large burning wooden object . | il y a la silhouette d&apos; un homme et d&apos; une femme observant un brasier ou d&apos; autres gros objet en bois en train de brûler . | 7567712136.jpg
+female | femme | there is an outline of a male and female observing a bonfire or other large burning wooden object . | il y a la silhouette d&apos; un homme et d&apos; une femme observant un brasier ou d&apos; autres gros objet en bois en train de brûler . | 7567712136.jpg
+wet | mouillé | a wet , smiling child without a shirt poses with arms raised . | un enfant mouillé , torse nu et souriant pose avec les bras levés . | 766061382.jpg
+hit | frapper | a woman in a red bikini jumping to hit a ball while playing volleyball at a beach . | une femme en bikini rouge sautant pour frapper un ballon tandis qu&apos; elle joue au beach volley . | 7694340978.jpg
+ball | ballon | a woman in a red bikini jumping to hit a ball while playing volleyball at a beach . | une femme en bikini rouge sautant pour frapper un ballon tandis qu&apos; elle joue au beach volley . | 7694340978.jpg
+city | ville | two african american females ride on a moped down a city street that appears to be in a well congested area of a large city area . | deux femmes afro-américaines sur un scooter , dans une rue qui semble se trouver dans une zone encombrée d&apos; une grande ville . | 7764093618.jpg
+area | zone | two african american females ride on a moped down a city street that appears to be in a well congested area of a large city area . | deux femmes afro-américaines sur un scooter , dans une rue qui semble se trouver dans une zone encombrée d&apos; une grande ville . | 7764093618.jpg
+city | ville | two african american females ride on a moped down a city street that appears to be in a well congested area of a large city area . | deux femmes afro-américaines sur un scooter , dans une rue qui semble se trouver dans une zone encombrée d&apos; une grande ville . | 7764093618.jpg
+area | zone | two african american females ride on a moped down a city street that appears to be in a well congested area of a large city area . | deux femmes afro-américaines sur un scooter , dans une rue qui semble se trouver dans une zone encombrée d&apos; une grande ville . | 7764093618.jpg
+front | devant | two boys in front of a soda machine . | deux garçons devant une machine à soda . | 783994497.jpg
+machine | machine | two boys in front of a soda machine . | deux garçons devant une machine à soda . | 783994497.jpg
+rider | coureur | bicycle rider wearing black , riding down a dirt trail in a mountain bike . | un coureur cycliste vêtu de noir roulant sur une piste en terre en vtt . | 7890007278.jpg
+rider | cycliste | bicycle rider wearing black , riding down a dirt trail in a mountain bike . | un coureur cycliste vêtu de noir roulant sur une piste en terre en vtt . | 7890007278.jpg
+dirt | terre | bicycle rider wearing black , riding down a dirt trail in a mountain bike . | un coureur cycliste vêtu de noir roulant sur une piste en terre en vtt . | 7890007278.jpg
+trail | piste | bicycle rider wearing black , riding down a dirt trail in a mountain bike . | un coureur cycliste vêtu de noir roulant sur une piste en terre en vtt . | 7890007278.jpg
+bike | vtt | bicycle rider wearing black , riding down a dirt trail in a mountain bike . | un coureur cycliste vêtu de noir roulant sur une piste en terre en vtt . | 7890007278.jpg
+painting | tableau | a lady with tattoos is taking a picture of a painting with her smartphone . | une femme avec des tatouages prend une photo d&apos; un tableau avec son smartphone . | 7900347098.jpg
+bike | vélo | a woman in a mostly black outfit and white helmet riding a bike with blurred trees in the background . | une femme avec une tenue essentiellement noire et un casque faisant du vélo avec des arbres flous en arrière-plan . | 7988586396.jpg
+bend | virage | a team of cyclists rounds a bend while nearby spectators cheer and take photographs . | une équipe de cyclistes prend un virage , tandis qu&apos; à proximité des spectateurs applaudissent et prennent des photos . | 8016751611.jpg
+nearby | proximité | a team of cyclists rounds a bend while nearby spectators cheer and take photographs . | une équipe de cyclistes prend un virage , tandis qu&apos; à proximité des spectateurs applaudissent et prennent des photos . | 8016751611.jpg
+number | numéro | the basketball player in the white uniform with the number 55 on it is guarding the player in the black uniform with the number 10 on it . | le joueur de basket en tenue blanche avec le numéro 55 défend sur le joueur en tenue noire avec le numéro 10 . | 8132535710.jpg
+number | numéro | the basketball player in the white uniform with the number 55 on it is guarding the player in the black uniform with the number 10 on it . | le joueur de basket en tenue blanche avec le numéro 55 défend sur le joueur en tenue noire avec le numéro 10 . | 8132535710.jpg
+number | numéro | the basketball player in the white uniform with the number 55 on it is guarding the player in the black uniform with the number 10 on it . | le joueur de basket en tenue blanche avec le numéro 55 défend sur le joueur en tenue noire avec le numéro 10 . | 8132535710.jpg
+number | numéro | the basketball player in the white uniform with the number 55 on it is guarding the player in the black uniform with the number 10 on it . | le joueur de basket en tenue blanche avec le numéro 55 défend sur le joueur en tenue noire avec le numéro 10 . | 8132535710.jpg
+outside | dehors | a man is talking on a cellphone outside . | un homme parle sur un téléphone portable dehors . | 8183107966.jpg
+watch | regardent | professional baseball players during the all star game watch an opponent at bat . | des joueurs de base-ball professionnels lors du all star game regardent un adversaire à la batte . | 821071719.jpg
+biker | vététiste | dirt biker makes a sloping turn in a forest during the fall . | un vététiste prend un virage incliné dans une forêt pendant l&apos; automne . | 8220955383.jpg
+turn | virage | dirt biker makes a sloping turn in a forest during the fall . | un vététiste prend un virage incliné dans une forêt pendant l&apos; automne . | 8220955383.jpg
+fall | automne | dirt biker makes a sloping turn in a forest during the fall . | un vététiste prend un virage incliné dans une forêt pendant l&apos; automne . | 8220955383.jpg
+ball | ballon | 3 basketball players vying for the ball and one in red jersey trying to take ball from guy in white jersey . | trois joueurs de basketball s&apos; affrontant pour récupérer le ballon , avec l&apos; un en maillot rouge essayant de prendre le ballon au gars en maillot blanc . | 8234387593.jpg
+ball | ballon | 3 basketball players vying for the ball and one in red jersey trying to take ball from guy in white jersey . | trois joueurs de basketball s&apos; affrontant pour récupérer le ballon , avec l&apos; un en maillot rouge essayant de prendre le ballon au gars en maillot blanc . | 8234387593.jpg
+take | prendre | 3 basketball players vying for the ball and one in red jersey trying to take ball from guy in white jersey . | trois joueurs de basketball s&apos; affrontant pour récupérer le ballon , avec l&apos; un en maillot rouge essayant de prendre le ballon au gars en maillot blanc . | 8234387593.jpg
+ball | ballon | 3 basketball players vying for the ball and one in red jersey trying to take ball from guy in white jersey . | trois joueurs de basketball s&apos; affrontant pour récupérer le ballon , avec l&apos; un en maillot rouge essayant de prendre le ballon au gars en maillot blanc . | 8234387593.jpg
+ball | ballon | 3 basketball players vying for the ball and one in red jersey trying to take ball from guy in white jersey . | trois joueurs de basketball s&apos; affrontant pour récupérer le ballon , avec l&apos; un en maillot rouge essayant de prendre le ballon au gars en maillot blanc . | 8234387593.jpg
+leg | jambe | a boy grabs his leg as he jumps in the air . | un garçon saisit sa jambe tandis qu&apos; il saute en l&apos; air . | 829798661.jpg
+wearing | portant | a man wearing sunglasses is riding a scooter . | un homme portant des lunettes de soleil est sur une trottinette . | 83493458.jpg
+wearing | tenue | a small boy wearing baseball regalia holds a bat behind his head with a baseball mounted in front of him . | un petit garçon en tenue de baseball tient une batte derrière sa tête avec une balle de baseball surélevée devant lui . | 85519095.jpg
+head | tête | a small boy wearing baseball regalia holds a bat behind his head with a baseball mounted in front of him . | un petit garçon en tenue de baseball tient une batte derrière sa tête avec une balle de baseball surélevée devant lui . | 85519095.jpg
+front | devant | a small boy wearing baseball regalia holds a bat behind his head with a baseball mounted in front of him . | un petit garçon en tenue de baseball tient une batte derrière sa tête avec une balle de baseball surélevée devant lui . | 85519095.jpg
+field | champ | six men sit in a field of crops containing wooden crates . | six hommes sont assis dans un champ de cultures où se trouvent des caisses en bois . | 86120845.jpg
+brown | brun | a brown dog picks up a twig from a stone surface . | un chien brun ramasse une brindille sur un revêtement en pierre . | 861661418.jpg
+surface | revêtement | a brown dog picks up a twig from a stone surface . | un chien brun ramasse une brindille sur un revêtement en pierre . | 861661418.jpg
+brown | brun | this is a man dressed in yellow holding the reign of a brown horse | c&apos; est un homme habillé en jaune tenant la bride d&apos; un cheval brun | 862560775.jpg
+city | ville | marathon runners are racing on a city street , with other people standing around . | des marathoniens font une course dans une rue en ville , avec d&apos; autres personnes debout parmi eux . | 900144365.jpg
+bike | vélo | asian woman wearing a sunhat while riding a bike . | une femme asiatique avec un chapeau faisant du vélo . | 94024624.jpg
+outside | dehors | some children are outside playing in the dirt where two trees are . | des enfants sont dehors , jouant dans la terre à côté de deux arbres . | 95758790.jpg
+dirt | terre | some children are outside playing in the dirt where two trees are . | des enfants sont dehors , jouant dans la terre à côté de deux arbres . | 95758790.jpg
